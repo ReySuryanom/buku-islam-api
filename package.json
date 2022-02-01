@@ -1,14 +1,14 @@
 {
   "name": "api-tester",
   "version": "1.0.0",
-  "description": "",
+  "description": "API khusus untuk aplikasi digital perpustakaan islam berbasis Website.",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "dev": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "raihansuryanom@gmail.com",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.2"
