@@ -1,14 +1,14 @@
 {
-  "name": "api-tester",
+  "name": "buku-islam-api",
   "version": "1.0.0",
-  "description": "API khusus untuk aplikasi digital perpustakaan islam berbasis Website.",
+  "description": "API khusus untuk aplikasi digital perpustakaan Islam berbasis Website.",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "dev": "nodemon index.js"
   },
   "keywords": [],
-  "author": "raihansuryanom@gmail.com",
+  "author": "Muhammad Raihan Suryanom<raihansuryanom@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
