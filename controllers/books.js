@@ -11,7 +11,6 @@ export const getBooks = (req, res) => {
       //   users.data.filter(({ firstname }) => firstname === searchQuery).length
       // );
       //   const x = data.
-      console.log(data);
       res.end(data);
     }
   );
