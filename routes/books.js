@@ -7,4 +7,6 @@ router.get('/', getBooks);
 
 router.get('/:id', getBookDetail);
 
+// router.get('/:id/:page', getSpecificContent);
+
 export default router;

@@ -37,7 +37,7 @@ type Book = {
 //     "category": "Ilmu Al-Quran & Tafsir"
 //   },
 //   "tableOfContents": [
-//     { "page": 6, "text": "Pendahuluan", "heading": false },
+//     { "page": 6, "text": "Pendahuluan", "skip": true },
 //     { "page": 6, "text": "Pendahuluan" }
 //   ],
 //   "content": [

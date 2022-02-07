@@ -1,0 +1,99 @@
+[
+  {
+    "id": "134dc976-3421-4aaa-9905-21e8925a2661",
+    "info": {
+      "title": "Al-Quran dan Sains",
+      "author": "Ahmad Sarwat, Lc., MA",
+      "publish": "Wed, 17 February 2021",
+      "pages": 61,
+      "price": 0,
+      "category": "Ilmu Al-Quran & Tafsir"
+    },
+    "tableOfContents": [
+      { "page": 6, "text": "Pendahuluan", "skip": true },
+      {
+        "page": 13,
+        "text": "Perhatian Al-Quran Kepada Sains",
+        "sub": [
+          {
+            "page": 13,
+            "text": "Perintah Memperhatikan Berbagai Objek Penelitian"
+          },
+          { "page": 18, "text": "Al-Quran Memuji Ilmuwan" }
+        ]
+      },
+      {
+        "page": 22,
+        "text": "Ayat Sains vs Ayat Hukum",
+        "sub": [
+          { "page": 22, "text": "Jumlah Ayat Sains" },
+          { "page": 22, "text": "Jumlah Ayat Hukum" }
+        ]
+      },
+      {
+        "page": 26,
+        "text": "Ayat Yang Sejalan Dengan Sains",
+        "sub": [
+          { "page": 26, "text": "Jasad Firaun Masih Utuh" },
+          { "page": 27, "text": "Bertemunya Dua Lautan" },
+          { "page": 27, "text": "Sungai di Bawah Laut" },
+          { "page": 28, "text": "Dasar Lautan yang Gelap" },
+          { "page": 29, "text": "Segala Sesuatu Diciptakan Berpasangan" },
+          { "page": 29, "text": "Proses Kehamilan Manusia" },
+          { "page": 31, "text": "Sidik Jari" },
+          { "page": 31, "text": "Jaringan Syaraf di Kulit" },
+          { "page": 32, "text": "Fenomena Hujan Darah" },
+          { "page": 32, "text": "Garis Edar Tatasurya" },
+          { "page": 33, "text": "Teori Big-Bang" },
+          { "page": 34, "text": "Ruang Angkasa Hampa Udara" },
+          { "page": 34, "text": "Isyarat Penjelahan Ruang Angkasa" },
+          { "page": 35, "text": "Gunung Berjalan Seperti Awan" }
+        ]
+      },
+      {
+        "page": 36,
+        "text": "Ayat Yang 'Bertentangan' Dengan Sains",
+        "sub": [
+          { "page": 36, "text": "Bumi dan Langit Diciptakan Dalam 6 Hari" },
+          { "page": 40, "text": "Matahari Berbgerak Mengelilingi Bumi?" },
+          { "page": 42, "text": "Bentuk Bumi BUlat atau Rata?" },
+          { "page": 44, "text": "Bumi dan Langit ada Tujuh Buah" },
+          { "page": 48, "text": "Langit Diangkat ke Atas Tanpa Tiang" },
+          { "page": 50, "text": "Matahari Terbenam di Laut Berlumpur Hitam?" },
+          { "page": 51, "text": "Gunung Diletakaan dan Jadi Pasak" },
+          { "page": 52, "text": "Gunung Mencegah Gempa Bumi?" },
+          { "page": 53, "text": "Gunung Bergerak Seperti Awan" },
+          { "page": 54, "text": "Besi Diturunkan?" },
+          { "page": 55, "text": "Air Mandi Dari Tulang Sulbi?" }
+        ]
+      },
+      {
+        "page": 56,
+        "text": "Ayat Yang 'Bertentangan' Dengan Sains",
+        "sub": [
+          {
+            "page": 56,
+            "text": "Menolak Kebenaran Sains",
+            "sub": [
+              { "page": 57, "text": "Syeikh Muhammad bin Shalih Al-Utsaimin" },
+              { "page": 61, "text": "Paham Anti Teknologi Barat" }
+            ]
+          },
+          {
+            "page": 62,
+            "text": "Menerima Kebenaran Sains",
+            "sub": [
+              { "page": 63, "text": "Al-Quran Bukan Kitab Sains" },
+              { "page": 63, "text": "Al-Quran Kitab Sastra" },
+              { "page": 64, "text": "Al-Quran Diturunkan Kepada Muhammad SAW" },
+              {
+                "page": 66,
+                "text": "Menafsirkan Ulang Sesuai Dengan Sains Modern"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
