@@ -7,7 +7,8 @@
       "publish": "Tue, 26 February 2019",
       "pages": 24,
       "price": 0,
-      "category": "Wanita"
+      "category": "Wanita",
+      "desc": "Suami yang menjatuhkan thalaq pada istrinya berarti telah melakukan perkara yang amat dibenci oleh Allah SWT, meskipun hal itu sebenarnya boleh dilakukan dengan alasan-alasan tertentu yang tentunya harus syar’I."
     },
     "tableOfContents": [
       { "page": 8, "text": "Pendahuluan", "head": true },
@@ -164,7 +165,8 @@
       "publish": "Wed, 17 February 2021",
       "pages": 61,
       "price": 0,
-      "category": "Ilmu Al-Quran & Tafsir"
+      "category": "Ilmu Al-Quran & Tafsir",
+      "desc": ""
     },
     "tableOfContents": [
       { "page": 6, "text": "Pendahuluan", "head": true },
