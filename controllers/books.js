@@ -4,7 +4,7 @@ export const getBooks = (req, res) => {
   const searchQuery = req.query?.search;
   const bookId = req.query?.bookId;
   fs.readFile(
-    new URL('../books/fiqih-wanita.json', import.meta.url),
+    new URL('../books/aqidah.json', import.meta.url),
     'utf8',
     (err, data) => {
       let response = JSON.parse(data);
