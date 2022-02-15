@@ -3,6 +3,7 @@ import fs from 'fs';
 export const getBooks = (req, res) => {
   const searchQuery = req.query?.search;
   const bookId = req.query?.bookId;
+
   fs.readFile(
     new URL('../books/aqidah.json', import.meta.url),
     'utf8',
@@ -17,6 +18,28 @@ export const getBooks = (req, res) => {
         );
       }
       res.end(JSON.stringify(response));
+    }
+  );
+};
+
+export const getCategories = (req, res) => {
+  const fileNames = [];
+  fs.readdir(new URL('../books/', import.meta.url), (err, files) => {
+    files.forEach((file) => {
+      fileNames.push({ category: file.replace('.json', '') });
+    });
+    res.end(JSON.stringify(fileNames));
+  });
+};
+
+export const getCategoryBooks = (req, res) => {
+  const { category } = req.params;
+
+  fs.readFile(
+    new URL(`../books/${category}.json`, import.meta.url),
+    'utf8',
+    (err, data) => {
+      res.end(data);
     }
   );
 };
