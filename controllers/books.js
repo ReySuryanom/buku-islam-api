@@ -23,7 +23,7 @@ export const getBooks = (req, res) => {
       function (_path, resolve, reject) {
         fs.readFile(_path, 'utf8', (err, data) => {
           if (err) {
-            resolve('');
+            reject('');
           } else {
             resolve(data);
           }
