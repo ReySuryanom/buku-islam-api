@@ -4,13 +4,13 @@ const FILEPATHS = [
   new URL('../books/akhlak.json', import.meta.url),
   new URL('../books/al-quran-dan-tafsir.json', import.meta.url),
   new URL('../books/aqidah.json', import.meta.url),
-  new URL('../books/fiqih-ibadah.json', import.meta.url),
-  new URL('../books/fiqih-muamalat.json', import.meta.url),
-  new URL('../books/fiqih-wanita.json', import.meta.url),
-  new URL('../books/hadits.json', import.meta.url),
-  new URL('../books/kajian-tematik.json', import.meta.url),
-  new URL('../books/sirah-dan-biografi.json', import.meta.url),
-  new URL('../books/ushul-fiqih.json', import.meta.url),
+  // new URL('../books/fiqih-ibadah.json', import.meta.url),
+  // new URL('../books/fiqih-muamalat.json', import.meta.url),
+  // new URL('../books/fiqih-wanita.json', import.meta.url),
+  // new URL('../books/hadits.json', import.meta.url),
+  // new URL('../books/kajian-tematik.json', import.meta.url),
+  // new URL('../books/sirah-dan-biografi.json', import.meta.url),
+  // new URL('../books/ushul-fiqih.json', import.meta.url),
 ];
 
 export const getBooks = (req, res) => {
@@ -34,18 +34,20 @@ export const getBooks = (req, res) => {
 
   if (bookId && category) {
     let response = [];
-    Promise.all(promises).then((results) => {
-      for (let i = 0; i < results.length; i++) {
-        const content = results[i];
+    Promise.all(promises)
+      .then((results) => {
+        for (let i = 0; i < results.length; i++) {
+          const content = results[i];
 
-        const books = JSON.parse(content);
-        response = books.find((data) => data.id === bookId);
+          const books = JSON.parse(content);
+          response = books.find((data) => data.id === bookId);
 
-        if (response) break;
-      }
+          if (response) break;
+        }
 
-      res.end(JSON.stringify(response));
-    });
+        res.end(JSON.stringify(response));
+      })
+      .catch((err) => console.log(err));
     // fs.readFile(
     //   new URL(`../books/al-quran-dan-tafsir.json`, import.meta.url),
     //   'utf8',
@@ -63,25 +65,27 @@ export const getBooks = (req, res) => {
     //   }
     // );
   } else {
-    Promise.all(promises).then((results) => {
-      let bookId = [];
-      results.forEach((content) => {
-        const books = JSON.parse(content);
-        books.forEach(({ id, info }) => {
-          const category = info.category
-            .toLowerCase()
-            .replaceAll(' ', '-')
-            .replace('&', 'dan');
+    Promise.all(promises)
+      .then((results) => {
+        let bookId = [];
+        results.forEach((content) => {
+          const books = JSON.parse(content);
+          books.forEach(({ id, info }) => {
+            const category = info.category
+              .toLowerCase()
+              .replaceAll(' ', '-')
+              .replace('&', 'dan');
 
-          console.log(category);
-          bookId.push({
-            id,
-            category: category,
+            console.log(category);
+            bookId.push({
+              id,
+              category: category,
+            });
           });
         });
-      });
-      res.end(JSON.stringify(bookId));
-    });
+        res.end(JSON.stringify(bookId));
+      })
+      .catch((err) => console.log(err));
   }
 };
 
