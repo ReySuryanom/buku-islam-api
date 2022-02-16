@@ -68,13 +68,15 @@ export const getBooks = (req, res) => {
       results.forEach((content) => {
         const books = JSON.parse(content);
         books.forEach(({ id, info }) => {
-          const category = info?.category || 'test';
+          const category = info.category
+            .toLowerCase()
+            .replaceAll(' ', '-')
+            .replace('&', 'dan');
+
+          console.log(category);
           bookId.push({
             id,
-            category: category
-              .toLowerCase()
-              .replaceAll(' ', '-')
-              .replace('&', 'dan'),
+            category: category,
           });
         });
       });
