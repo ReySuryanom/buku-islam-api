@@ -14,8 +14,9 @@ const FILEPATHS = [
 ];
 
 export const getBooks = (req, res) => {
-  const bookId = req.query?.bookId;
-  const searchQuery = req.query?.search;
+  const bookId = req.query.bookId;
+  const category = req.query.category;
+  const searchQuery = req.query.search;
 
   const promises = FILEPATHS.map((_path) => {
     return new Promise(
@@ -31,17 +32,20 @@ export const getBooks = (req, res) => {
     );
   });
 
-  if (bookId) {
-    let response = null;
+  if (bookId && category) {
+    let response = [];
     Promise.all(promises).then((results) => {
-      results.forEach((content) => {
+      for (let i = 0; i < results.length; i++) {
+        const content = results[i];
+
         const books = JSON.parse(content);
-        // response = books.find((data) => data.id === bookId);
-        response = content;
-      });
+        response = books.find((data) => data.id === bookId);
+
+        if (response) break;
+      }
+
+      res.end(JSON.stringify(response));
     });
-    console.log(response);
-    res.end(JSON.stringify(response));
     // fs.readFile(
     //   new URL(`../books/al-quran-dan-tafsir.json`, import.meta.url),
     //   'utf8',

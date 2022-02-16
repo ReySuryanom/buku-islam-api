@@ -9,7 +9,7 @@ const router = express.Router();
 
 router.get('/', getBooks);
 
-router.get('/category', getCategories);
+router.get('/categories', getCategories);
 
 router.get('/category/:category', getCategoryBooks);
 
