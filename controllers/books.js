@@ -29,7 +29,7 @@ export const getBooks = (req, res) => {
           }
         });
       }.bind(this, _path)
-    );
+    ).catch((err) => console.log(err));
   });
 
   if (bookId && category) {
