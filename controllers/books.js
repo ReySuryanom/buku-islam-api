@@ -4,13 +4,13 @@ const FILEPATHS = [
   new URL('../books/akhlak.json', import.meta.url),
   new URL('../books/al-quran-dan-tafsir.json', import.meta.url),
   new URL('../books/aqidah.json', import.meta.url),
-  // new URL('../books/fiqih-ibadah.json', import.meta.url),
-  // new URL('../books/fiqih-muamalat.json', import.meta.url),
-  // new URL('../books/fiqih-wanita.json', import.meta.url),
-  // new URL('../books/hadits.json', import.meta.url),
-  // new URL('../books/kajian-tematik.json', import.meta.url),
-  // new URL('../books/sirah-dan-biografi.json', import.meta.url),
-  // new URL('../books/ushul-fiqih.json', import.meta.url),
+  new URL('../books/fiqih-ibadah.json', import.meta.url),
+  new URL('../books/fiqih-muamalat.json', import.meta.url),
+  new URL('../books/fiqih-wanita.json', import.meta.url),
+  new URL('../books/hadits.json', import.meta.url),
+  new URL('../books/kajian-tematik.json', import.meta.url),
+  new URL('../books/sirah-dan-biografi.json', import.meta.url),
+  new URL('../books/ushul-fiqih.json', import.meta.url),
 ];
 
 export const getBooks = (req, res) => {
@@ -48,22 +48,6 @@ export const getBooks = (req, res) => {
         res.end(JSON.stringify(response));
       })
       .catch((err) => console.log(err));
-    // fs.readFile(
-    //   new URL(`../books/al-quran-dan-tafsir.json`, import.meta.url),
-    //   'utf8',
-    //   (err, data) => {
-    // let response = JSON.parse(data);
-    // if (bookId) {
-    //   response = response.find((item) => item.id === bookId);
-    // }
-    // if (searchQuery) {
-    //   response = response.content.filter(({ text }) =>
-    //     text.includes(searchQuery)
-    //   );
-    // }
-    // res.end(JSON.stringify(response));
-    //   }
-    // );
   } else {
     Promise.all(promises)
       .then((results) => {
@@ -76,7 +60,6 @@ export const getBooks = (req, res) => {
               .replace(/ /g, '-')
               .replace('&', 'dan');
 
-            console.log(category);
             bookId.push({
               id,
               category: category,
