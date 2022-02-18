@@ -71,9 +71,10 @@ export const getBooks = (req, res) => {
         results.forEach((content) => {
           const books = JSON.parse(content);
           books.forEach(({ id, info }) => {
-            let category = info.category.toLowerCase();
-            category = category.replaceAll(' ', '-');
-            // .replace('&', 'dan');
+            let category = info.category
+              .toLowerCase()
+              .replace(/ /g, '-')
+              .replace('&', 'dan');
 
             console.log(category);
             bookId.push({
