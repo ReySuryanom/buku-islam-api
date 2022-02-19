@@ -1,22 +1,156 @@
 [
   {
-    "id": "a640a5bb-ffffffffffffffffffffffffffffffsdfsdfsdf",
+    "id": "95e61420-46b9-4ca4-9418-f875c104cb11",
     "info": {
-      "title": "Al-Quran dan Sains",
-      "author": "Ahmad Sarwat, Lc., MA",
-      "publish": "Wed, 17 February 2021",
-      "pages": 61,
+      "title": "Hukum-hukum Terkait Air Dalam Madzab Syafi’i",
+      "author": "Galih Maulana, Lc",
+      "publish": "Tue, 17 March 2020",
+      "pages": 34,
       "price": 0,
-      "category": "fiqih-wanita",
-      "desc": ""
+      "category": "Fiqih Ibadah",
+      "desc": "Ulama Syafi’iyah umumnya mengawali bab Thaharah dengan membahas air. Mengingat pentingnya air sebagai media thaharah yang menyebabkan sah tidaknya suatu ibadah, maka para ulama khususnya ulama syafi’iyah sangat ketat dalam aturan terkait air ini."
     },
     "tableOfContents": [
-      { "page": 6, "text": "Pendahuluan", "head": true },
-      { "page": 6, "text": "Pendahuluan" }
+      {
+        "page": 5,
+        "text": "Suci Menyucikan",
+        "sub": [
+          {
+            "page": 5,
+            "text": "Air Mutlak",
+            "sub": [
+              { "page": 7, "text": "Air hujan, air salju dan air barod" },
+              { "page": 8, "text": "Air Laut" },
+              { "page": 8, "text": "Air sumur" },
+              { "page": 9, "text": "Air sungai dan Mata air" }
+            ]
+          }
+        ]
+      },
+      {
+        "page": 11,
+        "text": "Suci Menyucikan Tapi Makruh Menggunakannya",
+        "sub": [{ "page": 11, "text": "Air Musyamas" }]
+      },
+      {
+        "page": 14,
+        "text": "Suci Tidak Menyucikan",
+        "sub": [
+          {
+            "page": 14,
+            "text": "Air Yang Berubah Sifatnya Karena Tercampur Benda Suci",
+            "sub": [
+              { "page": 14, "text": "Mukhalith" },
+              { "page": 14, "text": "Mujawir" },
+              { "page": 15, "text": "Thul al-Mukts" }
+            ]
+          },
+          {
+            "page": 16,
+            "text": "Air Laut",
+            "sub": [
+              { "page": 19, "text": "Air musta'mal lebih dari dua qullah" },
+              { "page": 22, "text": "Air mutlak terkena tetesan air musta'mal" }
+            ]
+          }
+        ]
+      },
+      {
+        "page": 24,
+        "text": "Air Mutanajis",
+        "sub": [
+          { "page": 24, "text": "Air Sedikit (al-ma al-qalil)" },
+          { "page": 25, "text": "Air Banyak (al-Ma al-Katsir)" },
+          {
+            "page": 26,
+            "text": "Kadar du qullah",
+            "sub": [
+              { "page": 27, "text": "Dengan Mengukur Volume Bangun Ruang" },
+              { "page": 28, "text": "Dengan Mengonversi ke Satuan Masa Kini" }
+            ]
+          }
+        ]
+      }
     ],
     "content": [
       {
+        "page": 5,
+        "text": "<h1>HUKUM-HUKUM TERKAIT AIR DALAM MADZHAB SYAFI'I</h1><p>Ulama Syafi’iyah umumnya mengawali bab Thaharah dengan membahas air. Mengingat pentingnya air sebagai media thaharah yang menyebabkan sah tidaknya suatu ibadah, maka para ulama khususnya ulama syafi’iyah sangat ketat dalam aturan terkait air ini.</p><p>Air dalam kaitannya dengan bersuci ada empat jenis; suci menyucikan, suci menyucikan namun makruh menggunakannya, suci namun tidak menyucikan dan mutanajis. Berikut penjelasan masing-masingnya.</p><h1>Suci Menyucikan</h1><p>Air suci menyucikan adalah air yang suci dzatnya dan dapat digunakan untuk menyucikan badan baik dari hadats ataupun dari najis.</p><strong>Air Mutlak</strong><p>Air yang suci dan dapat menyucikan adalah air mutlak, yaitu air murni yang terlepas dari tambahantambahan nama yang baku di belakangnya. Imam Nawawi (w 676 H) dalam kitab al-Majmu’ mengatakan;</p><p dir='rtl'>الْمَاء الْمُطلَق فَالصحِيخُ في حده انه الْعاري عن</p>"
+      },
+      {
         "page": 6,
+        "text": "<p dir='rtl'>الإضَافَة اللازِمَة</p><q>Definisi yang benar tentang air mutlak yaitu air yang terbebas dari tambahan-tambahan nama yang baku</q><p>Maksud dari tamabahan nama yang baku adalah air tersebut tidak bisa lepas dari tambahan nama di belakangnya. Contohnya air kopi, ketika air dicampur dengan bubuk kopi, maka air tersebut berubah namanya menjadi air kopi, bukan air murni lagi. Tidak bisa orang menyebut air yang dicampur bubuk kopi sebagai air saja, pasti mereka menyebutnya air kopi. Maka air kopi ini bukan air mutlak, karena ada tambahan nama yang baku di belakangnya.</p><p>Berbeda halnya apabila tambahan nama tersebut tidak baku, misalnya air sumur. Air sumur meskipun ada tambahan nama dibelakangnya yaitu sumur, namun orang tetap dapat menyebut air tersebut sebagai air saja.</p><p>Air mutlak ini ada yang berasal dari langit dan ada yang berasal dari bumi, yang berasal dari langit ada tiga; air hujan, air salju dan air barod2 yang keduanya sudah mencair. Sedangkan air yang berasal dari bumi ada empat; air laut, air sungai, air sumur dan air dari mata air. Abu Syuja yaitu Syihabudin al-Asfahani (w 593 H) dalam kitab matannya mengatakan:</p>"
+      },
+      {
+        "page": 7,
+        "text": "<p dir='rtl'>املياه اليت جيوز التطهري هبا سبع مياه: ماء السماء وماء البحر وماء النهر وماء البئر وماء العني وماء الثلج وماء الربد</p><q>Air yang sah digunakan untuk thaharah ada tujuh; air hujan, air laut, air sungai, air sumur, air dari mata air, air salju dan air barod</q><strong>Air hujan, air salju dan air barod</strong><p>Allah berfirman;</p><p dir='rtl'>وَيُنَزِّلُ عَلَيْكُمْ مِّنَ السَّمَاۤءِ مَاۤءً لِّيُطَهِّرَكُمْ بِهٖ</p><q>\"Dan Allah menurunkan air dari langit kepada mu untuk menyucikan kamu dengan (air hujan) itu\". QS al-Anfal dari ayat 11</q><p>Dalam ayat tersebut secara lugas disebutkan bahwa air yang turun dari langit itu dapat digunakan untuk bersuci.</p><p>Rasulullah صلى الله عليه وسلم dalam salah satu do’anya membaca;</p><p dir='rtl'>لَهُمّ اغْسِلٌ خَطَايَاي بِالْمَاءٍ وَلكَلج وَالبَدٍ</p><q>Ya Allah cucilah (hapuslah) kesalah-kesalahanku dengan air hujan dan air barod</q><p>Dalam hadits di atas, tersirat bahwa air salju dan</p>"
+      },
+      {
+        "page": 8,
+        "text": "<summary>air barod dapat digunakan untuk bersuci.</summary><strong>Air Laut</strong><p>Abu hurairah  menceritakan tentang seorang petani garam bernama Ubaid yang suatu hari pernah bertanya kepada Rasulullah صلى الله عليه وسلم</p><p dir='rtl'>يَارَسُولَ اللَّهِ إِنَّا نَرْكَبُ الْبَحْرَ وَنَحْمِلُ مَعَنَا الْقَلِيلَ مِنْ الْمَاءِ فَإِنْ تَوَضَّأْنَا بِهِ عَطِشْنَا أَفَنَتَوَضَّأُ مِنْ مَاءِ الْبَحْرِ</p><q>Ya Rasulallah, kami pernah berlayar ke laut membawa sedikit air, apabila kami berwudhu dengan air tersebut, kami akan haus. Apakah kami boleh berwudhu dengan air laut?</q><p dir='rtl'>هُوَ الطَّهُورُ مَاؤُهُ الْحِلُّ مَيْتَتُهُ</p><q>Laut itu airnya suci dan bangkai (hewan)nya halal (untuk dimakan)</q><p>Hadits ini diriwayatkan oleh imam Malik, imam Syafi’i dan Abu Daud, dihukumi shahih oleh imam Bukhari.</p><p>Dalam hadits terebut disebutkan secara eksplisit bahwa air laut itu suci dan mensucikan, sehingga sah digunakan untuk thaharah.</p><strong>Air sumur</strong>"
+      },
+      {
+        "page": 9,
+        "text": "<p>Hadits ini masyhur disebut sebagai hadits sumur Budha’ah, yaitu sumur tempat orang membuang kain bekas haidh, bangkai anjing dan lainnya.</p><p dir='rtl'>عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ قَالَ مَرَرْتُ بِالنَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَهُوَ يَتَوَضَّأُ مِنْ بِئْرِ بُضَاعَةَ فَقُلْتُ أَتَتَوَضَّأُ مِنْهَا وَهِيَ يُطْرَحُ فِيهَا مَا يُكْرَهُ مِنْ النَّتَنِ فَقَالَ الْمَاءُ لَا يُنَجِّسُهُ شَيْءٌ</p><q>Dari Abu Sa’id al-Khudri, dia berkata: “saya pernah lewat dan berjumpa dengan Rasulullah dalam keadaan beliau sedang berwudhu di sumur budha’ah, saya bertanya: apakah engkau berwudhu dari air sumur tersebut, padahal sumur budha’ah itu tempat orang membuang hal-hal kotor? Rasulullah صلى الله عليه وسلم menjawab: air itu tidak berubah menjadi najis sebab (tercampur) dengan sesuatu (yang najis). HR. Nasai.</q><p>Dalam hadist tersebut Rasulullah صلى الله عليه وسلم menjelaskan bahwasannya air sumur itu tetap suci dan mensucikan meskipun tercampur dengan najis, itu karena air dalam sumur sangat banyak, lebih dari dua qullah dan najis-najis yang dibuang ke dalam sumur tidak merubah sifat air sumur tersebut, baik warna, bau atau rasanya.</p><strong>Air sungai dan Mata air</strong><p>Secara umum, air yang berasal dari bumi (tanah)</p>"
+      },
+      {
+        "page": 10,
+        "text": "<summary>itu dihukumi suci, baik mata air, air sumur, air kolam, sungai, danau atau lainnya, sehingga sah digunakan untuk bersuci. Dalam hal ini imam Nawawi (w 676 H) mengatakan;</summary><p dir='rtl'>جوازالطهَارة بما نَبع من الْأَرْضٍ مجمَعُ عليه</p><q>Bolehnya bersuci dengan air yang bersumber dari bumi (tanah) adalah perkara yang sudah diijma’kan ulama</q><p>Jadi sangat jelas, bahwa air sungai atau mata air itu suci dan sah digunakan untuk bersuci berdasarkan ijma’ ulama.</p>"
+      },
+      {
+        "page": 11,
+        "text": "<h1>Suci Menyucikan Tapi Makruh Menggunakannya</h1><p>Air suci menyucikan adalah air yang suci dzatnya namun tidak dapat digunakan untuk menyucikan badan baik dari hadats ataupun dari najis.</p><strong>Air Musyamas</strong><p>Air yang suci menyucikan namun makruh menggunakannya adalah air musyamas, yaitu air di dalam bejana yang terbuat dari besi atau sejenisnya, yang sengaja dijemur di bawah terik matahari untuk dipanaskan.</p><p>Air musyamas ini menurut sebagian ulama syafi’iyah suci menyucikan namun makruh untuk menggunakannya. Alasanya adalah apa yang diriwayatkan dari imam Syafi’i (w 204 H) sebagai berikut:</p><p dir='rtl'>ولا أكره المُشْمَّسَ إلا أن يُكرَه مِنْ جِهَةٍ الطِبّ</p><q>Aku tidak menghukumi makruh pada (penggunaan) air musyamas ini kecuali karena alasan medis</q><p>Jadi, alasan yang digunakan oleh imam Syafi’i atas makruhnya penggunaan air musyamas untuk bersuci adalah alasan medis, yang mana menurut riwayat beliau dari jalur Umar bin Khattab, bahwasannya air musyamas ini menyebabkan penyakit lepra.</p><p>Namun menurut imam Nawawi (w 676 H), riwayat</p>"
+      },
+      {
+        "page": 12,
+        "text": "<summary>yang dibawa oleh imam Syafi’i ini dha’if berdasarkan kesepakatan para ulama ahli hadits, sehingga tidak bisa dijadikan hujjah. Beliau mengatakan;</summary><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>"
+      },
+      {
+        "page": 13,
+        "text": ""
+      },
+      {
+        "page": 14,
+        "text": ""
+      },
+      {
+        "page": 15,
+        "text": ""
+      },
+      {
+        "page": 16,
+        "text": ""
+      },
+      {
+        "page": 17,
+        "text": ""
+      },
+      {
+        "page": 18,
+        "text": ""
+      },
+      {
+        "page": 19,
+        "text": ""
+      },
+      {
+        "page": 20,
+        "text": ""
+      },
+      {
+        "page": 21,
+        "text": ""
+      },
+      {
+        "page": 22,
+        "text": ""
+      },
+      {
+        "page": 23,
+        "text": ""
+      },
+      {
+        "page": 24,
         "text": ""
       }
     ]
