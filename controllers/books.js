@@ -5,6 +5,7 @@ const FILEPATHS = [
   new URL('../books/al-quran-dan-tafsir.json', import.meta.url),
   new URL('../books/aqidah.json', import.meta.url),
   new URL('../books/fiqih-ibadah.json', import.meta.url),
+  new URL('../books/fiqih-jinayat.json', import.meta.url),
   new URL('../books/fiqih-muamalat.json', import.meta.url),
   new URL('../books/fiqih-wanita.json', import.meta.url),
   new URL('../books/hadits.json', import.meta.url),
@@ -18,37 +19,32 @@ export const getBooks = (req, res) => {
   const category = req.query.category;
   const searchQuery = req.query.search;
 
-  const promises = FILEPATHS.map((_path) => {
-    return new Promise(
-      function (_path, resolve, reject) {
-        fs.readFile(_path, 'utf8', (err, data) => {
-          if (err) {
-            reject('');
-          } else {
-            resolve(data);
-          }
-        });
-      }.bind(this, _path)
-    ).catch((err) => console.log(err));
-  });
-
   if (bookId && category) {
-    let response = [];
-    Promise.all(promises)
-      .then((results) => {
-        for (let i = 0; i < results.length; i++) {
-          const content = results[i];
+    fs.readFile(
+      new URL(`../books/${category}.json`, import.meta.url),
+      'utf8',
+      (err, data) => {
+        const books = JSON.parse(data);
+        const book = books.find((book) => book.id === bookId);
 
-          const books = JSON.parse(content);
-          response = books.find((data) => data.id === bookId);
-
-          if (response) break;
-        }
-
-        res.end(JSON.stringify(response));
-      })
-      .catch((err) => console.log(err));
+        res.end(JSON.stringify(book));
+      }
+    );
   } else {
+    const promises = FILEPATHS.map((_path) => {
+      return new Promise(
+        function (_path, resolve, reject) {
+          fs.readFile(_path, 'utf8', (err, data) => {
+            if (err) {
+              reject('');
+            } else {
+              resolve(data);
+            }
+          });
+        }.bind(this, _path)
+      ).catch((err) => console.log(err));
+    });
+
     Promise.all(promises)
       .then((results) => {
         let bookId = [];
@@ -97,6 +93,21 @@ export const getCategoryBooks = (req, res) => {
 // if (searchQuery) {
 //   response = response.content.filter(({ text }) => text.includes(searchQuery));
 // }
+
+// Promise.all(promises)
+//   .then((results) => {
+//     for (let i = 0; i < results.length; i++) {
+//       const content = results[i];
+
+//       const books = JSON.parse(content);
+//       response = books.find((data) => data.id === bookId);
+
+//       if (response) break;
+//     }
+
+//     res.end(JSON.stringify(response));
+//   })
+//   .catch((err) => console.log(err));
 
 // export const getSpecificContent = (req, res) => {
 //   fs.readFile(
