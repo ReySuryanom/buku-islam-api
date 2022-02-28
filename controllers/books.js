@@ -94,21 +94,6 @@ export const getCategoryBooks = (req, res) => {
 //   response = response.content.filter(({ text }) => text.includes(searchQuery));
 // }
 
-// Promise.all(promises)
-//   .then((results) => {
-//     for (let i = 0; i < results.length; i++) {
-//       const content = results[i];
-
-//       const books = JSON.parse(content);
-//       response = books.find((data) => data.id === bookId);
-
-//       if (response) break;
-//     }
-
-//     res.end(JSON.stringify(response));
-//   })
-//   .catch((err) => console.log(err));
-
 // export const getSpecificContent = (req, res) => {
 //   fs.readFile(
 //     new URL('../books/al-quran-dan-tafsir.json', import.meta.url),
