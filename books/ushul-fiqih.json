@@ -1,23 +1,104 @@
 [
   {
-    "id": "a640a5bb-uuuuuuuuu",
+    "id": "ae8eb5b5-fc20-4b8d-8205-bb47be9057be",
     "info": {
-      "title": "Al-Quran dan Sains",
+      "title": "Pasang Surut Mazhab di Tanah Haram",
       "author": "Ahmad Sarwat, Lc., MA",
-      "publish": "Wed, 17 February 2021",
-      "pages": 61,
+      "publish": "Fri, 15 October 2021",
+      "pages": 17,
       "price": 0,
       "category": "Ushul Fiqih",
-      "desc": ""
+      "desc": "Perjalanan ilmu fiqih dengan masing-masing mazhabnya sangat dinamis. Datang dan pergi silih berganti seiring dengan perkembangan zaman. Kalau kita menengok ke belakang, pada awalnya jumlah mazhab fiqih itu bukan hanya empat seperti sekarang ini, tetapi jauh lebih banyak lagi."
     },
     "tableOfContents": [
-      { "page": 6, "text": "Pendahuluan", "head": true },
-      { "page": 6, "text": "Pendahuluan" }
+      {
+        "page": 4,
+        "text": "Mazhab Fiqih",
+        "sub": [
+          { "page": 4, "text": "Tiga Belas Mazhab" },
+          {
+            "page": 5,
+            "text": "Tersisa Empat Mazhab",
+            "sub": [
+              { "page": 6, "text": "Hanafi" },
+              { "page": 6, "text": "Maliki" },
+              { "page": 7, "text": "Syafi'i" },
+              { "page": 7, "text": "Hambali" }
+            ]
+          }
+        ]
+      },
+      {
+        "page": 8,
+        "text": "Mazhab Fiqih di Tanah Haram",
+        "sub": [
+          { "page": 8, "text": "Mazhab Maliki" },
+          { "page": 9, "text": "Mazhab As-Syafi'i" },
+          { "page": 11, "text": "Mazhab Hambali" }
+        ]
+      },
+      {
+        "page": 12,
+        "text": "Kerjaaan Saudi Arabia",
+        "sub": [
+          { "page": 12, "text": "Mazhab Resmi Kerajaan" },
+          { "page": 13, "text": "Mulia Lebih Mendominasi" },
+          { "page": 14, "text": "Kegaduhan" }
+        ]
+      }
     ],
     "content": [
       {
+        "page": 4,
+        "text": "<h1>Bab 1 : Mazhab Fiqih</h1><p>Perjalanan ilmu fiqih dengan masing-masing mazhabnya sangat dinamis. Datang dan pergi silih berganti seiring dengan perkembangan zaman.</p><p>Kalau kita menengok ke belakang, pada awalnya jumlah mazhab fiqih itu bukan hanya empat seperti sekarang ini, tetapi jauh lebih banyak lagi.</p><p>A. Tiga Belas Mazhab</p><p>Saya mencatat setidaknya ada 13 mazhab yang dulu pernah ada, namun tidak semuanya survive sampai hari ini. Kalau diurutkan ke-13 mazhab itu adalah :</p><ul><li>Al-Hasan Al-Bashri 21 - 110 di Kufah</li><li>Abu Hanifah 80 - 150 di Kufah</li><li>Al-Auza’i ... - 157 di Syam</li><li>Sufyan Ats-Tsauri 97 - 161 di Kufah</li><li>Al-Laits bin Sa’ad 94 - 175 di Mesir</li><li>Malik bin Anas 93 - 197 di Madinah</li><li>Sufyan bin Uyainah 107 - 198 di Mekah</li><li>Asy-Syafi’i 150 - 204 di Baghdad dan Mesir</li><li>Ishaq bin Rahawaih 161 - 238 di Naisabur</li></ul>"
+      },
+      {
+        "page": 5,
+        "text": "<ul><li>Ahmad bin Hanbal 164 - 241 di Baghdad</li><li>Abu Tsaur ... - 246 di Baghdad</li><li>Daud Azh-Zhahiri 255- 297 di Baghdad</li><li>Ibnu Jarir Ath-Thabari 224 - 310 di Baghdad</li></ul><p>Namun semua mengalami dinamika yang unik. Kadang eksis dan besar di suatu tempat pada suatu zaman, lalu berganti zaman mazhab itu pun surut dan pindah ke wilayah lain.</p><p>Di tempat itu lalu datang mazhab yang lain datang dan malah jadi besar disitu. Dan begitulah dinamikanya.</p><strong>B. Tersisa Empat Mazhab</strong><p>Seiring perjalanan waktu, setelah melewati empat abad perjalanannya, rupanya banyak mazhabmazhab itu yang kolaps dan tergilas oleh roda zaman.</p><p>Sebagian ada yang sejak wafatnya pendiri sudah langsung bubar, seperi mazhab Al-Laits di Mesir dan mazhab Hasan Al-Bashri di Bashrah.</p><p>Sebagian lainnya ada yang sempat bertahan selama beberapa waktu, lalu mati suri selama beberapa abad, kemudian sempat hidup lagi beberapa waktu dan mati lagi.</p><p>Contohnya adalah mazhab Zhahiri yang didirikan oleh Daud Az-Zhahihi. Mazhab ini sempat mati suri selama dua abad, lalu tiba-tiba muncul lagi dipelopori oleh Ibnu Hazm dengan karyanya Al-Muhalla bil Atsar.</p><p>Lalu hilang sekian lama sampai akhirnya ada lagi pihak-pihak yang mengorek-ngorek lagi kitab yang</p>"
+      },
+      {
         "page": 6,
-        "text": ""
+        "text": "<summary>lama terbenam di dalam perpusatakaan itu.</summary><p>Hari ini pemikiran mazhab Zhahiri lumayan banyak bergentayangan di jagat maya.</p><p>Namun tetap saja yang eksis hanya empat mazhab, dalam arti yang mendominasi umat Islam di suatu negara.</p><strong>1. Hanafi</strong><p>India adalah negara dengan populasi pemeluk mazhab Hanafi terbesar di dunia. Yang kedua adalah di Pakistan dengan jumlah 202.650.000 jiwa. Seluruh muslim India dan Pakistan memeluk mazhab Hanafi. Kalau dijumlahkan pemeluk mazhab Hanafi di India dan Pakistan sudah mencapai 400 juta orang.</p><p>Dengan jumlah sebanyak ini, ditambah dengan muslim pemeluk mazhab Hanafi di berbagai negara lainnya, muncul klaim bahwa mazhab yang paling banyak dianut oleh umat manusia saat ini adalah mazhab Hanafi.</p><p>Tentunya klaim-klaim semacam ini masih perlu dibuktikan lebih jauh, karena banyak juga yang menolak klaim tersebut. Di antara yang menampiknya adalah Dr. Wahbha Az-zuhailli. Beliau menghitung bahwa jumlah pemeluk mazhab AsSyafi’i sebenarnya jauh lebih banyak ketimbang mazhab Hanafi.</p><strong>2. Maliki</strong><p>Populasi Muslim di Aljazair mencapai 99 persen dari total penduduk 35 juta jiwa. Mereka umumnya bermazhab Maliki.</p>"
+      },
+      {
+        "page": 7,
+        "text": "<p>Sedangkan di Maghrib (Maroko), Islam adalah agama terbesar di Maroko, dengan persentase sekitar 98,7% dari populasi penduduk negara itu. Boleh dibilang semua bermazhab Maliki.</p><p>Tunisia 98 persen penduduknya beragama Islam dan mazhab Maliki.</p><strong>3. Syafi’i</strong><p>Wilayah Asia Tenggara seperti Indonesia, Malaysia, Brunai, Thailand, Singapura memang zonasi mazhab Asy-Syafi’i secara ekslusif. Maksudnya murni tanpa tercampur dengan keberadaan mazhabmazhab lain.</p><p>Sedangkan Mesir, Iraq, Suriah, Yaman, Saudi dan sekitarannya meski banyak ulama bermazhab Syaf’i, namun tidak bisa dipungkiri keberadaan mazhab lain.</p><strong>4. Hambali</strong><p>Kurikulum pendidikan resmi Kerajaan Saudi Arabia memang dibangun di atas fiqih mazhab Hambali. Pengajian dan majelis taklim yang resmi memang bermazhab Hambali. Kita berterima kasih kepada penguasa Saudi yang berjasa menjaga mazhab ini dari kepunahan.</p><p>Saudi Arabia dikenal sebagai negeri yang secara resmi mengendors mazhab Hambali. Bukan apa-apa, kalau tidak akan ada pemerintah Saudi, boleh jadi mazhab Hambali sudah hilang ditelan zaman.</p>"
+      },
+      {
+        "page": 8,
+        "text": "<h1>Bab 2 : Mazhab Fiqih di Tanah Haram</h1><p>Kalau kita cerita tentang negeri Hijaz seperti Mekkah, Madinah dan sekelilingnya, pasang surut mazhab fiqih pun dinamis.</p><strong>A. Mazhab Maliki</strong><p>Awalnya yang eksis di Madinah, Mekkah dan sekitarnya adalah mazhab Maliki. Hal ini karena Imam Malik rahimahullah memang berdomisili di Madinah. Beliau ulama paling senior di seantero tanah arabia.</p><p>Murid langsung dari Imam Nafi' yang merupakan murid langsung dari Abdullah bin Umar.</p><p>Bahkan di masa itu, Imam Asy-Syafi'i yang masih kecil pun berguru kepada Imam Malik, sampai akhir hayatnya. Boleh dibilang bahwa tanah Arab di masa itu didominasi oleh mazhab Maliki.</p><p>Partnernya jauh di seberang, yaitu di negeri Irak. Ulama besarnya adalah Imam Abu Hanifah. Beliau sebenarnya juga murid atau cucu murid dari para shahabat nabi juga. Ada tidak kurang dari 1.500 orang shahabat yang pindah dari Madinah ke Kufah di zaman pemerintahan Ali bin Abi Thalib.</p>"
+      },
+      {
+        "page": 9,
+        "text": "<strong>B. Mazhab As-Syafi'i</strong><p>Sepeninggal Imam Malik, Mekkah Madinah pun pernah didominasi oleh mazhab Asy-Syafi'i yang sebenarnya juga merupakan murid utama dan kader langsung dari Imam Malik.</p><p>Namun Imam Asy-Syafi'i mendirikan mazhab sendiri yang berbeda. Murid-murid Imam Malik yang lain ada yang masih meneruskan tradisi keilmuan mazhab Mailik, namun terpusat di Maghribah Afrika Utama seperti Tunis, Al-Jazair, Maroko, Spanyol dan sekitarnya.</p><p>Sedangkan Al-Imam Asy-Syafi'i sendiri mengembangkan mazhab Maliki dan lebih menyempurnakannya, sehingga menjadi identik sebagai mahzhab Syafi'i.</p><p>Beliau sendiri memang asli orang Mekkah, berdarah biru Quraisy dan nasabnya bertemu dengan nasab Nabi Muhammad SAW pada kakek mereka berdua, Qusyai bin Kilab.</p><p>Namun di masa jayanya, Al-Imam Asy-Syafi'i memang tidak tinggal di MEkkah, beliau malah mendirikan mazhabnya yang amat besar itu di Irak, yaitu Baghdad yang waktu itu memang jadi ibu kota peradaban Islam.</p><p>Namun murid-murid beliau banyak yang mengajarkan mazhabnya di Mekkah dan Madinah. Bahkan banyak yang jadi imam di kedua masjid suci umat Islam. Misalnya Al-Juwaini yang digelari Imamul Haramain, imam dari dua negeri haram Mekkah dan Madinah.</p>"
+      },
+      {
+        "page": 10,
+        "text": "<p>Namun keberadaan mazhab Asy-Syafi'i yang dominan di kedua negeri haram itu sifatnya tidak menafikan keberadaan mazhab lain.</p><p>Sehingga sepanjang masa Mekkah dikenal sebagai negeri yang ramah kepada semua mazhab. Meski Mazhab Asy-Syafi'i mendominasi, namun empat mazhab tetap eksis dan diberi ruang, baik mazhab Hanafi, Maliki, Syafi'i dan Hambali.</p><p>Coba perhatikan bahwa dulu KH Hasyim Asyari pendiri NU itu belajar fiqih mazhab Syafi'i di Mekkah, termasuk juga Syei kh Yasin Al-Fadani, dan banyak ulama nusantara yang merupakan lulusan madrasah di Masjid Al-Haram.</p><p>Yang menarik ternyata di masa lalu semua mazhab itu hidup rukun damai dan saling bantu. Contoh sederhananya hingga masa terakhir ini adalah sosok Syeikh Alawi Al-Miliki. Sesuai namanya beliau ini ulama fiqih yang bermazhab Maliki.</p><p>Namun ternyata Beliau juga mengajar fiqih kepada warga Indonesia yang bermazhab Syafi'i. Tapi bukan dalam rangka membodohi muridnya yang bermazhab Syafi'i sambil menggiring opini pindah mazhab ke Maliki. Tidak demikian.</p><p>Beliau justru mengajar fiqih mazhab Syafi'i. Karena beliau memang menguasai ilmu perbandingan mazhab. Mau belajar fiqih mazhab yang mana saja, beliau punya ilmunya.</p><p>Sayangnya orang pinter model Beliau itu agak langka. Kebanyakan ulama tahunya cuma satu mazhab saja. Kalau disuruh mengajar fiqih dengan</p>"
+      },
+      {
+        "page": 11,
+        "text": "<summary>mazhab yang lain, jelas tidak paham.</summary><strong>C. Mazhab Hambali</strong><p>Sepanjang zaman, Al-Hamarin Mekkah Madinah tidak pernah jadi jadi kerajaan besar. Kebanyakannya hanya menjadi wilayah yang jauh dari kerajaan.</p><p>Di masa dinasti Bani Umayah, pusat pemerintahan ada di Damaskus. Dan dua tanah haram hanya menjadi salah satu wilayah di bawah kerajaan itu.</p><p>Sultan atau khalifah tidak terlalu mendominasi urusan ilmu dan mazhab di kedua negeri haram itu. Sehingga semua mazhab bisa tumbuh dan berkembang dengan eksis.</p><p>Begitu ketika kekhalifahan pindah ke Baghdad, lalu ke Turki, kedua negeri Mekkah Madinah hanya menjadi salah satu wilayah yang jauh dari pusat kekuasaan. Sehingga perkembangan ilmu dan mazhab fiqih berjalan apa adanya, normal dan tidak berada di bawah dominasi pusat kekuasan.</p><p>Dan begitulah setiap kali bergonta-ganti penguasa, kedua negeri itu hanya ibarat piala bergilir, kemarin dikuasai oleh Bani Fulan, hari ini Bani Fulan yang lain yang berkuasa.</p>"
+      },
+      {
+        "page": 12,
+        "text": "<h1>Bab 3 : Kerajaan Saudi Arabia</h1><strong>A. Mazhab Resmi Kerajaan</strong><p>Di masa sekarang ini, dinasti yang berkuasa di kedua negeri ini adalah Dinasi Bani Saud. Nama resmi kerajaannya adalah Al-Mamlakah Al-Arabiyah AsSu'diyah. Kita bisa menyingkatnya menjadi Saudi Arabia.</p><p>Secara resmi dinasti Bani Saud ini memang bermazhab Hambali. Padahal mazhab Hambali ini awalnya nyaris kurang peminat dan hanya dipeluk oleh segelintir umat Islam yang tidak terlalu mendomnasi dunia Islam.</p><p>Bahkan di kitab perbandingan mazhab yang klasik, seperti Bidayatul Mujtahid wa Nihayatul Muqtahsid, mazhab Hambali ini termasuk agak jarang diangkat pendapatnya.</p><p>Ada banyak analisa, salah satu diasumsikan bahwa mazhab ini tidak eksis di Spanyol, sehingga Imam Ibnu Rusyd yang memang berdomisili di negeri itu nyaris tidak banyak punya referensi terkait mazhab ini.</p><p>Ada juga yang berasumsi memang posisi Imam Ahmad sendiri yang jadi perdebatan, apakah beliau ini mendirikan mazhab fiqih atau sekedar punya</p>"
+      },
+      {
+        "page": 13,
+        "text": "<summary>banyak fatwa saja. Mengingat fatwa-fatwa Imam Ahmad ini banyak yang justru saling bertentangan.</summary><p>Namun yang paling kuat adalah bahwa Hambali adalah sebuah mazhab yang utuh, punya dasar ushul fiqih yang kuat, meski tidak dimulai sejak masa Imam Ahmad langsung.</p><p>Dan bahwa penganut mazhab Hambali di masa itu tidak terlalu mendominasi, memang merupakan fakta yang tidak bisa dipungkiri.</p><p>Dan oleh karena itulah maka ketika kerajaan Saudi Arabia secara tegas mengendors mazhab ini, dunia Islam juga merasa bersyukur. Sebab biar bagaimana pun mazhab Hambali merupakan warisan kekayaan intelektual ulama muslim. Jangan sampai mazhab ini punah ditelan zaman sebagaimana 13 mazhab lainnya.</p><strong>B. Mulai Lebih Mendominasi</strong><p>Awalnya pihak kerajaan masih membuka diri kepada banyak bangsa muslim di dunia untuk berkiprah di kedua tanah haram. Banyak ulama dari berbagai bangsa bisa eksis mengajar dan menyampaikan ilmunya disana.</p><p>Dan otomatis juga banyak murid dari berbagai negeri yang menimba ilmu di tanah haram.</p><p>Namun entah bagaimana, dewasa ini nampaknya ada kebijakan yang dinamis, yaitu pihak Kerajaan punya kebijakan untuk memberdayakan SDM mereka sendiri dan mengurangi peranan ulama dari berbagai negeri yang lain.</p><p>Maka yang lebih banyak ditampilkan dalam banyak</p>"
+      },
+      {
+        "page": 14,
+        "text": "<summary>aktifitas keagamaan seperti khutbah Jumat, majelis taklim dan ceramah agama kebanyakan hanya ulama Saudi saja. Ulama dari negeri yang lain semakin dibatasi kesempatannya.</summary><p>Masalahnya ulama Saudi itu rata-rata hanya menguasai satu mazhab saja, yaitu mazhab Hambali. Untuk mazhab yang lain, mereka memang kurang menguasai. Apalagi kalau harus mengajarkan empat mazhab seperti layaknya Syeikh Alawi Al-Maliki itu.</p><p>Sedangkan ulama yang menguasai mazhab selain mahzab Hambali kebanyakannya bukan warga Saudi. Sehingga mazhab yang lain jadi tanpa sengaja agak tersingkir oleh program Saudi-isasi (sa'wadah) pihak Kerajaan.</p><p>Entah disengaja atau tidak, hasilnya ulama yang bukan orang Saudi tidak bisa mengajarkan secara resmi di Masjid Al-Haram, di majelis-majelis taklim dan termasuk juga di kampus-kampus milik pemerintah.</p><p>Sedangkan tenaga pengajar yang orang Saudi asli ternyata semuanya hanya bisa mengajar satu mazhab saja yaitu Hambali.</p><p>Seiring dengan berjalannya waktu, maka jadilah mazhab yang berkembang secara resmi di Saudi hanya mazhab Hambali saja.</p><strong>C. Kegaduhan</strong><p>Tentu saja hal itu menimbulkan kegaduhan besar di Saudi sendiri. Sebab pemeluk mazhab selain Hambali sebenarnya cukup banyak, khususnya mazhab Syafi'i.</p>"
+      },
+      {
+        "page": 15,
+        "text": "<p>Kampus resmi yang masih mengajarkan empat mazhab secara resmi masih ada. Salah satunya kampus yang saya dulu pernah jadi mahasiswanya, yaitu Jamiatul Imam Muhammad Ibnu Suud, yang berkedudukan di Riyadh, ibu kota Saudi.</p><p>Namun jurusan perbandingan mazhab di Universitas Islam Madinah sudah dihapuskan, diganti hanya mazhab Hambali saja.</p><p>Namun balik lagi, namanya juga kerajaan, terserah raja saja bikin kebijakan. Hanya saja sedikit agak mengganggu adalah banyak kitab-kitab terjemahan dari Saudi yang diterbitkan di negeri kita. Kalau kitab tentang pelajaran bahasa Arab sih tidak mengapa.</p><p>Namun ketika kitab-kitab itu sudah masuk di ranah ilmu fiqih misalnya, maka fiqih mereka itu beda dengan fiqih kita. Mereka mengusung mazhab Hambali sedangkan kita Syafi'i.</p><p>Seandainya kitabnya bergenre perbandingan mazhab, mungkin masih tertolong. Masalahnya kitab-kitab itu pure murni 100% mazhab Hambali. Kalau diterapkan di negeri yang bermazhab Syafi'i, akan timbul kerawanan sosial.</p><p>Apalagi kalau kitab terkait aqidah yang diterjemahkan, maka akan semakin runyam saja. Sebab mazhab kita adalah Asy'ari Maturidi. Sedangkan Saudi itu mazhabnya beda lagi. Seandainya bukunya sekedar perbandingan mazhab, tentu akan semakin mendewasakan.</p><p>Sayangnya buku-buku mereka 'menyerang' secara telak dan terbuka serta secara terang-terangan di</p>"
+      },
+      {
+        "page": 16,
+        "text": "<p>siang bolong. Buku-buku itu kemudian jadi rujukan para ustadz yang belajar agamanya di Saudi. Mereka pulang lalu mendirikan berbagai ma'had, pesantren, sekolah, radio, tv, majalah, situs online dan perbagai konten video di medsos.</p><p>Isinya apalagi kalau bukan perpanjangan tangan dari dakwah di Saudi. Cocok untuk masyarakat Saudi yang se-mazhab, tapi memicu keresahan kalau diimpor bulat-bulat disini.</p><p></p><p></p>"
       }
     ]
   }
