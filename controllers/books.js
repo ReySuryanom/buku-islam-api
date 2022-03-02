@@ -19,7 +19,10 @@ export const getBooks = (req, res) => {
   const category = req.query.category;
   const searchQuery = req.query.search;
 
-  if (bookId && category) {
+  if (searchQuery) {
+    console.log(searchQuery);
+    res.json({ searchQuery });
+  } else if (bookId && category) {
     fs.readFile(
       new URL(`../books/${category}.json`, import.meta.url),
       'utf8',
@@ -27,7 +30,7 @@ export const getBooks = (req, res) => {
         const books = JSON.parse(data);
         const book = books.find((book) => book.id === bookId);
 
-        res.end(JSON.stringify(book));
+        res.json(book);
       }
     );
   } else {
@@ -62,7 +65,7 @@ export const getBooks = (req, res) => {
             });
           });
         });
-        res.end(JSON.stringify(bookId));
+        res.json(bookId);
       })
       .catch((err) => console.log(err));
   }
@@ -74,7 +77,7 @@ export const getCategories = (req, res) => {
     files.forEach((file) => {
       fileNames.push({ category: file.replace('.json', '') });
     });
-    res.end(JSON.stringify(fileNames));
+    res.json(fileNames);
   });
 };
 
