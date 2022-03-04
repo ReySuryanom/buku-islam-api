@@ -14,15 +14,18 @@ const FILEPATHS = [
   new URL('../books/ushul-fiqih.json', import.meta.url),
 ];
 
+export const getSpecificContent = (req, res) => {
+  const searchQuery = req.query.q;
+
+  console.log(searchQuery);
+  res.json({ searchQuery });
+};
+
 export const getBooks = (req, res) => {
   const bookId = req.query.bookId;
   const category = req.query.category;
-  const searchQuery = req.query.search;
 
-  if (searchQuery) {
-    console.log(searchQuery);
-    res.json({ searchQuery });
-  } else if (bookId && category) {
+  if (bookId && category) {
     fs.readFile(
       new URL(`../books/${category}.json`, import.meta.url),
       'utf8',
