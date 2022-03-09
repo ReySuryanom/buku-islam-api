@@ -2,12 +2,14 @@ import express from 'express';
 import bodyParser from 'body-parser';
 import cors from 'cors';
 import booksRoutes from './routes/books.js';
+import { getRootRoutes } from './controllers/books.js';
 
 const app = express();
 const PORT = process.env.PORT || 5000;
 
 app.use(cors());
 app.use(bodyParser.json());
+app.get('/', getRootRoutes);
 app.use('/books', booksRoutes);
 
 app.listen(PORT, () => {
