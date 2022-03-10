@@ -92,12 +92,15 @@ export const getCategories = (req, res) => {
 
 export const getCategoryBooks = (req, res) => {
   const { category } = req.params;
+  const books = [];
 
   fs.readFile(
     new URL(`../books/${category}.json`, import.meta.url),
     'utf8',
     (err, data) => {
-      res.end(data);
+      JSON.parse(data).forEach(({ id, info }) => books.push({ id, info }));
+
+      res.json(books);
     }
   );
 };
@@ -129,8 +132,7 @@ export const getRootRoutes = (req, res) => {
       },
       search: {
         pattern: 'https://buku-islam-api.vercel.app/books?search={query}',
-        example:
-          'https://buku-islam-api.vercel.app/books?bookId=e75e8fdd-b3de-443e-a17b-be8bbaa72c52&category=hadits',
+        example: '/books?search=iman',
         description: 'Returns books by keyword.',
       },
     },
