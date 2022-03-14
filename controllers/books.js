@@ -14,11 +14,80 @@ const FILEPATHS = [
   new URL('../books/ushul-fiqih.json', import.meta.url),
 ];
 
-export const getSpecificContent = (req, res) => {
-  const searchQuery = req.query.q;
+const formattingWords = (text, highlightWord) => {
+  const targetedQuery = text.indexOf(highlightWord);
 
-  console.log(searchQuery);
-  res.json({ searchQuery });
+  return (
+    highlightedWords(
+      text
+        .substring(targetedQuery - 20, targetedQuery + 50)
+        .replace(/<(\/)?(\w)+(\s(\w)+='(\w)*')*>/gim, ' '),
+      highlightWord
+    ) + '...'
+  );
+};
+
+const highlightedWords = (text, query) => {
+  const regex = new RegExp(query, 'g');
+  return text.replace(regex, `<span>${query}</span>`).replace(/  +/g, ' ');
+};
+
+export const getSpecificContent = (req, res) => {
+  try {
+    const categoryParams = req.query.category.split(',');
+    const bookParams = req.query.bookId.split(',');
+    const { query } = req.query;
+
+    const bookPromises = categoryParams.map((category) => {
+      const path = new URL(`../books/${category}.json`, import.meta.url);
+      return new Promise(
+        function (path, resolve, reject) {
+          fs.readFile(path, 'utf8', (err, data) => {
+            if (err) {
+              reject('');
+            } else {
+              const categoriesBook = JSON.parse(data).filter(({ id }) =>
+                bookParams.includes(id)
+              );
+              const specificBooks = categoriesBook.map(
+                ({ id, info, content }) => {
+                  const specificContent = content
+                    .map((item) => {
+                      if (item.text.indexOf(query) !== -1) {
+                        const sdf = item.text.match(query);
+                        console.log(
+                          sdf.input.substring(sdf.index - 3, sdf.index + 5)
+                        );
+                        return {
+                          ...item,
+                          text: highlightedWords(item.text, query),
+                          highlight: formattingWords(item.text, query),
+                          id,
+                          info,
+                        };
+                      }
+                    })
+                    .filter(Boolean);
+                  if (categoriesBook.length !== 0) {
+                    return specificContent;
+                  }
+                }
+              );
+
+              resolve(specificBooks);
+            }
+          });
+        }.bind(this, path)
+      ).catch((err) => console.log(err));
+    });
+    Promise.all(bookPromises)
+      .then((results) => {
+        res.json(results.flat(2));
+      })
+      .catch(() => res.json({}));
+  } catch (error) {
+    res.json({ status: 'error' });
+  }
 };
 
 export const getBooks = (req, res) => {
@@ -138,28 +207,3 @@ export const getRootRoutes = (req, res) => {
     },
   });
 };
-
-// if (searchQuery) {
-//   response = response.content.filter(({ text }) => text.includes(searchQuery));
-// }
-
-// export const getSpecificContent = (req, res) => {
-//   fs.readFile(
-//     new URL('../books/al-quran-dan-tafsir.json', import.meta.url),
-//     'utf8',
-//     (err, data) => {
-//       const books = JSON.parse(data);
-//       const { content } = books.find((book) => book.id === req.params.id);
-//       const currentPage = content.find((book) => book.page == req.params.page);
-//       if (currentPage) {
-//         res.end(JSON.stringify(currentPage));
-//       } else {
-//         res.end(
-//           JSON.stringify({
-//             message: 'Maaf, halaman yang anda cari tidak ada pada buku ini.',
-//           })
-//         );
-//       }
-//     }
-//   );
-// };
