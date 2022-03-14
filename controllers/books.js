@@ -20,7 +20,7 @@ const formattingWords = (text, highlightWord) => {
   return (
     highlightedWords(
       text
-        .substring(targetedQuery - 20, targetedQuery + 50)
+        .substring(targetedQuery - 5, targetedQuery + 50)
         .replace(/<(\/)?(\w)+(\s(\w)+='(\w)*')*>/gim, ' '),
       highlightWord
     ) + '...'
@@ -55,9 +55,9 @@ export const getSpecificContent = (req, res) => {
                     .map((item) => {
                       if (item.text.indexOf(query) !== -1) {
                         const sdf = item.text.match(query);
-                        console.log(
-                          sdf.input.substring(sdf.index - 3, sdf.index + 5)
-                        );
+                        // console.log(
+                        //   sdf.input.substring(sdf.index - 3, sdf.index + 5)
+                        // );
                         return {
                           ...item,
                           text: highlightedWords(item.text, query),
