@@ -14,29 +14,38 @@ const FILEPATHS = [
   new URL('../books/ushul-fiqih.json', import.meta.url),
 ];
 
-const formattingWords = (text, highlightWord) => {
-  const targetedQuery = text.indexOf(highlightWord);
-
-  return (
-    highlightedWords(
-      text
-        .substring(targetedQuery - 5, targetedQuery + 50)
-        .replace(/<(\/)?(\w)+(\s(\w)+='(\w)*')*>/gim, ' '),
-      highlightWord
-    ) + '...'
-  );
-};
-
 const highlightedWords = (text, query) => {
   const regex = new RegExp(query, 'g');
   return text.replace(regex, `<span>${query}</span>`).replace(/  +/g, ' ');
 };
 
+const formattingWords = (text, highlightWord) => {
+  const targetedQuery = text.indexOf(highlightWord);
+  let index = 2;
+  try {
+    for (; !text[targetedQuery - index].match(/<|>|\s/); index++);
+
+    return (
+      highlightedWords(
+        text
+          .substring(targetedQuery - index, targetedQuery + 50)
+          .replace(/<(\/)?(\w)+(\s(\w)+='(\w)*')*>/gim, ' ')
+          .replace(/<?\/?(\w+)?(\s(\w)+='(\w)*')*>/, ''),
+        highlightWord
+      ) + '...'
+    );
+  } catch (error) {
+    return typeof error;
+  }
+};
+
 export const getSpecificContent = (req, res) => {
   try {
+    const { query } = req.query;
     const categoryParams = req.query.category.split(',');
     const bookParams = req.query.bookId.split(',');
-    const { query } = req.query;
+    const relevantQueries = [];
+    let startNumber = 1;
 
     const bookPromises = categoryParams.map((category) => {
       const path = new URL(`../books/${category}.json`, import.meta.url);
@@ -46,35 +55,38 @@ export const getSpecificContent = (req, res) => {
             if (err) {
               reject('');
             } else {
-              const categoriesBook = JSON.parse(data).filter(({ id }) =>
-                bookParams.includes(id)
+              const categoriesBook = JSON.parse(data).filter(
+                ({ id }) => bookParams.indexOf(id) !== -1
               );
-              const specificBooks = categoriesBook.map(
-                ({ id, info, content }) => {
-                  const specificContent = content
-                    .map((item) => {
-                      if (item.text.indexOf(query) !== -1) {
-                        const sdf = item.text.match(query);
-                        // console.log(
-                        //   sdf.input.substring(sdf.index - 3, sdf.index + 5)
-                        // );
-                        return {
-                          ...item,
-                          text: highlightedWords(item.text, query),
-                          highlight: formattingWords(item.text, query),
-                          id,
-                          info,
-                        };
+              let isRelevantBook = false;
+              const markingContent = categoriesBook
+                .map((item) => {
+                  const markingParaf = item.content.map(({ page, text }) => {
+                    if (text.indexOf(query) !== -1) {
+                      isRelevantBook = true;
+                      const highlightWord = formattingWords(text, query);
+                      if (highlightWord === 'object') {
+                        res.json({ status: 'error' });
                       }
-                    })
-                    .filter(Boolean);
-                  if (categoriesBook.length !== 0) {
-                    return specificContent;
-                  }
-                }
-              );
+                      relevantQueries.push({
+                        no: startNumber,
+                        id: item.id,
+                        page,
+                        highlightWord,
+                        title: item.info.title,
+                      });
+                      startNumber++;
+                      return { page, text: highlightedWords(text, query) };
+                    }
+                    return { page, text };
+                  });
 
-              resolve(specificBooks);
+                  if (isRelevantBook) {
+                    return { ...item, content: markingParaf };
+                  }
+                })
+                .filter(Boolean);
+              resolve(markingContent);
             }
           });
         }.bind(this, path)
@@ -82,9 +94,12 @@ export const getSpecificContent = (req, res) => {
     });
     Promise.all(bookPromises)
       .then((results) => {
-        res.json(results.flat(2));
+        res.json({
+          relevantQueries: splitArray(relevantQueries),
+          books: results.flat(1),
+        });
       })
-      .catch(() => res.json({}));
+      .catch(() => res.json({ status: 'error' }));
   } catch (error) {
     res.json({ status: 'error' });
   }
@@ -206,4 +221,16 @@ export const getRootRoutes = (req, res) => {
       },
     },
   });
+};
+
+const splitArray = (array) => {
+  const newsPerSections = 5;
+  const numberOfSections = Math.ceil(array.length / newsPerSections);
+
+  const newArray = Array.from({ length: numberOfSections }, (_, index) => {
+    const start = index * newsPerSections;
+    return array.slice(start, start + newsPerSections);
+  });
+
+  return newArray;
 };
