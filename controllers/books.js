@@ -1,51 +1,28 @@
 import fs from 'fs';
+import { FILEPATHS, rootEndpoint } from '../utils/constant.js';
+import {
+  checkParams,
+  formattingWords,
+  getCategoryBook,
+  getCategoryFileNames,
+  highlightedWords,
+  splitArray,
+} from '../utils/helper.js';
 
-const FILEPATHS = [
-  new URL('../books/akhlak.json', import.meta.url),
-  new URL('../books/al-quran-dan-tafsir.json', import.meta.url),
-  new URL('../books/aqidah.json', import.meta.url),
-  new URL('../books/fiqih-ibadah.json', import.meta.url),
-  new URL('../books/fiqih-jinayat.json', import.meta.url),
-  new URL('../books/fiqih-muamalat.json', import.meta.url),
-  new URL('../books/fiqih-wanita.json', import.meta.url),
-  new URL('../books/hadits.json', import.meta.url),
-  new URL('../books/kajian-tematik.json', import.meta.url),
-  new URL('../books/sirah-dan-biografi.json', import.meta.url),
-  new URL('../books/ushul-fiqih.json', import.meta.url),
-];
-
-const highlightedWords = (text, query) => {
-  const regex = new RegExp(query, 'g');
-  return text.replace(regex, `<span>${query}</span>`).replace(/  +/g, ' ');
+export const getRootRoutes = (_, res) => {
+  res.json(rootEndpoint);
 };
 
-const formattingWords = (text, highlightWord) => {
-  const targetedQuery = text.indexOf(highlightWord);
-  let index = 2;
+export const getSpecificContent = async (req, res) => {
   try {
-    for (; !text[targetedQuery - index].match(/<|>|\s/); index++);
-
-    return (
-      highlightedWords(
-        text
-          .substring(targetedQuery - index, targetedQuery + 50)
-          .replace(/<(\/)?(\w)+(\s(\w)+='(\w)*')*>/gim, ' ')
-          .replace(/<?\/?(\w+)?(\s(\w)+='(\w)*')*>/, ''),
-        highlightWord
-      ) + '...'
-    );
-  } catch (error) {
-    return typeof error;
-  }
-};
-
-export const getSpecificContent = (req, res) => {
-  try {
-    const { query } = req.query;
-    const categoryParams = req.query.category.split(',');
-    const bookParams = req.query.bookId.split(',');
+    let categoryParams, bookParams, matchCaseParams, caseInsensitiveParams;
     const relevantQueries = [];
+    const { query } = req.query;
     let startNumber = 1;
+    categoryParams = await checkParams(req.query.category, 'category');
+    bookParams = await checkParams(req.query.bookId, 'book');
+    matchCaseParams = req.query.matchCase;
+    caseInsensitiveParams = req.query.caseInsensitive;
 
     const bookPromises = categoryParams.map((category) => {
       const path = new URL(`../books/${category}.json`, import.meta.url);
@@ -113,7 +90,7 @@ export const getBooks = (req, res) => {
     fs.readFile(
       new URL(`../books/${category}.json`, import.meta.url),
       'utf8',
-      (err, data) => {
+      (_, data) => {
         const books = JSON.parse(data);
         const book = books.find((book) => book.id === bookId);
 
@@ -163,74 +140,16 @@ export const getBooks = (req, res) => {
   }
 };
 
-export const getCategories = (req, res) => {
+export const getCategories = async (_, res) => {
   const fileNames = { totalCategories: 0, categories: [] };
-  fs.readdir(new URL('../books/', import.meta.url), (err, files) => {
-    files.forEach((file) => {
-      fileNames.categories.push({ category: file.replace('.json', '') });
-    });
-    fileNames.totalCategories = files.length;
-    res.json(fileNames);
-  });
+  const categoryFileNames = await getCategoryFileNames(fileNames);
+
+  res.json(categoryFileNames);
 };
 
-export const getCategoryBooks = (req, res) => {
+export const getCategoryBooks = async (req, res) => {
   const { category } = req.params;
-  const books = [];
+  const books = await getCategoryBook(category, true);
 
-  fs.readFile(
-    new URL(`../books/${category}.json`, import.meta.url),
-    'utf8',
-    (err, data) => {
-      JSON.parse(data).forEach(({ id, info }) => books.push({ id, info }));
-
-      res.json(books);
-    }
-  );
-};
-
-export const getRootRoutes = (req, res) => {
-  res.json({
-    maintaner: 'Muhammad Raihan Suryanom <raihansuryanom@gmail.com>',
-    source: 'https://github.com/ReySuryanom/buku-islam-api',
-    endpoints: {
-      books: {
-        pattern: 'https://buku-islam-api.vercel.app/books',
-        description: 'Returns all books lists.',
-      },
-      categories: {
-        pattern: 'https://buku-islam-api.vercel.app/books/categories',
-        description: 'Returns all book categories.',
-      },
-      spesificCategory: {
-        pattern: 'https://buku-islam-api.vercel.app/books/category/{category}',
-        example: 'https://buku-islam-api.vercel.app/books/category/akhlak',
-        description: 'Returns all books based on the requested category.',
-      },
-      spesificBook: {
-        pattern:
-          'https://buku-islam-api.vercel.app/books?bookId={id}&category={category}',
-        example:
-          'https://buku-islam-api.vercel.app/books?bookId=e75e8fdd-b3de-443e-a17b-be8bbaa72c52&category=hadits',
-        description: 'Returns a specific book',
-      },
-      search: {
-        pattern: 'https://buku-islam-api.vercel.app/books?search={query}',
-        example: '/books?search=iman',
-        description: 'Returns books by keyword.',
-      },
-    },
-  });
-};
-
-const splitArray = (array) => {
-  const newsPerSections = 5;
-  const numberOfSections = Math.ceil(array.length / newsPerSections);
-
-  const newArray = Array.from({ length: numberOfSections }, (_, index) => {
-    const start = index * newsPerSections;
-    return array.slice(start, start + newsPerSections);
-  });
-
-  return newArray;
+  res.json(books);
 };
