@@ -1,3 +1,8 @@
+export const BASE_URL =
+  process.env.npm_lifecycle_event === 'dev'
+    ? 'http://localhost:5000/books'
+    : 'https://buku-islam-api.vercel.app/books';
+
 export const FILEPATHS = [
   new URL('../books/akhlak.json', import.meta.url),
   new URL('../books/al-quran-dan-tafsir.json', import.meta.url),

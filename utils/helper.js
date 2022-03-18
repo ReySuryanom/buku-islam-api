@@ -12,6 +12,31 @@ export const splitArray = (array) => {
   return newArray;
 };
 
+export const formattingCategory = (category) =>
+  category.toLowerCase().replace(/ /g, '-').replace('&', 'dan');
+
+export const navigatePages = (url, page, dataLength) => {
+  let next, prev, base;
+  const margin = parseInt(dataLength / 5);
+  const pageNumber = parseInt(page);
+
+  base = url.replace(/&page=\d+/, '&page=');
+  next = url.concat(`&page=${pageNumber + 1}`);
+
+  if (pageNumber > 1) {
+    prev = url.replace(/&page=\d+/, `&page=${pageNumber - 1}`);
+  } else {
+    prev = null;
+  }
+  if (pageNumber >= margin) {
+    next = null;
+  } else {
+    next = url.replace(/&page=\d+/, `&page=${pageNumber + 1}`);
+  }
+
+  return { base, next, current: url, prev };
+};
+
 export const getCategoryFileNames = (fileNames) => {
   const arr = [];
   return new Promise((resolve, _) => {
