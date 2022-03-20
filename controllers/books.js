@@ -29,8 +29,8 @@ export const getSpecificContent = async (req, res) => {
     categoryParams = await checkParams(req.query.category, 'category');
     bookParams = await checkParams(req.query.book_id, 'book');
     pageParams = req.query.page;
-    matchCaseParams = req.query.matchCase;
-    caseInsensitiveParams = req.query.caseInsensitive;
+    matchCaseParams = req.query.match_case;
+    caseInsensitiveParams = req.query.case_insensitive;
 
     const relevantQueries = categoryParams.flatMap((category) => {
       const data = fs.readFileSync(
@@ -44,11 +44,19 @@ export const getSpecificContent = async (req, res) => {
       const markingContent = categoriesBook
         .flatMap((item) => {
           const markingParaf = item.content.flatMap(({ page, text }) => {
-            if (text.indexOf(query) !== -1) {
-              const highlightWord = formattingWords(text, query);
+            const flags = caseInsensitiveParams ? 'gium' : 'gum';
+            const pattern = matchCaseParams ? `\\b${query}\\b` : query;
+            const regex = new RegExp(pattern, flags);
+            const hasQuerySearch = matchCaseParams
+              ? text.match(regex)
+              : text.indexOf(query) !== -1;
+
+            if (hasQuerySearch) {
+              const highlightWord = formattingWords(text, query, regex);
               if (highlightWord === 'object') {
                 res.json({ status: 'error' });
               }
+
               return {
                 no: startNumber++,
                 id: item.id,
@@ -99,6 +107,8 @@ export const getBooks = (req, res) => {
   const bookId = req.query.book_id;
   const category = req.query.category;
   const query = req.query.query;
+  const matchCaseParams = req.query.match_case;
+  const caseInsensitiveParams = req.query.case_insensitive;
 
   if (bookId && category) {
     fs.readFile(
@@ -109,12 +119,17 @@ export const getBooks = (req, res) => {
         const book = books.find((book) => book.id === bookId);
         if (query) {
           const content = book.content.map(({ page, text }) => {
+            const flags = caseInsensitiveParams ? 'gium' : 'gum';
+            const pattern = matchCaseParams ? `\\b${query}\\b` : query;
+            const regex = new RegExp(pattern, flags);
+            const hasQuerySearch = matchCaseParams
+              ? text.match(regex)
+              : text.indexOf(query) !== -1;
             return {
               page,
-              text:
-                text.indexOf(query) !== -1
-                  ? highlightedWords(text, query)
-                  : text,
+              text: hasQuerySearch
+                ? highlightedWords(text, query, regex)
+                : text,
             };
           });
 

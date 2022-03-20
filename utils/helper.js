@@ -100,13 +100,11 @@ export const checkParams = async (params, types) => {
   return params === 'all' ? await data[types] : params.split(',');
 };
 
-export const highlightedWords = (text, query) => {
-  const regex = new RegExp(query, 'g');
-
+export const highlightedWords = (text, query, regex) => {
   return text.replace(regex, `<span>${query}</span>`).replace(/  +/g, ' ');
 };
 
-export const formattingWords = (text, highlightWord) => {
+export const formattingWords = (text, highlightWord, regex) => {
   const targetedQuery = text.indexOf(highlightWord);
   let prefix = 0,
     suffix = 0;
@@ -124,7 +122,8 @@ export const formattingWords = (text, highlightWord) => {
           .replace(/<(\/)?(\w)+(\s(\w)+='(\w)*')*>*/gim, ' ')
           .replace(/\w+>/gim, '')
           .replace(/(<?\/?\w+)?>/g, ''),
-        highlightWord
+        highlightWord,
+        regex
       ) + '...'
     );
   } catch (error) {
