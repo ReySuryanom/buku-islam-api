@@ -27,7 +27,7 @@ export const getSpecificContent = async (req, res) => {
     const { query } = req.query;
     let startNumber = 1;
     categoryParams = await checkParams(req.query.category, 'category');
-    bookParams = await checkParams(req.query.bookId, 'book');
+    bookParams = await checkParams(req.query.book_id, 'book');
     pageParams = req.query.page;
     matchCaseParams = req.query.matchCase;
     caseInsensitiveParams = req.query.caseInsensitive;
@@ -70,7 +70,17 @@ export const getSpecificContent = async (req, res) => {
       pageParams,
       relevantQueries.length
     );
-    if (!pageParams || pageParams < 1 || isNaN(pageParams)) {
+    if (relevantQueries.length === 0) {
+      res.json({
+        searchResults: relevantQueries.length,
+        relevantQueries: [],
+      });
+    } else if (
+      !pageParams ||
+      pageParams <= 0 ||
+      isNaN(pageParams) ||
+      pageParams > Math.ceil(relevantQueries.length / 5)
+    ) {
       res.end({ status: 'error' });
     } else {
       res.json({
@@ -86,8 +96,9 @@ export const getSpecificContent = async (req, res) => {
 };
 
 export const getBooks = (req, res) => {
-  const bookId = req.query.bookId;
+  const bookId = req.query.book_id;
   const category = req.query.category;
+  const query = req.query.query;
 
   if (bookId && category) {
     fs.readFile(
@@ -96,8 +107,21 @@ export const getBooks = (req, res) => {
       (_, data) => {
         const books = JSON.parse(data);
         const book = books.find((book) => book.id === bookId);
+        if (query) {
+          const content = book.content.map(({ page, text }) => {
+            return {
+              page,
+              text:
+                text.indexOf(query) !== -1
+                  ? highlightedWords(text, query)
+                  : text,
+            };
+          });
 
-        res.json(book);
+          res.json({ ...book, content });
+        } else {
+          res.json(book);
+        }
       }
     );
   } else {
@@ -153,82 +177,3 @@ export const getCategoryBooks = async (req, res) => {
 
   res.json(books);
 };
-
-/**
-const bookPromises = categoryParams.map((category) => {
-      const path = new URL(`../books/${category}.json`, import.meta.url);
-      return new Promise(
-        function (path, resolve, reject) {
-          fs.readFile(path, 'utf8', (err, data) => {
-            if (err) {
-              reject('');
-            } else {
-              const categoriesBook = JSON.parse(data).filter(
-                ({ id }) => bookParams.indexOf(id) !== -1
-              );
-              let isRelevantBook = false;
-              const markingContent = categoriesBook
-                .map((item) => {
-                  const markingParaf = item.content.map(({ page, text }) => {
-                    if (text.indexOf(query) !== -1) {
-                      isRelevantBook = true;
-                      const highlightWord = formattingWords(text, query);
-                      if (highlightWord === 'object') {
-                        res.json({ status: 'error' });
-                      }
-                      relevantQueries.push({
-                        no: startNumber,
-                        id: item.id,
-                        page,
-                        highlightWord,
-                        category: formattingCategory(item.info.category),
-                        title: item.info.title,
-                      });
-                      startNumber++;
-                      return { page, text: highlightedWords(text, query) };
-                    }
-                    return { page, text };
-                  });
-
-                  if (isRelevantBook) {
-                    return { ...item, content: markingParaf };
-                  }
-                })
-                .filter(Boolean);
-              resolve(markingContent);
-            }
-          });
-        }.bind(this, path)
-      ).catch((err) => console.log(err));
-    });
-
-
-
- */
-
-/**
-     * {
-          const categoriesBook = JSON.parse(data).filter(
-            ({ id }) => bookParams.indexOf(id) !== -1
-          );
-          categoriesBook.forEach((item) => {
-            item.content.forEach(({ page, text }) => {
-              if (text.indexOf(query) !== -1) {
-                const highlightWord = formattingWords(text, query);
-                if (highlightWord === 'object') {
-                  res.json({ status: 'error' });
-                }
-                console.log(data);
-                return {
-                  no: startNumber++,
-                  id: item.id,
-                  page,
-                  highlightWord,
-                  category: formattingCategory(item.info.category),
-                  title: item.info.title,
-                };
-              }
-            });
-          });
-        }
-     */

@@ -102,21 +102,28 @@ export const checkParams = async (params, types) => {
 
 export const highlightedWords = (text, query) => {
   const regex = new RegExp(query, 'g');
+
   return text.replace(regex, `<span>${query}</span>`).replace(/  +/g, ' ');
 };
 
 export const formattingWords = (text, highlightWord) => {
   const targetedQuery = text.indexOf(highlightWord);
-  let index = 2;
+  let prefix = 0,
+    suffix = 0;
+
   try {
-    for (; !text[targetedQuery - index].match(/<|>|\s/); index++);
+    // Prefix
+    for (; !text[targetedQuery - prefix].match(/<|>|\s/); prefix++);
+    // Suffix
+    for (; !text[targetedQuery + suffix].match(/</) && suffix < 50; suffix++);
 
     return (
       highlightedWords(
         text
-          .substring(targetedQuery - index, targetedQuery + 50)
-          .replace(/<(\/)?(\w)+(\s(\w)+='(\w)*')*>/gim, ' ')
-          .replace(/<?\/?(\w+)?(\s(\w)+='(\w)*')*>/, ''),
+          .substring(targetedQuery - prefix, targetedQuery + suffix)
+          .replace(/<(\/)?(\w)+(\s(\w)+='(\w)*')*>*/gim, ' ')
+          .replace(/\w+>/gim, '')
+          .replace(/(<?\/?\w+)?>/g, ''),
         highlightWord
       ) + '...'
     );
