@@ -1,5 +1,10 @@
 import fs from 'fs';
-import { BASE_URL, FILEPATHS, rootEndpoint } from '../utils/constant.js';
+import {
+  BASE_URL,
+  FILEPATHS,
+  listOfCategory,
+  rootEndpoint,
+} from '../utils/constant.js';
 import {
   checkParams,
   formattingCategory,
@@ -183,7 +188,7 @@ export const getCategories = async (_, res) => {
   const fileNames = { totalCategories: 0, categories: [] };
   const categoryFileNames = await getCategoryFileNames(fileNames);
 
-  res.json(categoryFileNames);
+  res.json({ ...categoryFileNames, listOfCategory });
 };
 
 export const getCategoryBooks = async (req, res) => {

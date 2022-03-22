@@ -17,6 +17,25 @@ export const FILEPATHS = [
   new URL('../books/ushul-fiqih.json', import.meta.url),
 ];
 
+export const listOfCategory = [
+  { category: 'akhlak' },
+  { category: 'al-quran-dan-tafsir' },
+  { category: 'aqidah' },
+  {
+    category: 'fiqih',
+    sub: [
+      { category: 'fiqih-ibadah' },
+      { category: 'fiqih-jinayat' },
+      { category: 'fiqih-muamalat' },
+      { category: 'fiqih-wanita' },
+    ],
+  },
+  { category: 'hadits' },
+  { category: 'kajian-tematik' },
+  { category: 'sirah-dan-biografi' },
+  { category: 'ushul-fiqih' },
+];
+
 export const rootEndpoint = {
   maintaner: 'Muhammad Raihan Suryanom <raihansuryanom@gmail.com>',
   source: 'https://github.com/ReySuryanom/buku-islam-api',
