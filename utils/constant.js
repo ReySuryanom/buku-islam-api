@@ -41,27 +41,25 @@ export const rootEndpoint = {
   source: 'https://github.com/ReySuryanom/buku-islam-api',
   endpoints: {
     books: {
-      pattern: 'https://buku-islam-api.vercel.app/books',
+      pattern: BASE_URL,
       description: 'Returns all books lists.',
     },
     categories: {
-      pattern: 'https://buku-islam-api.vercel.app/books/categories',
+      pattern: `${BASE_URL}/categories`,
       description: 'Returns all book categories.',
     },
     spesificCategory: {
-      pattern: 'https://buku-islam-api.vercel.app/books/category/{category}',
-      example: 'https://buku-islam-api.vercel.app/books/category/akhlak',
+      pattern: `${BASE_URL}/category/{category}`,
+      example: `${BASE_URL}/category/akhlak`,
       description: 'Returns all books based on the requested category.',
     },
     spesificBook: {
-      pattern:
-        'https://buku-islam-api.vercel.app/books?bookId={id}&category={category}',
-      example:
-        'https://buku-islam-api.vercel.app/books?bookId=e75e8fdd-b3de-443e-a17b-be8bbaa72c52&category=hadits',
+      pattern: `${BASE_URL}?bookId={id}&category={category}`,
+      example: `${BASE_URL}?bookId=e75e8fdd-b3de-443e-a17b-be8bbaa72c52&category=hadits`,
       description: 'Returns a specific book',
     },
     search: {
-      pattern: 'https://buku-islam-api.vercel.app/books?search={query}',
+      pattern: `${BASE_URL}?search={query}`,
       example: '/books?search=iman',
       description: 'Returns books by keyword.',
     },
