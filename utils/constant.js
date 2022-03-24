@@ -54,13 +54,13 @@ export const rootEndpoint = {
       description: 'Returns all books based on the requested category.',
     },
     spesificBook: {
-      pattern: `${BASE_URL}?bookId={id}&category={category}`,
-      example: `${BASE_URL}?bookId=e75e8fdd-b3de-443e-a17b-be8bbaa72c52&category=hadits`,
+      pattern: `${BASE_URL}?book_id={id}&category={category}`,
+      example: `${BASE_URL}?book_id=T0Uzd&category=hadits`,
       description: 'Returns a specific book',
     },
     search: {
-      pattern: `${BASE_URL}?search={query}`,
-      example: '/books?search=iman',
+      pattern: `${BASE_URL}/search?query={query}&category={categories}&book_id={Ids}&page={page}`,
+      example: `${BASE_URL}/search?query=iman&category=all&book_id=all&page=9`,
       description: 'Returns books by keyword.',
     },
   },

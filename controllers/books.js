@@ -52,16 +52,13 @@ export const getSpecificContent = async (req, res) => {
             const flags = caseInsensitiveParams ? 'gium' : 'gum';
             const pattern = matchCaseParams ? `\\b${query}\\b` : query;
             const regex = new RegExp(pattern, flags);
-            const hasQuerySearch = matchCaseParams
-              ? text.match(regex)
-              : text.indexOf(query) !== -1;
 
-            if (hasQuerySearch) {
+            if (regex.test(text)) {
               const highlightWord = formattingWords(text, query, regex);
               if (highlightWord === 'object') {
-                res.json({ status: 'error' });
+                res.end({ status: 'error', hihi: 'f' });
               }
-
+              console.log(highlightWord);
               return {
                 no: startNumber++,
                 id: item.id,
@@ -84,7 +81,7 @@ export const getSpecificContent = async (req, res) => {
       relevantQueries.length
     );
     if (relevantQueries.length === 0) {
-      res.json({
+      return res.json({
         searchResults: relevantQueries.length,
         relevantQueries: [],
       });
@@ -94,9 +91,9 @@ export const getSpecificContent = async (req, res) => {
       isNaN(pageParams) ||
       pageParams > Math.ceil(relevantQueries.length / 5)
     ) {
-      res.end({ status: 'error' });
+      return res.end({ status: 'error' });
     } else {
-      res.json({
+      return res.json({
         links: { base, next, current, prev },
         searchResults: relevantQueries.length,
         relevantQueries: splitArray(relevantQueries)[pageParams - 1],
@@ -104,7 +101,7 @@ export const getSpecificContent = async (req, res) => {
     }
   } catch (error) {
     console.log(error);
-    res.json({ status: 'error' });
+    return res.json({ status: 'error' });
   }
 };
 
@@ -112,6 +109,7 @@ export const getBooks = (req, res) => {
   const bookId = req.query.book_id;
   const category = req.query.category;
   const query = req.query.query;
+  const page = req.query.page;
   const matchCaseParams = req.query.match_case;
   const caseInsensitiveParams = req.query.case_insensitive;
 
@@ -122,13 +120,31 @@ export const getBooks = (req, res) => {
       (_, data) => {
         const books = JSON.parse(data);
         const book = books.find((book) => book.id === bookId);
-        if (query) {
+
+        if (query && page) {
+          const { text, page: pageContent } = book.content.find(
+            (item) => item.page === +page
+          );
+          const flags = caseInsensitiveParams ? 'gium' : 'gum';
+          const pattern = matchCaseParams ? `\\b${query}\\b` : query;
+          const regex = new RegExp(pattern, flags);
+
+          res.json({
+            ...book,
+            content: {
+              page: pageContent,
+              text: regex.test(text)
+                ? highlightedWords(text, query, regex)
+                : text,
+            },
+          });
+        } else if (query) {
           const content = book.content.map(({ page, text }) => {
             const flags = caseInsensitiveParams ? 'gium' : 'gum';
             const pattern = matchCaseParams ? `\\b${query}\\b` : query;
             const regex = new RegExp(pattern, flags);
             const hasQuerySearch = matchCaseParams
-              ? text.match(regex)
+              ? regex.test(text)
               : text.indexOf(query) !== -1;
             return {
               page,

@@ -28,7 +28,8 @@ export const navigatePages = (url, page, dataLength) => {
   } else {
     prev = null;
   }
-  if (pageNumber >= margin) {
+
+  if (pageNumber > margin || pageNumber === 1) {
     next = null;
   } else {
     next = url.replace(/&page=\d+/, `&page=${pageNumber + 1}`);
@@ -104,8 +105,9 @@ export const highlightedWords = (text, query, regex) => {
   return text.replace(regex, `<span>${query}</span>`).replace(/  +/g, ' ');
 };
 
-export const formattingWords = (text, highlightWord, regex) => {
-  const targetedQuery = text.indexOf(highlightWord);
+export const formattingWords = (text, query, regex) => {
+  const matchedQuery = text.match(regex);
+  const targetedQuery = text.indexOf(matchedQuery[0] || query);
   let prefix = 0,
     suffix = 0;
 
@@ -122,7 +124,7 @@ export const formattingWords = (text, highlightWord, regex) => {
           .replace(/<(\/)?(\w)+(\s(\w)+='(\w)*')*>*/gim, ' ')
           .replace(/\w+>/gim, '')
           .replace(/(<?\/?\w+)?>/g, ''),
-        highlightWord,
+        query,
         regex
       ) + '...'
     );
