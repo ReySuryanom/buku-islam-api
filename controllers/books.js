@@ -58,7 +58,7 @@ export const getSpecificContent = async (req, res) => {
               if (highlightWord === 'object') {
                 res.end({ status: 'error', hihi: 'f' });
               }
-              console.log(highlightWord);
+
               return {
                 no: startNumber++,
                 id: item.id,
@@ -121,7 +121,7 @@ export const getBooks = (req, res) => {
         const books = JSON.parse(data);
         const book = books.find((book) => book.id === bookId);
 
-        if (query && page) {
+        if (query && page !== 'undefined') {
           const { text, page: pageContent } = book.content.find(
             (item) => item.page === +page
           );
