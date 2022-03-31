@@ -2,6 +2,7 @@ import fs from 'fs';
 import {
   BASE_URL,
   FILEPATHS,
+  getRegex,
   listOfCategory,
   rootEndpoint,
 } from '../utils/constant.js';
@@ -49,9 +50,11 @@ export const getSpecificContent = async (req, res) => {
       const markingContent = categoriesBook
         .flatMap((item) => {
           const markingParaf = item.content.flatMap(({ page, text }) => {
-            const flags = caseInsensitiveParams ? 'gium' : 'gum';
-            const pattern = matchCaseParams ? `\\b${query}\\b` : query;
-            const regex = new RegExp(pattern, flags);
+            const regex = getRegex(
+              caseInsensitiveParams,
+              matchCaseParams,
+              query
+            );
 
             if (regex.test(text)) {
               const highlightWord = formattingWords(text, query, regex);
@@ -100,7 +103,6 @@ export const getSpecificContent = async (req, res) => {
       });
     }
   } catch (error) {
-    console.log(error);
     return res.json({ status: 'error' });
   }
 };
@@ -109,7 +111,6 @@ export const getBooks = (req, res) => {
   const bookId = req.query.book_id;
   const category = req.query.category;
   const query = req.query.query;
-  const page = req.query.page;
   const matchCaseParams = req.query.match_case;
   const caseInsensitiveParams = req.query.case_insensitive;
 
@@ -121,31 +122,18 @@ export const getBooks = (req, res) => {
         const books = JSON.parse(data);
         const book = books.find((book) => book.id === bookId);
 
-        if (query && page !== 'undefined') {
-          const { text, page: pageContent } = book.content.find(
-            (item) => item.page === +page
-          );
-          const flags = caseInsensitiveParams ? 'gium' : 'gum';
-          const pattern = matchCaseParams ? `\\b${query}\\b` : query;
-          const regex = new RegExp(pattern, flags);
-
-          res.json({
-            ...book,
-            content: {
-              page: pageContent,
-              text: regex.test(text)
-                ? highlightedWords(text, query, regex)
-                : text,
-            },
-          });
-        } else if (query) {
+        if (query) {
           const content = book.content.map(({ page, text }) => {
-            const flags = caseInsensitiveParams ? 'gium' : 'gum';
-            const pattern = matchCaseParams ? `\\b${query}\\b` : query;
-            const regex = new RegExp(pattern, flags);
+            const regex = getRegex(
+              caseInsensitiveParams,
+              matchCaseParams,
+              query
+            );
+
             const hasQuerySearch = matchCaseParams
               ? regex.test(text)
               : text.indexOf(query) !== -1;
+
             return {
               page,
               text: hasQuerySearch

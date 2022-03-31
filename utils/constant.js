@@ -17,6 +17,14 @@ export const FILEPATHS = [
   new URL('../books/ushul-fiqih.json', import.meta.url),
 ];
 
+export const getRegex = (caseInsensitiveParams, matchCaseParams, query) => {
+  const flags = caseInsensitiveParams === 'true' ? 'gium' : 'gum';
+  const pattern = matchCaseParams === 'true' ? `\\b${query}\\b` : query;
+  const regex = new RegExp(pattern, flags);
+
+  return regex;
+};
+
 export const listOfCategory = [
   { category: 'akhlak' },
   { category: 'al-quran-dan-tafsir' },
