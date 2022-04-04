@@ -101,8 +101,18 @@ export const checkParams = async (params, types) => {
   return params === 'all' ? await data[types] : params.split(',');
 };
 
-export const highlightedWords = (text, query, regex) => {
-  return text.replace(regex, `<span>${query}</span>`).replace(/  +/g, ' ');
+export const insertTabIndex = (text) => {
+  return text.replace(
+    /<(\w)+(\s(\w)+='(\w)*')*>*/gimu,
+    (openingTags) =>
+      openingTags.slice(0, -1) + " tabindex='0'" + openingTags.slice(-1)
+  );
+};
+
+export const highlightedWords = (text, regex) => {
+  return text
+    .replace(regex, (query) => `<span>${query}</span>`)
+    .replace(/  +/g, ' ');
 };
 
 export const formattingWords = (text, query, regex) => {
@@ -124,7 +134,6 @@ export const formattingWords = (text, query, regex) => {
           .replace(/<(\/)?(\w)+(\s(\w)+='(\w)*')*>*/gim, ' ')
           .replace(/\w+>/gim, '')
           .replace(/(<?\/?\w+)?>/g, ''),
-        query,
         regex
       ) + '...'
     );

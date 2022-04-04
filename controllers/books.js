@@ -25,8 +25,8 @@ export const getSpecificContent = async (req, res) => {
   try {
     let categoryParams,
       bookParams,
-      matchCaseParams,
-      caseInsensitiveParams,
+      exactMatchParams,
+      caseSensitiveParams,
       pageParams;
 
     const baseURL = BASE_URL + req.url;
@@ -35,8 +35,8 @@ export const getSpecificContent = async (req, res) => {
     categoryParams = await checkParams(req.query.category, 'category');
     bookParams = await checkParams(req.query.book_id, 'book');
     pageParams = req.query.page;
-    matchCaseParams = req.query.match_case;
-    caseInsensitiveParams = req.query.case_insensitive;
+    exactMatchParams = req.query.exact_match;
+    caseSensitiveParams = req.query.case_sensitive;
 
     const relevantQueries = categoryParams.flatMap((category) => {
       const data = fs.readFileSync(
@@ -51,15 +51,15 @@ export const getSpecificContent = async (req, res) => {
         .flatMap((item) => {
           const markingParaf = item.content.flatMap(({ page, text }) => {
             const regex = getRegex(
-              caseInsensitiveParams,
-              matchCaseParams,
+              caseSensitiveParams,
+              exactMatchParams,
               query
             );
 
             if (regex.test(text)) {
               const highlightWord = formattingWords(text, query, regex);
               if (highlightWord === 'object') {
-                res.end({ status: 'error', hihi: 'f' });
+                res.end({ status: 'error' });
               }
 
               return {
@@ -111,8 +111,8 @@ export const getBooks = (req, res) => {
   const bookId = req.query.book_id;
   const category = req.query.category;
   const query = req.query.query;
-  const matchCaseParams = req.query.match_case;
-  const caseInsensitiveParams = req.query.case_insensitive;
+  const exactMatchParams = req.query.exact_match;
+  const caseSensitiveParams = req.query.case_sensitive;
 
   if (bookId && category) {
     fs.readFile(
@@ -123,22 +123,11 @@ export const getBooks = (req, res) => {
         const book = books.find((book) => book.id === bookId);
 
         if (query) {
+          const regex = getRegex(caseSensitiveParams, exactMatchParams, query);
           const content = book.content.map(({ page, text }) => {
-            const regex = getRegex(
-              caseInsensitiveParams,
-              matchCaseParams,
-              query
-            );
-
-            const hasQuerySearch = matchCaseParams
-              ? regex.test(text)
-              : text.indexOf(query) !== -1;
-
             return {
               page,
-              text: hasQuerySearch
-                ? highlightedWords(text, query, regex)
-                : text,
+              text: regex.test(text) ? highlightedWords(text, regex) : text,
             };
           });
 
