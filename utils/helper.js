@@ -17,8 +17,8 @@ export const formattingCategory = (category) =>
 
 export const navigatePages = (url, page, dataLength) => {
   let next, prev, base;
-  const margin = parseInt(dataLength / 5);
-  const pageNumber = parseInt(page);
+  const margin = +(dataLength / 5);
+  const pageNumber = +page;
 
   base = url.replace(/&page=\d+/, '&page=');
   next = url.concat(`&page=${pageNumber + 1}`);
@@ -29,7 +29,7 @@ export const navigatePages = (url, page, dataLength) => {
     prev = null;
   }
 
-  if (pageNumber > margin || pageNumber === 1) {
+  if (pageNumber > margin || margin === 1) {
     next = null;
   } else {
     next = url.replace(/&page=\d+/, `&page=${pageNumber + 1}`);
