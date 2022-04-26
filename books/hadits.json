@@ -258,5 +258,191 @@
         "text": "<p>logika, yang sangat lemah.</p><ul><li>Kelompok yang menentang kehujjahan hadits ahad juga menggunakan dalil ayat Al-Qur’an, hanya saja permasalahannya terdapat kerancuan dalam memaknai kata ‘dhann’ dalam ayat tersebut, sehingga akhirnya menimbulkan kesimpulan yang rancu pula.</li></ul>"
       }
     ]
+  },
+  {
+    "id": "rs8",
+    "info": {
+      "title": "Haditsnya Nomor Berapa?",
+      "author": "Ahmad Sarwat, Lc., MA",
+      "publish": "Sat, 8 June 2019",
+      "pages": 31,
+      "price": 0,
+      "category": "Hadits",
+      "desc": "Seberapa penting kita membahas masalah penomoran hadits? Jawabannya penting dan tidak penting, tergantung bagaimana kita melihatnya. Buat kalangan yang belajar hadits secara klasik, nomornomor hadits memang tidak penting, karena bukan tradisi para pembelajar hadits di masa lalu untuk menyebutkan nomor-nomor hadits."
+    },
+    "tableOfContents": [
+      { "page": 6, "text": "Muqaddimah", "head": true },
+      {
+        "page": 9,
+        "text": "Penomoran Hadits",
+        "sub": [
+          { "page": 10, "text": "Penomoran Tidak Berasal Dari Naskah Asli" },
+          {
+            "page": 11,
+            "text": "Faktor Perbedaan",
+            "sub": [
+              { "page": 11, "text": "Haditsnya Terulang-ulang" },
+              { "page": 11, "text": "Matan Sama Jalur Periwayatan Berbeda" },
+              { "page": 12, "text": "Mutabaah dan Syawahid" }
+            ]
+          },
+          { "page": 12, "text": "Penomoran Tidak Seragam" },
+          {
+            "page": 13,
+            "text": "Bandingkan Dengan Penomoran Ayat Al-Quran",
+            "sub": [
+              { "page": 14, "text": "Perbedaan Penomoran Ayat Al-Quran" },
+              { "page": 15, "text": "Penggalan Ayat Surat Al-Fatihah" }
+            ]
+          }
+        ]
+      },
+      {
+        "page": 18,
+        "text": "Jumlah Hadits Dalam Shahih Bukhari",
+        "sub": [
+          { "page": 19, "text": "Imam Ibnu as-Shalah : 7.275 Hadits" },
+          { "page": 19, "text": "Imam an-Nawawi : 7.275" },
+          { "page": 20, "text": "Ibnu Hajar al-Asqalani : 9.082 Hadits" },
+          { "page": 21, "text": "Dr. Dib Al-Bugha : 7.124" },
+          { "page": 22, "text": "Dr. Fuad Abdul Baqi : 7.563" }
+        ]
+      },
+      {
+        "page": 23,
+        "text": "Shahih Muslim",
+        "sub": [
+          { "page": 23, "text": "Abu Quraisy : 4.000 hadits" },
+          { "page": 23, "text": "Ahmad bin Salamah : 12.000 Hadits" },
+          { "page": 23, "text": "Al-Mayanji : 8.000 Hadits" },
+          { "page": 24, "text": "Haji Khalifah & Hasan Khan : 7.270 Hadits" },
+          { "page": 24, "text": "Muhammad Fuad Abdul Baqi :3.033-5.770" }
+        ]
+      },
+      {
+        "page": 25,
+        "text": "Jumlah Hadits Dalam Al-Muwaththa' Malik",
+        "sub": [
+          { "page": 26, "text": "Mushtafa al-A'zhami : 3.676" },
+          { "page": 27, "text": "Basyar Awad Ma'ruf : 3.069" },
+          { "page": 27, "text": "Abdul Wahab Abdullatif : 1.008" }
+        ]
+      },
+      {
+        "page": 28,
+        "text": "Kitab Bulughul Maram",
+        "sub": [
+          { "page": 28, "text": "Al-Qadhi Al-Husein Al-Maghribi : 1.324" },
+          { "page": 29, "text": "Subulus-Salam : 1.477" },
+          { "page": 29, "text": "Samir bin Amin Az-Zuhri : 1.582" },
+          { "page": 29, "text": "Dr. Mahir Yasin Al-Fahl : 1.568" },
+          { "page": 30, "text": "Abdurrahman Al-Bassam : 1.371" },
+          { "page": 30, "text": "Khalid bin Dhaifullah Asy-Syalahi 1.567" },
+          { "page": 30, "text": "Syeikh Al-Utsaimin : 1.502" }
+        ]
+      }
+    ],
+    "content": [
+      {
+        "page": 6,
+        "text": "<strong>Muqaddimah</strong><p>Seberapa penting kita membahas masalah penomoran hadits?</p><p>Jawabannya penting dan tidak penting, tergantung bagaimana kita melihatnya. Buat kalangan yang belajar hadits secara klasik, nomornomor hadits memang tidak penting, karena bukan tradisi para pembelajar hadits di masa lalu untuk menyebutkan nomor-nomor hadits.</p><p>Hadits-hadits itu diidentifikasi cukup dengan menyebutkan potongannya saja, atau malah hanya ujung awalnya saja. Sering juga disebut dengan istilah athraf (أطراف). Dan begitulah umumnya para pembelajar hadits mengenali identitas masing-masing hadits.</p><p>Namun di masa modern ini, banyak diterbitkan kitab hadits yang telah ditahqiq atau diteliti, dimana para peneliti kemudian menambahi nomor pada tiap hadits. Sesuatu yang dalam naskah aslinya tidak pernah dituliskan oleh penyusun asli kitab tersebut.</p><p>Diperkirakan bahwa penambahan nomor-nomor hadits itu dipengaruhi dengan metodologi penelitan hadits dari kalangan orientalis barat. Mereka agak kesulitan untuk menghafal ujung awal suatu hadits, sehingga untuk mudahya dibuatkan saja nomornomor hadits yang memudahkan dalam</p>"
+      },
+      {
+        "page": 7,
+        "text": "<p dir='cntn'>mengidentifikasi suatu hadits.</p><p>Namun sistem penomoran ini ternyata tidak baku, karena para orientalis itu tidak seragam dalam membuat ketentuannya. Sehingga penomoran ini alih-alih memudahkan, yang terjadi malah menambah kerumitan, karena ketidak-seragaman tadi.</p><p>Sehingga kalau pun penyebutan suatu hadits masih dipaksa pakai nomor juga, harus disebutkan juga penomorannya itu menurut versi siapa. Dan mengingat bahwa hasil-hasil penomoran itu kemudian diterbitkan oleh beberapa penerbit yang berbeda, maka selain dicantumkan siapa yang memberi nomor itu, juga harus disebutan juga menurut versi penerbit yang mana, tahun berada diterbitkannya. Mirip seperti mencantuman footnote dalam karya ilmiyah.</p><p>Jadi tambah ribet lagi sebenarnya, tapi memang kesannya keren dan ilmiyah kalau sampai bisa menyebutkan nomor hadits, bahkan nomor halaman, pojokan sebelah mana. Secara atraksi panggung, sukses besar. Walaupun sebenarnya cara semacam itu bukan hal yang baku di kalangan para pembelajar hadits di era klasik.</p><p>Buku kecil ini berisi catatan-catatan kecil dari kumpulannya yang terserak, berisi perbedaan hasil hitung-hitungan para peneliti dalam menjumlahkan hadits yang terdapat di dalam suatu kitab hadits populer, baik itu Shahih Bukhari, Shahih Muslim, AlMuwaththa’ dan juga Bulughul Maram. Dan memang jumlahnya tidak pernah sama. Sehingga kita bisa</p>"
+      },
+      {
+        "page": 8,
+        "text": "<p dir='cntn'>tahu bahwa penomoran hadits itu sendiri pun dipastikan berbeda-beda.</p><p>Sebuah hadits yang di dalam kitab terbitan penerbit A punya nomor sekian, namun dalam terbitan penerbit B dipastikan nomornya beda lagi. Nanti ada penerbit C, D, E dan seterusnya, yang jelasjelas akan berbeda lagi penomorannya.</p><p>Juga dijelaskan singkat kenapa sampai para peneliti bisa berbeda-beda dalam memberikan nomor pada tiap hadits itu. Di antaranya karena sejak penyusun aslinya memang tidak memberi nomor, lalu ada banyak hadits yang terulang-ulang, atau ada hadits yang matannya satu namun jalur periwayatannya ada banyak. Dan juga yang tambah rumit ketika satu hadits didukung dengan tatabu’ dan syawahid yang menguatkannya, apakah dihitung sebagai satu hadits saja atau dihitung masing-masing sebagai hadits-hadits yang berbeda dengan nomor masing-masing.</p><p>Selamat membaca buku ini semoga ilmu pengetahuan kita khususnya dalam ilmu hadits bertambah dan mendapatkan bimbingan dari Allah SWT. Amin ya rabbal ‘alamin</p>"
+      },
+      {
+        "page": 9,
+        "text": "<strong>A. Penomoran Hadits</strong><p>Tidak seperti Al-Quran yang penomoran ayatnya sudah agak baku, penomoran hadits dalam suatu kitab hadits sangat beragam dan berbeda-beda.</p><p>Hal itu disebabkan penyusun kitab hadits aslinya, seperti Imam Malik yang menyusun kitab AlMuwaththa’ atau Imam Al-Bukhari yang menyusun Shahih Bukhari, atau Imam Muslim dan yang lainnya, pada saat menyusun kitab tidak memberikan nomor hadits.</p><p>Kira-kira sebagaimana Malaikat Jibril menurunkan wahyu kepada Rasulullah SAW, saat itu juga sama sekali tidak disebutkan nomor ayatnya.</p><p>Lalu siapa yang memberi nomor pada kitab-kita hadits itu kalau memang bukan penyusunnya sendiri yang menomorinya?</p><p>Biasanya yang memberikan nomor adalah para peneliti (muhaqqiq) yang melakukan penelitian ilmiyah atas karya para ulama terdahulu.</p><p>Di antara para muhaqqiq klasik yang masyhur di kalangan para ulama hadits misalnya Imam Ibnu AshShalah (w. 643 H), Imam An-Nawawi (w. 676 H), Imam Ibnu Hajar Al-Asqalani (w. 852 H) dan lainnya.</p><p>Di masa sekarang ini juga banyak juga para peneliti (muhaqqiq) yang melakukan penelitian atas kitabkitab hadits, termasuk mereka yang dari kalangan orientalis pun melakukannya juga. Misalnya yang</p>"
+      },
+      {
+        "page": 10,
+        "text": "<p dir='cntn'>dilakukan oleh Muhammad Fuad Abdul Baqi (w. 1967 M) yang terinspirasi dari Arent J. Wensinck (w. 1939 M), seorang orientalis Belanda yang menyusun kitab Al-Mu’jam Al-Mufahras li Al-Alfadz Al-Hadits AnNabawi serta kitab Mifathu Kunuz As-Sunnah.</p><p>Jadi dari mana nomor-nomor hadits itu datang? Jawabannya dari para peneliti atau para muhaqqiq, baik klasik atau pun modern.</p><p>Konsekuensinya, beda peneliti biasanya akan berbeda-beda ketika menomori tiap hadits. Dan pada akhirnya berapa jumlah total hadits dalam suatu kitab hadits pun pastinya berbeda-beda juga.</p><p>Kemudian hasil penelitian dari para muhaqqiq yang berbeda-beda itu diterbitkan. Maka nomornomor hadits itu muncul berbeda-beda di masingmasing penerbit, padahal kitab haditsnya itu-tiu juga.</p><p>Suatu penerbit menerbitkan naskah berdasarkan hasil peneliti si fulan, lalu penerbit yang lain menerbitkan hasil penelitian peneliti yang lain. Dan hasilnya, nomor hadits pada masing-masing penerbit sudah pasti berbeda.</p><p>Apakah pemberian nomor pada hadits yang dilakukan oleh para muhaqqiq itu salah dan keliru?</p><p>Jawabannya tidak juga. Namun ada beberapa hal yang perlu dicatat, antara lain</p><strong>1. Penomoran Tidak Berasal Dari Naskah Asli</strong><p>Asal tahu saja bahwa penomoran dalam kitab hadits terbitan zaman sekarang bukan berasal dari penyusun kitab hadits aslinya. Penyusun aslinya tidak pernah memberi nomor-nomor hadits</p>"
+      },
+      {
+        "page": 11,
+        "text": "<p>Yang membuat nomor pada setiap butir hadits adalah para peneliti dan muhaqqiq yang datang kemudian. Namun mereka kemudian berbeda-beda dalam menghitung, karena ada banyak faktor yang sulit untuk diseragamkan.</p><strong>2. Faktor Perbedaan</strong><p>Lalu apa yang menyebabkan mereka para peneliti menghitungnya tidak sama dan tidak seragam? Bukankah hal itu malah membuat kita jadi semakin bingung?</p><p>Jawabannya ada banyak faktor yang membuat mereka berbeda ketika menghitung jumlah hadis pada suatu kitab. Diantaranya faktor-faktor itu antara lain :</p><strong>a. Haditsnya Terulang-ulang</strong><p>Kebanyakan para penyusun kitab hadits melakukan pengulangan-pengulangan atas suatu hadits yang sama pada bab-bab yang berbeda.</p><p>Suatu hadits sebenarnya sudah ditampilkan sebelumnya pada suatu bab, namun begitu si penyusun menuliskan bab yang yang lagi. Bahkan pengulangan ini bukan hanya sekali dua kali, tetapi bisa saja berkali-kali.</p><p>Kalau ada satu hadits yang pernah dituliskan sebelumnya kemudian dituliskan ulang lagi, maka para peneliti menjadi bingung, apakah tiap pengulangan mau dihitung tersendiri, ataukah cukup dianggap satu hadits saja?</p><strong>b. Matan Sama Jalur Periwayatan Berbeda</strong><p>Banyak penyusun kitab hadits mencantumkan</p>"
+      },
+      {
+        "page": 12,
+        "text": "<p dir='cntn'>satu hadits dengan banyak jalur periwayatan. Padahal dari sisi matan atau teks, hadits itu sama persis tidak ada perbedaan redaksi sedikitpun. Namun karena dia mendapatkan hadits itu lewat beberapa jalur periwayatan dan dari guru yang berbeda, dicantumkan semua jalur periwayatan itu.</p><p>Tinggal muhaqqiqnya yang bingung, apakah dalam kasus ini haditsnya mau dihitung sebagai satu hadits saja atau mau dihitung sesuai jumlah jalur periwayatannya juga. Dan akan jadi lain lagi bila matannya itu sedikit punya perbedaan yang amat tidak mendasar.</p><strong>c. Mutabaah dan Syawahid</strong><p>Kadang ketika menuliskan suatu hadits, penyusun mencantum hadits lain yang menjadi bagian pelengkap atau penyempurna hadits yang sedang dia sampaikan. Istilahnya mutabaah dan syawahid yang mendampingi tiap hadits yang dicantumkan.</p><p>Syawahid ini statusnya seringkali berupa hadits juga, sehingga membingungkan si peneliti, apakah syawahid ini mau dihitung juga sebagai hadits tersendiri atau tidak dihitung, karena fungsinya lebih seperti penjelasan dan penguat saja.</p><strong>3. Penomoran Tidak Seragam</strong><p>Dengan kondisi yang seperti sudah disebutkan di atas, maka setiap satu muhaqqiq akan punya data hasil penghitungan yang berbeda-beda. Sehingga ketika memberi nomor pada hadits yang terdapat dalam suatu kitab, nomornya pun berbeda-beda versinya.</p>"
+      },
+      {
+        "page": 13,
+        "text": "<p>Bila satu orang muhaqqiq saja sudah serumit itu dalam memberikan nomor hadits, apalagi kalau yang melakukan tahqiq atas kitab yang sama ada beberapa orang. Tentu akan lebih tidak seragam lagi penomoran hadits itu.</p><p>Oleh karena itu sebenarnya agak kurang tepat kalau dalam mengutip suatu hadits, kita hanya menyebutkan nomornya saja. Karena nomor hadits dalam satu versi muhaqqiq pastinya tidak sama dengan nomor hadits menurut versi muhaqqiq yang lain.</p><p>Penyebutan nomor hadits kalau untuk sekedar atraksi panggung memang kelihatan agak keren. Seolah-olah si ustadz yang mengutip itu sangat ahli sampai hafal nomor-nomor hadits.</p><p>Namun di sisi lain, penyebutan nomor hadits semacam ini sebenarnya tidak baku dan kadang malah membingungkan. Karena kalau hanya disebutkan nomornya saja, tanpa menyebutkan nomor versi siapa, juga akan bikin bingung mereka yang mau merujuk dan meneliti kemudian.</p><p>Kalau mau keren menyebutkan nomor hadits, seharusnya juga dengan menyebutkan nama penerbitnya sekaligus sebutkan juga nomor halamannya, dan jangan lupa sebutkan juga cetakan ke berapa berapa dan tahun berapa diterbitkannya. Maka penyebutannya jadi rada panjang, mirip dengan format penulisan footnote pada makalah ilmiyah.</p><strong>4. Bandingkan Dengan Penomoran Ayat Al-Quran</strong><p>Penomoran hadist dalam kitab-kitan hadits sangat</p>"
+      },
+      {
+        "page": 14,
+        "text": "<p dir='cntn'>jauh berbeda dengan penomoran pada ayat-ayat AlQuran. Penomoran ayat-ayat Al-Quran relatif sudah agak baku, kecuali dengan beberapa catatan kecil saja.</p><p>Selebihnya kita dengan mudah bisa mengutip suatu ayat cukup dengan menyebutkan nama surat dan nomor ayatnya saja. Setidaknya jauh lebih baku daripada nomor pada hadits.</p><p>a. Perbedaan Penomoran Ayat Al-Quran</p><p>Para ulama ahli Al-Quran sebenarnya masih berbeda-beda tentang jumlah ayat Al-Quran yang pasti. Maksud berbeda disini dalam masalah penomorannya saja. Kalau fisiknya tetap sama semua, namun karena berbeda dalam memberi penggalan nomor ayat, akhirnya jumlah ayat AlQuran secara total pun berbeda.</p><p>Ada orang yang menghitung dua ayat menjadi satu. Dan sebaliknya juga ada yang menghitung satu ayat jadi dua. Padahal kalau dibaca semua lafadz Quran itu, semuanya sama dan itu itu juga. Tidak ada yang berbeda.</p><p>Para ulama sepakat mengatakan bahwa jumlah ayat Al-Quran lebih dari 6.200 ayat. Namun berapa ayat lebihnya, mereka masih berselisih pendapat dengan rincian sebagai berikut :</p><ul><li>Nafi’ : Menurut Nafi' yang merupakan ulama Madinah, jumlah tepatnya adalah 6.217 ayat.</li><li>Syaibah : Sedangkan Syaibah yang juga ulama Madinah, jumlah tepatnya 6214 ayat.</li><li>Abu Ja'far : meski Beliau juga merupakan ulama</li></ul>"
+      },
+      {
+        "page": 15,
+        "text": "<p>Madinah, namun beliau mengatakan bahwa jumlah tepatnya 6.210 ayat.</p><ul><li>Ibnu Katsir : ulama Makkah mengatakan jumlahnya 6.220 ayat.</li><li>'Ashim : yang merupakan ulama Bashrah mengatakan bahwa jumlahnya jumlah ayat alQuran ialah., 205 ayat.</li><li>Hamzah : yang merupakan ulama Kufah sebagaimana yang diriwayatkan mengatakan bahwa jumlahnya 6.236 ayat.</li><li>Yahya Ibn al-Harits : para ulama Syria sebagaimana yang diriwayatkan oleh Yahya Ibn al-Harits mengatakan bahwa jumlahnya 6.226 ayat.</li></ul><strong>b. Penggalan Ayat Surat Al-Fatihah</strong><p>Seluruh ulama sepakat bahwa surat Al-Fatihah memiliki tujuh ayat, namun mereka berbeda pendapat tentang ayat bismillahirrahmanirrahim, apakah termasuk bagian dari surat Al-Fatihah atau bukan. Dengan kata lain, ada kalangan yang menyebutkan bahwa ayat pertama surat ini adalah bismillahirrahmanirrahim, dan ada yang menyebutkan bahwa ayat pertama adalah alhamdulilahirabbil alamin.</p><strong>Pendapat Pertama : Ayat 1 Surat Al-Fatihah</strong><p>Yang menetapkan bahwa bismillah merupakan ayat pertama surat Al-Fatihah dan menjadi ayat pertama adalah mazhab As-Syafi'iyah dan AlHanabilah. Dalilnya adalah hadits berikut ini :</p>"
+      },
+      {
+        "page": 16,
+        "text": "<q>Rasulullah SAW bersabda,\"Bila kamu membaca surat Al-Fatihah, maka bacalah bismillahirrahmanirrahim, karena bismillahir rahmanirrahim adalah salah satu ayatnya\". (HR. Ad-Daruquthuny).</q><q>Fatihatul-kitab (surat Al-Fatihah) berjumlah tujuh ayat. Ayat pertama adalah bismillahirrahmanirrahim. (HR. Al-Baihaqi)1</q><q>Dari Ali bin Abi Thalib radhiyallahuanhu, beliau berkata,\"Rasulullah SAW memulai shalat dengan membaca bismillahirrahmanirrahim.</q><p>Hadits yang senada juga diriwayatkan oleh AlBukhari dan Muslim dengan isnad yang shahih dari Ummi Salamah. Dan dalam kitab Al-Majmu' ada enam orang shahabat yang meriwayatkan hadits tentang basmalah adalah bagian dari surat AlFatihah.</p><strong>Pendapat Kedua : Bukan Bagian Dari Al-Fatihah</strong><p>Mazhab Al-Hanafiyah dan Al-Malikiyah berpendapat bahwa bismillahirrahmanirrahim bukan bagian dari surat Al-Fatihah. Yang menjadi ayat</p>"
+      },
+      {
+        "page": 17,
+        "text": "<p dir='cntn'>pertama dalam pandangan kedua mazhab ini adalah alhamdulillahi rabbil alamin. Namun demikian, jumlah ayat Al-Fatihah ini tetap 7 ayat. Sebab ayat terakhir dipenggal menjadi dua ayat.</p><p dir='rtl'>صِرَاطَ الَّذِيْنَ اَنْعَمْتَ عَلَيْهِمْ ەۙ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّاۤلِّيْنَ ࣖ</p><p>Padahal dalam mushaf yang kita kenal dan beredar di Indonesia, ayat itu tidak dipenggal menjadi dua ayat, tetapi menjadi satu ayat meski agak panjang.</p>"
+      },
+      {
+        "page": 18,
+        "text": "<strong>B. Jumlah Hadits Dalam Shahih Bukhari</strong><p>Kitab Shahih Bukhari adalah kitab hadits yang paling tinggi derajatnya. Kitab ini sebenarnya bernama Al-Jami’ Ash-Shahih Al- Musnadu min Haditsi Rasulillah SAW, namun orang lebih mudah menyebutnya sebagai Shahih Bukhari.</p><p>Penulisnya adalah Imam Bukhari (194 H - 252 H / 810 M - 870 M). Kitab disusun dalam waktu 16 tahun. Setiap menuliskan hadits dalam kitab shahihnya, beliau melakukan shalat sunnah 2 rakaat. Imam Ibnu Ash-Shalah kitab Shahih Bukhari - dan juga Shahih Muslim- menyebutkan keduanya adalah kitab tershahih di dunia setelah A-Quran.</p><p dir='rtl'>وكتاباهما ُ)البخاري ُومسلم( ُأصح ُالكتب ُبعد ُكتاب ُهللاُ العزيز</p><q>Kedua kitab itu (yaitu Shahih Bukhari dan Shahih Muslim adalah kitab tershahih setelah kitabullah (Al-Quran)</q><p>Dan setelah itulah konon Shahih Bukhari baru mendapatkan tempat yang khusus di kalangan para ulama hadits dan mulai dikenal sebagai kitab tershahih. Padahal jarak antara masa kehidupan Ibnu Shalah dengan Imam Al-Bukhari terpaut 5 abad</p>"
+      },
+      {
+        "page": 19,
+        "text": "<p dir='cntn'>lamanya.</p><p>Lepas dari itu semua, ternyata para ulama muhaqqiqin dan peneliti tidak sepakat berapa jumlah nomor hadits di dalamnya.</p><strong>1. Imam Ibnu as-Shalah : 7.275 Hadits</strong><p>Salah satu tokoh besar dalam ilmu hadits dalam sejarah Islam adalah Imam Ibnu as-Shalah (w. 643 H) yang hidup di abad ketujuh hijriyah.</p><p>Jumlah hadits Shahih Bukhari menurut pendapat yang masyhur dari Ibnu Shalah 7.275 buah hadits secara terulang. Sedangkan tanpa terulang sekitar 4.000an hadits.</p><p>Badruddin al-‘Aini (w. 855 H) dan Muhammad bin Yusuf al-Kirmani (w. 786 H) sebagai ulama yang ikut mensyarah atau menjelaskan Shahih Bukhari termasuk yang berpandangan sama dengan Ibnu asShalah (w. 643 H).</p><strong>2. Imam an-Nawawi : 7.275</strong><p>Pendapat yang kurang lebih sama adalah pendapat Al-Imam An-Nawawi (w. 676 H). Menurut penyusun kitab Riyadhus-Shalihin ini jumlah hadits dalam kitab Shahih Bukhari 7.275 buah hadits secara terulang. Sedangkan tanpa terulang-ulang jumlahnya sekitar 4.000-an hadits.</p>"
+      },
+      {
+        "page": 20,
+        "text": "<strong>3. Ibnu Hajar al-Asqalani : 9.082 Hadits</strong><p>Namun Ibnu Hajar al-Asqalani (w. 852 H) yang juga ahli hadits terkemuka dalam sejarah Islam punya pandangan yang berbeda dengan Ibnu Shalah dan An-Nawawi di atas.</p><p>Menurut beliau, jumlah hadits Shahih Bukhari, baik yang maushul sanadnya maupun yang mu’allaq, termasuk mutaba’at dengan diulang adalah 9.082 buah hadits.</p><p>Jumlah ini menurut Beliau belum termasuk atsar dari shahabat maupun tabiin yang ada dalam hadits Shahih Bukhari.8 Detailnya sebagai berikut :</p><ul><li>Marfu’ Maushul secara terulang-ulang 7.397</li><li>Marfu’ Mu’allaqah secara terulang-ulang 1.341</li><li>Maushul, Mu’allaq dan tanbih atas perbedaan riwayat : 344</li><li>Maushul, Mu’allaq, Mutabaat Marfuah secara terulang-ulang : 9.082</li><li>Marfu’ah Maushulah tanpa diulang-ulang : 2.602</li><li>Mu’allaq tanpa diulang-ulang 159</li><li>Marfuah, Maushulah atau Mu’allaqah tanpa diulang-ulang 2.761</li></ul><p>Jumlah yang dihitung Ibnu Hajar dengan versi hitungan Ibnu Ash-Shalah terpaut jauh sekali. Ternyata penyebabnya memang perbedaan dalam penomoran hadits-hadits itu.</p><p>Maka memberi nomor itu tergantung siapa yang</p>"
+      },
+      {
+        "page": 21,
+        "text": "<p dir='cntn'>melakukannya.</p><strong>3. Dr. Dib Al-Bugha : 7.124</strong><p>Berbeda lagi menurut beberapa ulama kontemporer. Dr. Dib Al-Bugha ketika mentahqiq Shahih Bukhari, beliau mengakhiri Shahih Bukhari pada nomor 7.124. Penomoran itu masuk juga hadits yang terulang.</p><p>Musthafa al-Bugha dalam mukaddimah tahqiq hadits Shahih Bukhari atau yang bernama Minhat alBari fi Khidmat Shahih al-Bukhari. Beliau menyebut:</p><q>Kitab ini banyak kita temukan belum ada seni percetakan modern, seperti antar satu bab dan bab lain ada pemisahnya, haditsnya juga belum ada nomornya atau awalan bab yang berbeda, sehingga menjadikan pembaca mudah untuk mencarinya kembali.</q><p>Beliau menomori kitab shahih bukhari. Sebagai bentuk dari model percetakan buku modern.</p>"
+      },
+      {
+        "page": 22,
+        "text": "<strong>4. Dr. Fuad Abdul Baqi : 7.563</strong><p>Berbeda lagi menurut Fuad Abdul Baqi (w. 1388 H/ 1967 M). Hadits Shahih Bukhari berjumlah 7.563, atau selisih sekitar 439 hadits.</p><p>Muhammad Fuad Abdul Baqi (w. 1388 H/ 1967 M) ini termasuk ulama kontemporer yang memulai memberi nomor pada kitab-kitab hadits. Terinspirasi ketika ikut membantu profesornya yang orang Belanda orientalis bernama Arent Jan Wensinck dalam menyusun kitab Al-Mu’jam Al-Mufahras li .(المعجم المفهرس أللفاظ الحديث النبوي) .Nabawi-An Hadits-Al Al</p><p>Ensiklopdi hadits ini merupakan indeks atau kamus hadits, dimana sumbernya hanya dari sembilan kitab hadits. Indeks itu terdiri dari 8 jilid dan disusun dalam rentang waktu antara 1916-1988 atau sekitar 72 tahun. Arent Jan Wensinck adalah seorang orientalis Belanda non muslim yang merupakan peneliti bahasa Arab dan bahasa semit pada umumnya di Universitas Leiden Belanda.</p>"
+      },
+      {
+        "page": 23,
+        "text": "<strong>C. Shahih Muslim</strong><strong>1. Abu Quraisy : 4.000 hadits</strong><p>Abu Quraisy Al-Hafizh berkata kepada Zar’ah ArRazi tentang Shahih Muslim,”Kitab ini memuat 4.000 hadits shahih”.</p><p>Imam Ibnu Ash-Shalah menjelaskan maksud perkataan Abu Qurasy itu,”Maksudnya - wallahua’lam- bahwa kitabnya itu 4.000 hadits yang tidak diulang-ulang”.</p><strong>2. Ahmad bin Salamah : 12.000 Hadits</strong><p>Ahmad bin Salamah, salah seorang murid dan teman Imam Muslim menyebutkan bahwa jumlah 12.000 hadits</p><p>Imam Adz-Dzahabi menjelaskan maksudnya bila diulang-ulang dan dihitung semuanya. Misalnya ada satu hadits diawali dengan : haddatsana qutaibah dan juga akhbarana ibnu rumh, meski teks haditsnya sama persis, tetapi dihitung sebagai dua hadits yang berbeda.</p><strong>3. Al-Mayanji : 8.000 Hadits</strong><p>Al-Mayanji menyebutkan jumlah haditsnya mencapai 8.000 hadits. Az-Zarkasyi</p>"
+      },
+      {
+        "page": 24,
+        "text": "<p dir='cntn'>mengomentarinya bahwa jumlah ini nampaknya agak dekat pada kebenaran.</p><strong>4. Haji Khalifah & Hasan Khan : 7.270 Hadits</strong><p>Haji Khalifah dan Shadiq Hasan Khan menyebutkan bahwa jumlah 3.033 haditsnya 7.270.</p><strong>5. Muhammad Fuad Abdul Baqi : 3.033 - 5.770</strong><p>Muhammad Fuad Abdul Baqi menyebutkan jumlah hadits yang asli di dalam Shahih Muslim mencapai 3.033 hadits, bila tanpa pengulangan.</p><p>Syeikh Masyhur Hasan Alu Salman menghitung bila diulang-ulang jumlahnya dalam penghitungan Muhammad Abdul Baqi itu mencapai 5.770 hadits.</p><p>Dengan catatan bahwa nomor yang dibikin oleh Abdul Baqi untuk hadits asli dalm bab tanpa mutabaah dan syawahid. Jumlahna mutabaah dan syawahid itu menurutnya mencapai 1.615 hadits, tanpa tiga hadits dalam muqaddimah. Sehingga jumlah hadits secara total dengan diulang-ulang dan dimasukkan juga syawahid dan mutabaat mencapai 7.385 hadits.</p>"
+      },
+      {
+        "page": 25,
+        "text": "<strong>D. Jumlah Hadits Dalam AL-Muwaththa’ Malik</strong><p>Kitab hadits generasi pertama adalah AlMuwattha’ yang disusun oleh Imam Malik bin Anas (w. 179 H). Kitab ini sudah ada jauh sebelum lahirnya Imam Bukhari yang nantinya menyusun Shahih Bukhari. Kitab inilah yang sejak masih beliau sudah dihafal oleh Al-Imam Asy-syafi’I, bahkan sebelum Beliau bertemu dengan menyusunnya.</p><p>Dari sisi kekuatan periwayatan dan sanad, hadits yang paling kuat sanadnya adalah hadits yang diriwayatkan oleh Al-Imam Malik, dari gurunya yaitu Nafi’, seorang tabi’in. Nafi’ ini adalah maula (pelayan) dari seorang shahabat nabi yang terkenal, yaitu Abdullah bin Umar radhiyallahuanhu.</p><p>Para ahli hadits sepakat kalau ada hadits diriwayatkan oleh Imam Malik dari Nafi’ dari Abdullah bin Umar, maka hadits itu shahih seshahihshahihnya. Jalur periwayatan itu dikenal dengan istilah silsilah dzahabiyah (ذهبية سلسلة) dan juga disebut dengan ashahhul asanid (األسانيد أصح).</p><p>Namun demikian, sampainya kitab Al-Muwaththa’ dari Imam Malik bin Anas ini kepada kita ternyata melalui jalur periwayatan beragam dan sangat banyak jalur-jalurnya. Ahli hadits kontemporer, Dr. Mushtafa al-A’zhami ketika mentahqiq kitab alMuwattha’, menghitung setidaknya ada 100 orang</p>"
+      },
+      {
+        "page": 26,
+        "text": "<p dir='cntn'>yang meriwayatkan kitab al-Muwattha’ ini.</p><p>Dan menariknya, antar satu versi Muwattha’ dan versi lainnya, ternyata ada beberapa perbedaan dalam jumlah haditsnya. Dan tentu saja penomorannya pun jadi tidak seragam.</p><p>Selain karena banyak periwayat dari Imam Malik bin Anas, dalam kitab al-Muwattha’ ini masih banyak kita temukan pernyataan dari Shahabat Nabi, Tabiin bahkan fatwa dari Imam Malik bin Anas sendiri. Maka standar menomorinya pun beragam.</p><p>Jadi berapa jumlah hadits dalam kitab AlMuwaththa karya Imam Malik ini? Jawabnya tergantung penomorannya versi siapa?</p><strong>1. Mushtafa al-A’zhami : 3.676</strong><p>Dr. Muhammad Mushtafa al-A’zhami ketika mentahqiq kitab al-Muwattha’, tak mau mengikuti penomoran dan Muhammad Fuad Abdul Baqi (w. 1388 H).</p><p>Menurut Muhammad Mushtafa al-A’dzami, Penomoran Muhammad Fuad Abdul Baqi (w. 1388 H) dalam banyak tahqiqannya, banyak mengambil dari karya orientalis Arent Jan Wensinck (w. 1939 H).</p><p>Muhammad Fuad Abdul Baqi tak memberi nomor jika berasal dari pernyataan Imam Malik bin Anas dalam kitab al-Muwattha’. Hadits di Kitab alMuwattha’ menurut Muhammad Mushtafa alA’dzami berjumlah 3.676.</p>"
+      },
+      {
+        "page": 27,
+        "text": "<strong>2. Basyar Awad Ma’ruf : 3.069</strong><p>Jika menurut tahqiq dari Basyar Awad Ma’ruf jumlah haditsnya ada 3.069.</p><strong>3. Abdul Wahab Abdullatif : 1.008</strong><p>Jika menurut tahqiq dari Abdul Wahab Abdullatif Riwayat Muhammad bin Hasan jumlah haditsnya ada 1.008.</p>"
+      },
+      {
+        "page": 28,
+        "text": "<strong>E. Kitab Bulughul Maram</strong><p>Salah satu kitab hadits yang amat terkenal adalah Bulughul Maram min Adillati Al-Ahkam ( أدلة من المرام بلوغ األحكام .(Kitab ini disusun oleh ahli hadits senior kenamaan sekaligus juga ahli fiqih bermazhab Asysyafi’i. Beliau adalah Alhafidz Ibnu Hajar Al-Asqalani (w. 852 H).</p><p>Dimana-mana banyak orang orang pakai kitab beliau ini, baik di pengajian majelis taklim, kampus, majelis para ulama dan juga para santri di berbagai pesantren. Kitab ini juga banyak diberi syarah (penjelasan) dan juga diterjemahkan ke berbagai bahasa di dunia.</p><p>Kalau disebutkan berapa jumlah hadits yang terdapat di dalamnya, secara umum kita menyebutkan sekitar 1.500-an hadits. Namun begitu kita buka bukunya, nampaknya angkanya tidak tepat segitu, malah beda penerbit beda jumlahnya yang kemudian membedakan nomor-nomor haditsnya juga.</p><strong>1. Al-Qadhi Al-Husein Al-Maghribi : 1.324</strong><p>Al-Qadhi Al-Husein Muhammad Al-Maghribi (1048 - 1119 H) menuliskan syarah atas kitab Bulughul Maram. Dalam versi Beliau ada nomor hadits sampai angka 1.324 di dalamnya. Nama kitab syarahnya itu adalah Al-Badru At-tamam Syarah Bulugh Al-Maram .(البد ر التمام شرح بلوغ المرام)</p>"
+      },
+      {
+        "page": 29,
+        "text": "<p>Kemudian kitab ini ditahqiq salah satunya oleh Ali bin Abdulah Az-Zabn, seorang anggota Haiah Tadsir pada Universitas Muhammad Ibnu Suud AlIslamiyah. Diterbitkan Darul Hijr sebanyak 10 jilid.</p><strong>2. Subulus-Salam : 1.477</strong><p>Salah satu syarah Bulughul Maram yang terkenal adalah Subulus Salam ( السالم سبل (yang disusun oleh AshShan’ani (1099 - 1119 H).</p><p>Meskipun syarah ini merupakan ringkasan dari AlQadhi Husain Muhamamd Al-Maghribi, namun dalam penomoran haditsnya angkanya berhenti sampai pada nomor 1.447. Ini menunjukkan bahwa penomoran haditsnya sampai segitu itu.</p><strong>3. Samir bin Amin Az-Zuhri : 1.582</strong><p>Samir bin Amin Az-Zuhri menuliskan hadits-hadits dalam Bulughul Maram sebagai 1.582 hadits. Kitab ini diterbikan oleh Darul Falaq Riyash Kerajaan Saudi Arabia. Cetakan ke-7 tahun 1424 hijriyah.</p><strong>4. Dr. Mahir Yasin Al-Fahl : 1.568</strong><p>Dr. Mahir Yasin Al-Fahl adalah Syeikh Darul Hadits di Iraq, merupakan profesor Ilmu Hadits dan Fiqih Muqarin pada Fakultas Ilmu-ilmu Keislaman Universitas Al-Anbar.</p><p>Beliau juga mentakhrij kitab Bulughul Maram ini dan menuliskan ada 1.568 hadits. Bukunya diterbitkan oleh Darul Qabas li An-Nashrwa At-Tauzi’.</p><strong>5. Abdurrahman Al-Bassam : 1.371</strong><p>Abdullah bin Abdurrahman Al-Bassam (w. 1423 H) menuliskan syarah kitab ini dengan nama Taudhil Al-Ahkam min Bulugh Al-Maram</p>"
+      },
+      {
+        "page": 30,
+        "text": "<p>Diterbitkan oleh Maktabah Al-Asadi Mekkah AlMukarramah. Nomor hadits versi ini mencapai angka 1.371 hadits.</p><strong>5. Khalid bin Dhaifullah Asy-Syalahi 1.567</strong><p>Khalid bin Dhaifullah Asy-Syalahi menulis syarah berjudul At-Tanbih fi Takhrij wa Tabwib Ahadits Bulugh Al-Maram wa Bayan ma Warada fi Al-Bab .(التبيان في تخريج وتبويب أحاديث بلوغ المرام وبيان ما ورد في الباب)</p><p>Beliau memberi nomor pada tiap haditsnya mencapai angka 1.567 hadits.</p><strong>6. Syeikh Al-Utsaimin : 1.502</strong><p>Syeikh Muhammad bin Shalih AlUtsaimin (w. 1421 H) juga membuat syarah atas Bulugh Al-Maram dengan nama menomori haditsnya sampai 1.502 hadits.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>"
+      }
+    ]
   }
 ]
