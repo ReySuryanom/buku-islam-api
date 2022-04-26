@@ -9,8 +9,8 @@ xZk = Kupas Habis Hukum Iddah Wanita
 5j2 = Sejarah Perkembangan Madzhab Syafii
 jKz = Imam Nawawi vs Imam Syafi'i
 n7m = Pasang Surut Mazhab di Tanah Haram
-NKB = Wanita Test
-cCP
+NKB = Pakaian Syari : Harus Segitunya Kah?
+cCP = Kehujjahan Hadits Ahad
 rs8
 G3V
 EH4

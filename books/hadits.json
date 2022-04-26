@@ -5,7 +5,7 @@
       "title": "Model Penulisan Kitab Hadits",
       "author": "Hanif Luthfi, Lc., MA",
       "publish": "Tue, 7 January 2020",
-      "pages": 21,
+      "pages": 27,
       "price": 0,
       "category": "Hadits",
       "desc": "Meski kita ketahui bahwa sumber utama agama Islam adalah Al-Qur'an dan Hadits, tetapi keberadaan al-Hadits dalam proses kodifikasinya sangat berbeda dengan al-Qur’an yang sejak awal mendapat perhatian secara khusus baik dari Rasulullah صلى الله عليه وسلم maupun para sahabat berkaitan dengan penulisannya 1."
@@ -112,6 +112,150 @@
       {
         "page": 24,
         "text": "<p dir='cntn'>bertentangan.</p><p>Kemudian, al-Dîbâj Syarh Shahîh Muslim bin alHajjâj, karya Abd al-Rahmân bin Abî Bakr al-Suyûthî, dan lain-lain. Sebagaimana disebutkan di atas bahwa seluruh kitab Hadits yang mu`tamad telah ada syarhnya bahkan terkadang memiliki syarh lebih dari satu, di antara kitab-kitab syarh bagi empat sunan yang menonjol, ialah `Awn al-Ma`bûd karya Muhammad Syams al-Haq al-`Azhîm Âbâdzî yang merupakan Syarh Sunan Abû Dawûd, Tuhfah al-Ahwadzî Syarh Sunan al-Tirmidzi karya Muhammad bin `Abd alRahmân ibn Abd al-Rahîm al-Mubârakfûrî (1283- 1353 H), Syarh Sunan al-Nasâ’i karya Imâm alSandiy, Syarh Sunan Ibn Mâjah karya al-Sandiy.</p>"
+      }
+    ]
+  },
+  {
+    "id": "cCP",
+    "info": {
+      "title": "Kehujjahan Hadits Ahad",
+      "author": "Tajun Nashr, Lc",
+      "publish": "Tue, 30 October 2018",
+      "pages": 25,
+      "price": 0,
+      "category": "Hadits",
+      "desc": "Pembahasan terkait masalah dalil merupakan salah satu pembahasan pokok dalam Ilmu Ushul Fiqih. Bagaimana tidak begitu, salah satu obyek utama dalam ushul fiqih adalah dalil itu sendiri."
+    },
+    "tableOfContents": [
+      { "page": 5, "text": "Pengantar", "head": true },
+      { "page": 5, "text": "Pengertian Hadist Ahad", "head": true },
+      {
+        "page": 6,
+        "text": "Fungsi Hadits Ahad",
+        "sub": [
+          {
+            "page": 6,
+            "text": "Pengertian Zhanny dan Qath'iy",
+            "sub": [
+              { "page": 6, "text": "Secara Tsubutiyyah" },
+              { "page": 7, "text": "Secara Dilalah" }
+            ]
+          },
+          {
+            "page": 7,
+            "text": "Hadits Ahad berfungsi apa?",
+            "sub": [
+              { "page": 7, "text": "Dari Segi Tsubutiyyah" },
+              { "page": 8, "text": "Dari Segi dilalah" }
+            ]
+          }
+        ]
+      },
+      {
+        "page": 8,
+        "text": "Kehujjahan Hadits Ahad Dalam Hukum Fiqih",
+        "sub": [
+          {
+            "page": 8,
+            "text": "Berdasarkan dalil akal",
+            "sub": [
+              { "page": 8, "text": "Tidak boleh dijadikan dasar" },
+              { "page": 9, "text": "Wajib dijadikan dasar" },
+              { "page": 10, "text": "Boleh dijadikan dasar" }
+            ]
+          },
+          {
+            "page": 10,
+            "text": "Berdasarkan dalil Naql",
+            "sub": [
+              { "page": 10, "text": "Pendapat Kehujjahan" },
+              { "page": 13, "text": "Tidak Bisa Dijadikan Dalil Hukum" }
+            ]
+          }
+        ]
+      },
+      {
+        "page": 14,
+        "text": "Hukum Hadits Ahad Dalam Masalah Aqidah",
+        "sub": [
+          { "page": 14, "text": "Kelompok Penolak Kehujjahan Hadits Ahad" },
+          {
+            "page": 15,
+            "text": "Pendukung Kehujjahan Hadits Ahad",
+            "sub": [{ "page": 15, "text": "Hadits diutusnya Mu'adz Ke Yaman" }]
+          }
+        ]
+      },
+      { "page": 20, "text": "Kesimpulan", "tail": true }
+    ],
+    "content": [
+      {
+        "page": 5,
+        "text": "<strong>A. Pengantar</strong><p>Pembahasan terkait masalah dalil merupakan salah satu pembahasan pokok dalam Ilmu Ushul Fiqih. Bagaimana tidak begitu, salah satu obyek utama dalam ushul fiqih adalah dalil itu sendiri.</p><p>Salah satu dalil syar’i pokok adalah As-Sunnah. Meskipun sama-sama wahyu yang berasal dari Allah, namun dari sisi sejarah dan teknis penyusunannya secara tertulis berbeda dengan penyusunan Al-Qur’an. Hal ini menyebabkan pembahasan akan As-Sunnah menjadi pembahasan yang menarik untuk dikaji.</p><p>Salah satu kajian penting adalah dari sisi jenis AsSunnah yang terbagi berdasarkan riwayatnya menjadi Mutawatir dan Ahad.</p><p>Pada kesempatan kali ini, penulis akan membahas mengenai kehujjahan hadits Ahad, baik dalam masalah aqidah maupun masalah fiqih (hukum). Dimana pada tulisan ini akan dibahas bagaimana pandangan para ulama dalam masalah ini, baik mayoritas maupun minoritas.</p><p>Pembahasan ini menjadi penting, agar kita sebagai ummat islam lebih mengenal secara mendalam apa itu sunnah Rasulullah -shallallahu ‘alahi wa sallam- yang merupakan warisan beliau yang harus kita pegang teguh.</p><strong>B. Pengertian Hadits Ahad</strong><p>Secara bahasa kata أحاد adalah bentuk jama’ (plural) dari kata أحد yang bermakna satu, maka secara bahasa hadits ahad adalah hadits yang</p>"
+      },
+      {
+        "page": 6,
+        "text": "<p dir='cntn'>diriwayatkan oleh satu orang.</p><p>Sedangkan pengertian hadits Ahad secara istilah adalah :</p><q>Hadits yang tidak memenuhi salah satu atau seluruh persyaratan hadits mutawatir.</q><p>Adapun persyaratan hadits mutawatir yang dimaksud adalah :</p><ul><li>Diriwayatkan oleh perawi yang jumlahnya cukup banyak.</li><li>Jumlah ini ada di setiap tingkatan sanad.</li><li>Mustahil secara adat mereka bersepakat untuk berbohong.</li><li>Cara penyampaian hadits melalui media panca indra.</li></ul><p>Untuk itu maka setiap hadits yang tidak memenuhi persyaratan hadits mutawatir di atas maka bisa digolongkan menjadi hadits ahad.</p><strong>C. Fungsi Hadits Ahad</strong><strong>1. Pengertian Zhanny dan Qath’iy</strong><p>Sebelum membahas fungsi dari hadits ahad maka ada baiknya terlebih dahulu kita bahas mengenai pengertian Qath’iy dan Dhanniy dalam dalil syar’i. Hal ini agar kita lebih mudah memahami fungsi dari hadits ahad tersebut.</p><strong>a.Secara Tsubutiyyah.</strong>"
+      },
+      {
+        "page": 7,
+        "text": "<p>Secara penetapannya (tsubutiyyah) -yaitu validitas dia berasal dari Rasulullah atau bukan- , dalil syar’i dibagi menjadi dua macam :</p><ul><li>Qath’iy Tsubut : yaitu dalil yang bersifat pasti karena diriwayatkan dari banyak jalur.</li><li>Dhanny Tsubut : dalil yang masih ada kemungkinan tidak berasal dari Nabi karena jumlah perawinya yang hanya sedikit. Namun tingkat kemungkinan berasal dari nabi adalah 51-99%.</li></ul><strong>b. Secara Dilalah</strong><p>Adapun dilihat dari segi maknanya (dilalah), maka dalil syar’i juga dibagi menjadi dua :</p><ul><li>Qath’iy Dilalah : dalil yang menunjukkan pada makna tertentu yang dipahami dari dalil tersebut, serta tidak memiliki kemungkinan untuk ditakwilkan kepada makna selainnya.</li><li>Dhanniy Dilalah : dalil yang menunjukkan pada suatu makna tertentu tetapi bisa ditafsirkan ke dalam makna lain yang berbeda dari makna tersebut.</li></ul><strong>2. Hadits Ahad berfungsi apa ?</strong><p>Setelah mengetahui fungsi dari dalil syari’i secara umum, maka bisa kita simpulkan bahwa fungsi dari hadits ahad adalah :</p><strong>a. Dari Segi Tsubutiyah</strong><p>Hadits ahad berfungsi Dhanny tsubut. Hal ini karena dilihat dari jumlah perawi yang meriwayatkan hadits tersebut.</p>"
+      },
+      {
+        "page": 8,
+        "text": "<strong>b. Dari Segi dilalah</strong><p>Hadits ahad bisa berfungsi qath’iy dilalah maupun dhanny dilalah, hal ini tergantung pada makna dari hadits tersebut.</p><p>Namun yang patut kita perhatikan di sini adalah bahwa meskipun dari segi tsubutiyah bersifat dhanny, tetapi hadits ahad ini wajib diamalkan isinya menurut kesepakatan jumhur ulama’. Untuk lebih jelasnya akan kami jelaskan pada bagian berikutnya.</p><strong>D. Kehujjahan Hadits Ahad Dalam Hukum Fiqih</strong><p>Ada perbedaan pendapat mengenai kehujjahan hadits ahad dalam masalah hukum syari’i ‘Amali (hukum fiqih). Perbedaan pendapat ini - sebagaimana pembagian Ibnu Qudamah dalam kitabnya Raudlatu An-Nâdhir wa Junnatu AlMunâdhir- akan kami bagi berdasarkan dalil yang digunakan, yaitu berdasarkan dalil akal dan berdasarkan dalil naql.</p><strong>1.Berdasarkan dalil akal</strong><p>Ada 3 pendapat mengenai kehujjahan hadits ahad jika ditinjau dari segi akal, artinya apakah hadits ahad ini masuk akal atau tidak jika dijadikan sebagai dasar untuk hukum fiqih.</p><strong>a. Tidak boleh dijadikan dasar</strong><p>Ini adalah pendapat dari Abu Ali Al-Jubbâiy (imam mu’tazilah), Ibnu ‘Alyah, Al-Asham dan beberapa ulama’ kalam.</p>"
+      },
+      {
+        "page": 9,
+        "text": "<p>Di antara argumentasi yang mereka gunakan untuk mendukung pendapat mereka adalah :</p><p>Mereka menganggap bahwa hadits Ahad memiliki dua kemungkinan yang sama besar antara benar maupun dustanya. Ini adalah batasan Wahm, dan kita tidak boleh beramal dengan wahm karena bisa saja merupakan jalan menuju tingkatan Jahl. Secara logika kita tidak boleh beramal dengannya.</p><p>Setiap Allah memerintah suatu amalan, harus ada dua syarat yang terpenuhi, yaitu :</p><p>Perintahnya bersifat jelas,</p><p>Perintah tersebut harus sampai kepada kita dengan jalan yang pasti dan nyata (mutawatir), karena Allah benar-benar memerintahkannya.</p><p>Namun hadits ahad tidak memenuhi dua kriteria tadi, sehingga tidak layak untuk dijadikan sebagai hujjah dalam hukum amaliy.</p><strong>b. Wajib dijadikan dasar</strong><p>Ini adalah pendapat dari Abu Al-Khattâb. Konsekuensi dari pendapat ini adalah setiap hadits ahad yang kita terima wajib dijadikan sebagai hujjah dalam masalah hukum amaly.</p><p>Argumentasi yang dia gunakan antara lain :</p><ul><li>Jika kita hanya beramal dengan dalil yang qath’iy maka akan banyak sekali hukum yang tidak berfungsi karena sangat jarangnya dalil qath’iy dan ranah keyakinan.</li><li>Bahwa Nabi diutus untuk semua ummat manusia, namun tidak mungkin beliau</li></ul>"
+      },
+      {
+        "page": 10,
+        "text": "<p dir='cntn'>berbicara dengan semua orang secara langsung atau menyampaikannya secara mutawatir.</p><ul><li>Jika kita mengetahui kejujuran seorang perawi yang menyampaikan hadits, maka ini berarti secara tidak langsung akal kita menganggap bahwa berita yang disampaikannya benar, sehingga wajib untuk diamalkan.</li></ul><strong>c. Boleh Dijadikan Dasar</strong><p>Ini adalah pendapat jumhur ulama. Artinya hadits ahad tidak mutlak harus dijadikan hujjah ataupun tidak boleh dijadikan hujjah sama sekali. Karena bisa tidaknya hadits ahad dijadikan hujjah adalah berdasarkan kondisi kekuatan dari hadits ahad itu sendiri.</p><p>Alasan yang dipakai jumhur untuk mendukung pendapat mereka antara lain : Tidak mengamalkan hadits ahad tidak serta merta mengabaikan banyak hukum syariat. Ini karena kita bisa beramal dengan bara’ah ashliyah maupun istishab.</p><strong>2. Berdasarkan dalil Naql</strong><p>Adapun mengenai perbedaan pendapat menganai kehujjahan hadits ahad dalam masalah hukum fiqih berdasarkan dalil naql (nash) ada dua pendapat : yaitu kelompok yang mendukung kehujjahan hadits ahad dan kelompok yang menolak kehujjahan hadits ahad.</p><strong>a. Pendappat Kehujjahan</strong><p>Ini adalah pendapat dari jumhur ulama’. Ada 5</p>"
+      },
+      {
+        "page": 11,
+        "text": "<p>dalil yang dijadikan jumhur untuk mendukung pendapat mereka, di antaranya :</p><p>Ijma’ para sahabat untuk menerima hadits Ahad, di antara bukti nyata bahwa para sahabat menerimanya adalah :</p><ul><li>Abu Bakar yang ketika ada seorang nenek yang meminta warisan beliau bertanya kepada salah satu sahabat, dan sahabat tersebut (Muhammad bin Maslamah Al-Mughirah) bahwa nenek berhak mendapatkan 1/6 hak warisan.</li><li>Kisah Umar dalam menetapkan hukum janin yang ikut mati karena ibunya dibunuh, apakah ngwajib qishash?</li><li>Utsman yang pada awalnya berpendapat bahwa tidak wajib mandi bagi orang yang berjima’ tanpa inzal, namun mereka merevisi pendapatnya setelah mendengar hadits dari ‘Aisyah</li><li>Ali bin Abi Thalib selalu menerima hadits ahad setelah beliau meminta dari yang orang yang menyampaikannya bahwa berita tersebut benarbenar dari Rasulullah. Ini dilakukan bukan karena beliau menuduh mereka berbohong namun untuk memastikan bahwa mereka menyampaikan lafadz hadits seperti lafadz asli dari Rasulullah dan tidak disampaikan dengan maknanya saja.</li><li>Rasulullah mengutus para gubernur dan qadli (hakim) untuk menyampaikan dakwah ke berbagai wilayah dalam rangka menyampaikan hukum-hukum syari’at. Dan beliau mengutus</li></ul>"
+      },
+      {
+        "page": 12,
+        "text": "<p dir='cntn'>mereka satu per-satu setiap wilayah. Di antara yang beliau utus adalah :</p><p>Abu Bakar menjadi utusan pada tahuun ke-9 H ke berbagai wilayah untuk memfasakh akad perjanjian antara beliau dan orang musyrik</p><p>Mu’adz bin Jabal dijadikan sebagai wali untuk daerah Yaman dan untuk mengumpulkan zakat</p><p>Utsman diutus pada saat Rasulullah akan melaksanakan Umrah di tahun bai’at ridhwan, di mana tersebar kabar bahwa Utsman terbunuh, namun akhirnya kabar ini terbukti hanya kabar burung belaka.</p><p>Ijma’ tabi’in untuk menerima hadits ahad. Adapun terjadinya khilaf adalah setelah masa mereka.</p><p>Adanya Ijma’ tentang wajibnya orang awwam untuk membenarkan dan melaksanakan fatwa dari seorang mufti, meskipun ada kemungkinan bahwa mufti tersebut berfatwa berdasarkan ijtihad yang dibangun atas dhann, dan ada kemungkinan kesalahan dalam fatwanya. Jika perkataan mufti saja bisa diterima, maka apalagi perkataan seorang rawi yang menyampaikan kabar berdasarkan apa yang didengarnya langsung tentu harus lebih diutamakan.</p><p>Ayat pada surat at-taubah : 122, yaitu :</p><q>Tidak sepatutnya bagi mukminin itu pergi semuanya (ke medan perang). Mengapa tidak pergi dari tiap-tiap golongan di antara mereka beberapa orang untuk memperdalam pengetahuan mereka</q>"
+      },
+      {
+        "page": 13,
+        "text": "<q>tentang agama dan untuk memberi peringatan kepada kaumnya apabila mereka Telah kembali kepadanya, supaya mereka itu dapat menjaga dirinya. (Q.S. At-Taubah : 122)</q><strong>b. Tidak Bisa Dijadikan Dalil Hukum</strong><p>Ini adalah pendapat mayoritas Mu’tazilah dan Dhahiriyah. Di antara Dalil yang mereka gunakan antara lain :</p><ul><li>Nabi menolak berita Dzul Yadain ketika mengingatkan beliau dalam shalat</li><li>Abu Bakar tidak menerima kabar Mughirah dalam warisan untuk nenek seblum ada saksi yang lain yaitu Muhammad bin Salamah</li><li>Umar tidak menerima hadits Abu Musa tentang izin, sebelum ada saksi lain yaitu abu Said AlKhudri</li><li>A’isyah menolak hadits Ibnu Umar tentang hukuman siksa bagi orang yang ditangisi keluarganya.</li></ul><strong>Bantahan Jumhur atas dalil yang digunakan oleh sebagian mu’tazilah dan dhahiriyah :</strong><strong>Secara Umum</strong><p>Semua hadits yang mereka jadikan dalil untuk mendukung perkataan mereka statusnya tidak sampai kepada derajat mutawatir. Artinya di satu sisi mereka menolak berhujjah dengan hadits ahad tetapi di sisi lain mereka menggunakan hadits ahad untuk mendukung hujjah mereka.</p>"
+      },
+      {
+        "page": 14,
+        "text": "<strong>Secara terperinci</strong><ul><li>Sebab Rasulullah tidak menerima kabar Dzul Yadaian bukan karena beliau tidak menerima kabar ahad, melainkan karena mungkin saja Rasulullah meragukan apa yang disampaikan Dzul Yadain, sebab sangat tidak mungkin yang mengetahui bahwa beliau salah hanya Dzul Yadain belaka padahal di sana banyak sekali para sahabat yang lain.</li><li>Apa yang dilakukan Abu Bakar hanyalah untuk mengetahui apakah ada orang yang mengatakan hal tersebut dan bukan dalam rangka beliau tidak menerima hadits ahad</li><li>Apa yang dilakukan Umar adalah karena ada motif lain, yaitu agar orang-orang melakukan ricek dalam meriwayatkan hadits. Ini Nampak dari perkataannya, “Aku sama sekali tidak menuduhmu (berdusta) namun aku hanya khawatir orang-orang berkata sembarangan atas nama Rasulullah.”</li><li>‘Aisyah tidak menolak hadits yang diriwayatkan oleh Ibnu Umar, beliau hanyalah mena’wilkan maknanya, bahwa yang dimaksud Rasulullah dalam hadits tersebut adalah orang Yahudi dan bukan untuk orang islam.</li></ul><strong>E. Hukum Hadits Ahad Dalam Masalah Aqidah</strong><p>Ada dua pendapat mengenai kehujjahan hadits ahad dalam masalah aqidah, di antaranya adalah :</p><strong>1. Kelompok Penolak Kehujjahan Hadits</strong>"
+      },
+      {
+        "page": 15,
+        "text": "<strong>Ahad</strong><p>Ini adalah pendapat dari kalangan mu’tazilah dan para ulama’ ilmu kalam. Mereka tidak mau menggunakan hadits ahad sebagai hujjah dalam masalah aqidah.</p><p>Di antara dalil-dalil yang mereka pergunakan untuk mendukung argumentasinya adalah :</p><p>Firman Allah dalam ayat berikut ini :</p><q>Dan mereka tidak mempunyai sesuatu pengetahuanpun tentang itu. mereka tidak lain hanyalah mengikuti persangkaan sedang Sesungguhnya persangkaan itu tiada berfaedah sedikitpun terhadap kebenaran. (Q.S. An-Najm : 29)</q><p>Sisi pengambilan dalil : Dari ayat ini bisa disimpulkan ahwa Allah melarang kita untuk menjadikan prasangka (dhann) sebagai hujjah, sementara hadits ahad ini berfungsi dhann.</p><p>Aqidah adalah sebuah keyakinan, maka secara logika untuk menetapkan keyakinan harus ditetapkan dengan dalil yang berfungsi yakin. Sedangkan hadits ahad hanya berfungsi dhann dan tidak berfungsi yakin.</p><p>2. Pendukung Kehujjahan Hadits Ahad</p><p>Ini adalah pendapat dari jumhur ulama’. Ada beberapa dalil kuat yang dijadikan oleh jumhur untuk mendukung pendapat mereka, di antaranya adalah :</p><p>a. Hadits diutusnya Mu’adz Ke Yaman</p>"
+      },
+      {
+        "page": 16,
+        "text": "<p>Dalam hadits tersebut dijelaskan bahwa Mu’adz diperintahkan oleh Rasulullah untuk menyampaikan tauhid terlebih dahulu. Setelah itu baru perkaraperkara kewajiban ibadah seperti shalat, zakat dan puasa.</p><p>Ini merupakan dalil qath’iy yang menunjukkn bahwa hadits ahad bisa dijadikan hujjah, jika hadits ahad tidak bisa dijadikan hujjah dalam aqidah maka tentu Rasulullah tidak cukup mengutus Mu’adz seorang diri.</p><p>Firman Allah :</p><q>Hai Rasul, sampaikanlah apa yang diturunkan kepadamu dari Tuhanmu. dan jika tidak kamu kerjakan (apa yang diperintahkan itu, berarti) kamu tidak menyampaikan amanat-Nya. Allah memelihara kamu dari (gangguan) manusia[430]. Sesungguhnya Allah tidak memberi petunjuk kepada orang-orang yang kafir.” (Q.S. Al-Maidah : 67)</q><p>Beliau juga bersabda pada saat haji wada’ :</p><p dir='rtl'>وأنتم مسؤولون عين فماذا انتم قائلون؟ قالوا : نشهد أنك بلغت وأديت ونصحت.....</p><q>“…dan kalian bertanggung jawab atas apa yang kalian dengar dariku, bagaimana pendapat kalian?” para sahabat berkata, “Kami bersaksi bahwa engkau telah menyampaikannya dan memberikan nasehat….” (H.R. Muslim)</q>"
+      },
+      {
+        "page": 17,
+        "text": "<p>Dari kedua dalil di atas, bisa kita ketahui bahwa kata ‘البالغ ‘bermakna sesuatu yang bisa dijadikan hujjah untuk obyek pendengar dan berfungsi ilmu.</p><strong>Bantahan Atas Dalil Penolak Kehujjahan Hadits Ahad</strong><strong>Bantahan terhadap dalil pertama :</strong><q>Ada ayat lain yang menjelaskan tentang wajibnya menyampaikan ilmu, meskipun hanya sebagian orang saja “Tidak sepatutnya bagi mukminin itu pergi semuanya (ke medan perang). Mengapa tidak pergi dari tiap-tiap golongan di antara mereka beberapa orang untuk memperdalam pengetahuan mereka tentang agama dan untuk memberi peringatan kepada kaumnya apabila mereka Telah kembali kepadanya, supaya mereka itu dapat menjaga dirinya.” (At-Taubah : 122)</q><p>Dalam ayat tadi dijelaskan bahwa Allah mewajibkan ‘طائفة ‘dan kata dalam bahasa Arab bermakna satu atau lebih, untuk itu makna dari ayat ini adalah wajib bagi golongan ummat islam untuk memberikan peringatan kepada kaumnya ketika kembali kepada mereka, dan bentuk peringatan itu mencakup semua masalah agama baik itu aqidah, ibadah, muamalat maupun akhlaq.</p><p>Juga ada ayat lain :</p><q>Hai orang-orang yang beriman, jika datang kepadamu orang fasik membawa suatu berita, Maka periksalah dengan teliti…. (Al-Hujurât ;6)</q><p>Dalam ayat ini dijelaskan bahwa kita diharuskan</p>"
+      },
+      {
+        "page": 18,
+        "text": "<p dir='cntn'>untuk melakukan tabayyun jika ada orang fasiq menyampaikan kabar. Ini artinya bisa dipahami bahwa jika yang menyampaikan kabar itu orang yang tsiqah kita wajib menerimanya.</p><p>Untuk itu makna kata “الظن “dalam Surat AtTaubah : 122, yang dijadikan mereka sebagai hujjah harus ditafsirkan ke makna yang lain sehingga tidak terjadi pertentangan dengan dua ayat yang telah disebutkan. Sebab tidak mungkin terjadi pertentangan makna.</p><p>Di antaranya, ayat tersebut bisa ditafsirkan bahwa yang dimaksud dengan dhann di situ bukanlah dhann berdasarkan pengertian ulama’ ushul fiqih yang bermakna kebenarannya diatas 50%, melainkan yang dimaksud adalah dhann yang tidak berfungsi ilmu sama sekali atau yang sering dikenal sebagai wahm. Yaitu dhann yang didasarkan atas hawa nafsu dan tujuan yang menyelisihi syari’at. Penafsiran ini didukung oleh firman Allah dalam ayat berikut :</p><q>….Mereka tidak lain hanyalah mengikuti sangkaan-sangkaan, dan apa yang diingini oleh hawa nafsu mereka dan Sesungguhnya Telah datang petunjuk kepada mereka dari Tuhan mereka. (An-Najm : 23)</q><p>Bantahan terhadap dalil kedua :</p><ul><li>Jika logika ini digunakan maka akan banyak sekali riwayat shahih dari Nabi yang kita tolak hanya karena terikat dengan logika tersebut. Padahal akal itu tunduk dihadapan kebesaran</li></ul>"
+      },
+      {
+        "page": 19,
+        "text": "<p>sifat Allah.</p><ul><li>Mereka lebih mendahulukan dalil aqli (qiyash mantiqi) daripada wahyu.</li><li>Mereka menggunakan dalil logika ini untuk menolak atau menetapkan sifat Allah. Namun pada kenyataannya ternyata tidak ada batasan atau dlâbith yang jelas mengenai apakah perkara tersebut masuk logika atau tidak, sebab di antara mereka pun terjadi perselisihan mengenai penetapan dan penolakan sifat Allah misalnya. Kadang salah satu dari mereka mengatakan bahwa sifat ini tidak masuk akal, tetapi yang lain mengatakan masuk akal. Semua itu didasarkan pada logika mereka sendiri.</li></ul>"
+      },
+      {
+        "page": 20,
+        "text": "<strong>F. Kesimpulan</strong><p>Dari pembahasan dan uraian yang telah dijelaskan, ada beberapa kesimpulan yang bisa kita ambil. Di antaranya :</p><ul><li>Makna dhann dalam istilah ushul fiqih adalah tingkat dari ilmu yang kedua. Yang bermakna sesuatu yang sisi kebenarannya lebih kuat dari kesalahannya. Dalam suatu berita, prosentasi kebenaran dari dhann adalah antara 51 s.d. 99%.</li><li>Hadits Ahad, jika ditinjau dari jumlah perawinya berfungssi dhanniy tsubut. Sedangkan jika dilihat dari maknanya bisa berfungsi qath’iy dilalah ataupun dhanniy dilalah, tergantung dari makna hadits tersebut, apakah mengandung kemungkinan yang lain ataukah tidak.</li><li>Dalam permasalahan hukum fiqih, terjadi perbedaan pendapat apakah hadits Ahad bisa dijadikan sebagai hujjah ataukah tidak. Setelah pemaparan dalil dari masing-masing kelompok bisa disimpulkan bahwa hadits ahad bisa dijadikan sebagai hujjah dalam permasalahan hukum fiqih, dan ini adalah pendapat dari jumhur, berdasarkan kuatnya hujjah yang digunakan oleh jumhur.</li><li>Adapun dalam permasalahan aqidah, maka juga bisa disimpulkan bahwa hadits ahad bisa dijadikan sebagai hujjah, berdasarkan dalil-dalil yang secara gambling menjelaskan hal tersebut. Adapun dalil yang digunakan oleh kelompok penentang, sebenarnya hanya sebatas dalil</li></ul>"
+      },
+      {
+        "page": 21,
+        "text": "<p>logika, yang sangat lemah.</p><ul><li>Kelompok yang menentang kehujjahan hadits ahad juga menggunakan dalil ayat Al-Qur’an, hanya saja permasalahannya terdapat kerancuan dalam memaknai kata ‘dhann’ dalam ayat tersebut, sehingga akhirnya menimbulkan kesimpulan yang rancu pula.</li></ul>"
       }
     ]
   }
