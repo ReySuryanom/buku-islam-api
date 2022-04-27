@@ -12,7 +12,7 @@ n7m = Pasang Surut Mazhab di Tanah Haram
 NKB = Pakaian Syari : Harus Segitunya Kah?
 cCP = Kehujjahan Hadits Ahad
 rs8 = Haditsnya Nomor Berapa?
-G3V
+G3V = Risalah Adzan
 EH4
 83T
 AAP
