@@ -309,14 +309,134 @@
     },
     "tableOfContents": [
       { "page": 5, "text": "Pengantar", "head": true },
-      { "page": 7, "text": "Rukun Khutbah Jumat" },
-      { "page": 14, "text": "Syarat Sah Khutbah" },
-      { "page": 20, "text": "Contoh Redaksi Khutbah" }
+      {
+        "page": 7,
+        "text": "Rukun Khutbah Jumat",
+        "sub": [
+          {
+            "page": 9,
+            "text": "Pujian Kepada Allah s.w.t (Hamdallah) dan Shalawat Kepada Nabi s.a.w"
+          },
+          { "page": 11, "text": "Wasiat Taqwa" },
+          { "page": 12, "text": "Membaca Ayat al-Qur'an" },
+          { "page": 12, "text": "Doa untuk Orang Mukmin di Khutbah Kedua" }
+        ]
+      },
+      {
+        "page": 14,
+        "text": "Syarat Sah Khutbah",
+        "sub": [
+          { "page": 15, "text": "Menggunakan Bahasa Arab" },
+          { "page": 16, "text": "Dilakukan Setelah Zawal" },
+          { "page": 16, "text": "Berdiri Bagi Yang Mampu" },
+          { "page": 17, "text": "Duduk Diantara 2 Khutbah" },
+          { "page": 17, "text": "Memperdengarkan Khutbah Kepada 40 Orang" },
+          { "page": 18, "text": "Semua Rukun Khutbah Bersambing (Muwalat)" },
+          { "page": 18, "text": "Suci Dari Hadats" },
+          { "page": 19, "text": "Menutup Aurat" }
+        ]
+      },
+      {
+        "page": 20,
+        "text": "Contoh Redaksi Khutbah",
+        "sub": [
+          { "page": 20, "text": "Contoh Redaksi Standar" },
+          { "page": 21, "text": "Contoh Redaksi Khutbah Panjang" }
+        ]
+      }
     ],
     "content": [
       {
+        "page": 5,
+        "text": "<strong>Pengantar</strong><p>Pandemi yang masih berjalan ini membuat kita semua tetap menjaga jarak satu sama lainnya dalam setiap kegiatan kita sehari-hari, tidak terkecuali dalam kegiatan peribadatan. Semua dilakukan dalam protokol kesehatan covid-19.</p><p>Akhirnya shaf shalat yang harusnya rapat, diberikan kelonggaran sebagai jarak minimal 1 meter. Itu berlaku untuk semua jenis shalat, termasuk shalat jumat yang memamng mendatangkan banyak jemaah. Dan karena shaff yang berjarak-jarak itulah kemudian membuat masjid yang biasanya bisa menampung ratusan jemaah, hanya mengakomodasi jumlah setengahnya bahkan lebih sedikit.</p><p>Akhirnya membuat sebagian saudara muslim berinisiatif untuk mendirikan jumatan di mushalla atau langgar atau aula kantor yang biasanya tidak didirikan di tempat-tempat tersebut shalat jumat. Ini dilakukan untuk mengakomodasi orang-orang yang wajib jumatan akan tetapi tidak bisa ditampung oleh masjid yang biasanya mereka jumatan disitu; karena sebab protokol kesehatan yang ada.</p><p>Dan untuk itulah, kebutuhan akan khathib juga menjadi lebih tinggi. Tapi sayangnya, mendatangkan orang dari tempat berbeda itu di dalam kondisi</p>"
+      },
+      {
         "page": 6,
-        "text": ""
+        "text": "<p dir='cntn'>pandemi bukanlah pilihan yang mudah; karena banyak kekhawatiran di masyarakat akan virus yang masih menyebar. Nah, keadaan ini mengharuskan orang-orang yang biasanya hanya mendengarkan khutbah untuk bisa khutbah karena mereka melakukan di tempat baru yang kesemuanya tidak biasa menjadi seorang khathib. Harus ada diantara mereka yang bisa berdiri melakukannya.</p><p>Untuk itulah buku kecil ini dihadirkan; sebagai pegangan bagi para pemula yang ingin memulai berkhutbah pada shalat jumat, agar khutbah tidak keluar dari koridor syariat yang sah yang membuat shalat jumatnya tidak sah juga.</p><p>Maka, memastikan shalat jumat itu sah, dengan memastikan khutbah yang dilakukan juga sah sesuai dengan ketetapan syariat. Dan inilah bukunya.</p><p>Besar harapan penulis terhadap buku ini agar bisa memberikan kemanfaatan yang sebesar-besar kepada pembaca. Wallahul-musta’an.</p>"
+      },
+      {
+        "page": 7,
+        "text": "<strong>Rukun Khutbah Jumat</strong><p>Untuk mengetahui berapa dan apa saja rukun khutbah itu, kita ambil sebagai dasar apa yang dituliskan oleh Imam Nawawi dalam kitabnya Munhaj al-Thalibin wa ‘Umdatul-Muftin pada bab Shalat Jumat.</p><p>Ketika beliau menyebutkan bahwa syarat sah shalat jumat itu adalah khutbah, beliau juga menjelaskan tentang rukun-rukun khutbah. Beliau katakan:</p><p>Rukun khutbah itu ada 5:</p><p>1. (membaca) pujian kepada Allah,</p><p>2. (membaca) shalawat kepada Nabi s.a.w., dan</p>"
+      },
+      {
+        "page": 8,
+        "text": "<p>redaksi untuk rukun 1 dan 2 itu redaksi yang tertentu (tidak buat sendiri),</p><p>3. (membaca) wasiat taqwa, Dan tiga rukun teratas ini harus dibaca di 2 khutbah (pertama dan kedua).</p><p>4. Membaca ayat al-Qur’an di salah satu antara 2 khutbah. Dikatakan1 juga itu dibaca di khutbah pertama. Juga dikatakan (wajib baca) di 2 khutbah. Bahkan juga dikatakan baca ayat alQur’an itu tidka wajib.</p><p>5. Membaca redaksi yang cukup untuk disebut doa untuk orang-orang mukmin di khutban yang kedua. Dikatakan itu tidak wajib.</p><p>Dalam hadits yang masyhur dan mungkin hampir semua kita hafal, Nabi s.a.w. pernah bersabda: “shalatlah kalian sebagimana kalian melihatku shalat”. Dan sepanjang hayat Nabi s.a.w., beliau tidak pernah shalat jumat kecuali didahului dengan 2 khutbah. Itu sudah cukup menjadi dalil bahwa syarat sah shalat jumat itu, adanya 2 khutbah sebelum shalat.</p><p>Dan kalau saja, boleh shalat jumat tanpa didahului dengan khutbah, pastilah Nabi s.a.w. melewatkan itu sekali saja, dan tak sekalipun Nabi s.a.w. melewatkan 2 kali khutbah sebelum shalat Jumat.</p>"
+      },
+      {
+        "page": 9,
+        "text": "<p>Kemudian kami akan jelaskan rukun khutbah yang disebutkan satu persatu.</p><strong>1 & 2. Pujian Kepada Allah s.w.t. (Hamdallah) dan Shalawat Kepada Nabi s.a.w.</strong><p>Alasan utama kenapa memulai khutbah dengan Hamdallah adalah Ittiba’an; yakni mengikuti apa yang sudah dikerjakan Nabi s.a.w.; karena ini ibadah maka segala teknis harus mengikuti apa yang sudah dicontohan oleh Nabi s.a.w. dan tak sekalipun Nabi s.a.w. melakukan khutbah kecuali memulianya dengna Hamdallah.</p><p>Juga karena memang khutbah ini adalah ibadah, maka ia membutuhkan dzikir kepada Allah s.w.t. dengan penyebutan yang memuji. Dan dzikir kepada Allah s.w.t. membuat keharusan menyebut kekasihNya; Muhammad s.a.w.; karena itu diwajibakn setelah hamdallah untuk membaca shalawat kepada Nabi s.a.w.</p><p>Untuk Hamdallah dan shalawat ini, Imam Nawawi mensyaratkan bahwa redaksi keduanya sudah ditentukan. Artinya membaca keduanya tidak boleh asal membaca melainkan dengan redaksi yang sudah ditentukan; yakni dengan redaksi:</p><p>Alhamdulillah dan Allahumma Shalli 'ala Muhammad</p><p>Kedua redaksi itu diwajibkan karena memang itulah yang teriwayat dari Nabi s.a.w., dan ibadah ini adalah ibadah ritual yang mengharuskan imitasi</p>"
+      },
+      {
+        "page": 10,
+        "text": "<p dir='cntn'>dengan apa yang dilakukan oleh Nabi s.a.w. Dan itu juga yang dilakuan oleh para sahabat sepeninggalan Nabi s.a.w. serta ulama-ulama Islam sampai saat ini.</p><p>Redak hamdallah; pujian kepada Allah, tidak bisa diganti dengan kalimat lain yang mungkin punya makna mirip, seperti Syukr lillah atau juga al-Tsana’u lill, atau juga dengan kalimat al-Madh</p><p>Tapi ulama membolehkan redaksi hamd itu dengan penyebutan yang berbeda-beda yang penting masih dengna kalimat Hamd itu sendiri. Karena khutbah tetap sah dengan hamdallah:</p><p>Hamdullah, Ahmadullah, lillahil-Hamd, Allahu Ahmad.</p><p>Begitu juga dengan lafadz al-Jalalah (Allah) yang disebutkan itu tidak bisa diganti dengan nama-Nya dalam Asmaul-Husna. Lafdz al-jalalah harus diucapkan dengan redaksi Allah. Tidak bisa diganti dengan al-Rahman, atau al-Rahim.</p><p>Berbeda dengan Hamdallah, shalawat kepada Nabi s.a.w. tidak sebegitu ketat dalam redkasinya, walaupun juga tetap diwajibkan dengan redaksi yang shalah. Kata Imam al-Syirbini dalam Mughni alMuhtaj (1/550):</p>"
+      },
+      {
+        "page": 11,
+        "text": "<q>Tidak diharuskan bershalwat dengan redaksi: “allahumma shalli ‘ala Muhammad”. Boleh juga dengan “Ushalli” atau “Nushalli ‘ala Muhammad”, atau “ahmadu”. (dan untuk Muhammad-nya), boleh dengan kalimat “al-Rasul”, atau “al-Nabiy”, atau “al-Mahi”, atau juga “al-‘Aqib”, juga “alHasyir”, “al-Nasyir”, dan juga “al-Nadzir”.</q><p>Akan tetapi jauh lebih baik mengucapkan dengan redaksi yang sudah biasa diucapkan oleh para guru, kiyai dan juga ulama setempat agar tidak menimbulkan fitnah bagi jemaah yang mendengarkan.</p><strong>3. Wasiat Taqwa</strong><p>Sebagaimana rukun pertama dan kedua, sebab utama wasiat masuk ke dalam rukun khautbah adalah ittiba’; yakni mengikuti apa yang datang dari Nabi s.a.w.. Selain itu juga karena meman tujuan khtubah itu sebagai nasehat sekaligus peringatan, dan ajak untuk taat kepada perintah Allah s.w.t., serta menjauhi larangan-Nya. Maka itu cukup dengan kalimat yang mengandung makna tersebut, baik panjang atau pendek. Dengan mengucap Athi’u-llah sudah cukup sebagai wasiat taqwa.</p>"
+      },
+      {
+        "page": 12,
+        "text": "<strong>4. Membaca Ayat al-Qur’an</strong><p>Rukun ini; membaca ayat al-Quran, tempatnya dibebaskan; boleh di khutbah pertama atau juga di khutbah kedua. Pada intinya sepanjang khtubah itu harus ada ayat al-Quran yang dibaca. Alasannnya ya ittiba’; karena memang begitu Nabi s.a.w. mencontohkan khutbahnya ketika shalat Jumat.</p><p>Dan ayat yang tidak dibaca tidak lah diharuskan ayat tertentu, sang khathib dibebaskan memilih ayat apa saja dari al-Qur’an; baik itu ayat peringatan, ayat ancaman meninggalkan kewajiba, ayat hukum, atau juga ayat yang berisi kisah-kisah terdahulu guna diambil hikmahnya.</p><p>Walaupun diberi kebebasan untuk membaca ayat di khutbah pertama atau keduan, akan tetapi ulamaulama al-Syafi’iyyah khususnya menganjurkan atau mensunnahkan bacaan ayat itu dilakukan di khutbah pertama.</p><strong>5. Doa untuk Orang Mukmin di Khutbah Kedua</strong><p>Redaksi doanya tidak ditentukan, yang penting ditujukan untuk orang mukmin. Bahkan jika hanya doa untuk orang yang hadir di tempat jumatan itu saja juga dibolehkan, seperti dengan kalimat:</p><p>(رحمكم الله) rahimakumullah</p><p>Akan tetapi dianjurkan doa kebaikan akhirat seperti doa meminta ampun atas dosa dengan kalimat: allahumma-ghfir lil-mukminin (اللهم اغفر للمؤمنين)</p><p>Imam ‘Izzuddin bin Abdil-Salam dari kalangan</p>"
+      },
+      {
+        "page": 13,
+        "text": "<p dir='cntn'>ulama al-Syafi’iyyah, menganjurkan untuk mendoakan untuk para pemimpin kaum muslim agar tetap dalam jalur ketaatan kepada Allah, dan memohon agar mereka slelau diberi pertolongan oleh Allah dalam kebenaran, serta mengakkan keadilan dan kebaikan-kebaikan lainnya. Ini juga yang disebutkan oleh Imam Nawawi dalam kitabnya al-Majmu’.</p>"
+      },
+      {
+        "page": 14,
+        "text": "<strong>Syarat Sah Khutbah</strong><p>Setelah membahas 5 rukun Khutbah, Imam Nawawi meneruskan penjelasannya dengan menyebutkan syarat-syarat sah khtubah yang jumlahnya ada 8. Artinya rukun yang dibaca itu mnejadi percuma jika 8 syarat ini tidak terpenuhi.</p><p>Dan disyaratkan;</p><p>1. khutbah itu disampaikan dengan bahasa Arab secara berurutan di 3 rukun pertama.</p><p>2. Dan itu (khutbah) dilakukan setelah waktu zawal (tergelincir matahari ke arah barat).</p><p>3. Berdiri bagi yang mampu,</p><p>4. Duduk diantara kedua khutbah,</p>"
+      },
+      {
+        "page": 15,
+        "text": "<p>5. Memperdengarkan khutbah kepada 40 orang sempurna,</p><p dir='cntn'>Pendapat al-jadid menyebutkan tidak diharamkan berbicara bagi para pendengar khtubah, akan tetapi disunnahkan diam (mendengarkan).</p><p dir='cntn'>Aku (al-Nawawi) mengatakan bahwa yang paling shahih itu rukun yang berurutan bukanlah syarat. Wallahu a’lam.</p><p>6. Pendapat yang azhar, (syarat khutbah) haruslah bersambung (muwalat),</p><p>7. Dan suci dari hadats (kecil dan besar), kotoran (badan, pakain & tempat) dan</p><p>8. juga tertutup auratnya (khathib).</p><strong>1. Menggunakan Bahasa Arab</strong><p>Syarat sah-nya khtubah jumat adalah semua rukun disampaikan dengan bahasa Arab. Alasannya karena ini adalah ibadah ritual, alias ta’abbudiy, maka untuk menunaikannya harus sesuai dengan apa yang dicontohkan oleh Nabi s.a.w., dan beliau s.a.w. tidak menyampaikan kecuali dengan bahasa Arab.</p><p>Ini seperti takbiratul Ihram dan Surat al-fatihah dalam shalat. Ia harus dikerjakan sebagaimana datangnya; yakni dengan bahasa Arab. Karena kesemua adalah dzikir yang diwajibkan, maka tidak bisa diganti dengan selain bahasa yang dicontohkan.</p>"
+      },
+      {
+        "page": 16,
+        "text": "<p>Karenanya, jika dalam satu kampung tidak satupun ada yang bisa berbahasa arab, setidaknya untuk melaksanakan rukun khutbah ini, maka gugur kewajiban jumat bagi mereka. Dan kesemuanya diwajibkan untuk mempelajari bahasa arab secara kifayah (Fardhu Kifayah).</p><p>Dan pembacaan 3 rukun khutbah pertama selain diharuskan dengan bahasa Arab, ia juga diharuskan berurutan. Jadi dimulai dengan Hamdallah, kemudian Shalawat kepada Nabi s.a.w., lalu wasiat taqwa.</p><strong>2. Dilakukan Setelah Zawal</strong><p>Dalam pandangan madzhab al-Syafi’iyyah, shalat Jumat itu waktunya adalah waktu zuhur; yakni setelah zawal (tergelincirnya matahari ke arah barat). Karena memang khutbah adalah rangkaian awal shalat Jumat, maka itu khutbah harus dipastikan dilakukan di waktunya; yakni waktu zuhur, bukan sebelumnya.</p><p>Dalam al-Majmu’ Imam Nawawi menyebutkan: bahwa sudah menjadi sesuatu yang diketahui banyak orang bahwa Nabi s.a.w., keluar rumah untuk shalat jumat itu langsung menuju mimbar untuk memulai khutbah, dan itu beliau s.a.w. lakukan setelah zawal.</p><strong>3. Berdiri Bagi Yang Mampu</strong><p>Syarat berdiri ketika khutbah ini karena memang begitu yang dicontohkan oleh Nabi s.a.w., dalam banyak riwayat tentang khutbah beliau s.a.w.; karenanya itu juga dijadikan syarat sah.</p>"
+      },
+      {
+        "page": 17,
+        "text": "<p>Tentu kondisi wajibnya berdiri bagi seorang khathib adalah ketika ia mampu. Jik ia tidak mampu berdiri, boleh baginya duduk, sampai seterusnya sebagaimana keringanan yang diberikan dalam shalat.</p><strong>4. Duduk Diantara 2 Khutbah</strong><p>Dalilnya sama seperti syarat-syarat yang lain, bahwa ini semua adalah ittiba’an alias mengikuti apa yang dicontohkan oleh Nabi s.a.w., dan khutbah ini kan hanya rangkaian doa dan dzikir; karenanya berdiri dan duduk menjadi syarat sah, bukan rukun. Berbeda dengan shalat yang menjadikan berdiri serta duduk sebagai rukun; karena memang shalat itu rangkaian gerakan dan ucapan.</p><p>Nah, duduknya khathib diantara 2 khutbah disyaratkan adanya thuma’ninah sebagaimana duduk dalam shalat. Dan lamanya thuma’ninah paling sebentar itu adalah sekedar bacaan tasbih; yakni subhanallah.</p><strong>5. Memperdengarkan Khutbah Kepada 40 Orang</strong><p>Maksudnya adalah khutbah yang disampaikan termasuk rukun-rukunnya tersebut haruslah mencakup kepada 40 orang yang wajib jumatan. Terepas dari apakah si makmum itu menyimak atau tidak, memahami atau tidak. Yang jadi standar adalah suara khathib dengan rukun-rukun khutbahnya tersebut mencapai telinganya.</p><p>Karena memang syarat kuota jemaah dalam madzhab al-Syafi’iyyah adalah 40 orang; maka kewajiban memperdengarkan khutbah itu juga</p>"
+      },
+      {
+        "page": 18,
+        "text": "<p dir='cntn'>harus mencapai 40 orang.</p><strong>6. Semua Rukun Khutbah Bersambung (Muwalat)</strong><p>Muwalat itu bersambungnya rukun yang satu dengan rukun selanjutnya tanpa ada kalimat penghalang atau jeda panjang yang memisahkan. Artinya dalam menyampaikan khutbah, dari rukun saru sampai rukun selanjutnya ke akhir, disampaikan tanpa adanya jeda, atau dipisahkan dengan kalimat yang bukan bagian dari rukun khutbah.</p><p>Ada 2 pendapat sebenarnya dari Imam al-Syafi’i dalam masalah ini. Satu pendapat, beliau melihat tidak wajib atau tidak harus rukun-rukun khutbah itu penyampaiannya bersambung satu dengan yang lain; maksudnya boleh terpisah. Itu karena maksud dan tujuan khutbah itu memberikan peringatan tentang ketaqwaan dan juga ketaatan, dan itu bisa dilakukan waluapun terpisah.</p><p>Akan tetapi pendapat lain dari Imam al-Syafi’i mensyaraytkan muwalat dalam khutbah; karena itu jauh lebih mengena kepada hati. Dan pendapat inilah yang dinilai azhar oleh Imam Nawawi.</p><strong>7. Suci Dari Hadats</strong><p>Karena khutbah itu juga rangkain dari pada shalat Jumat, maka untuk keabsahannya, disyaratkan suci dari hadats baik kecil atau besar. Dan badan,</p>"
+      },
+      {
+        "page": 19,
+        "text": "<p dir='cntn'>pakaian serta tempat harus bebas dari najis yang tidak dimaafkan.</p><strong>8. Menutup Aurat</strong><p>Ini juga syarat yang ditetapkan mengikuti apa yang disyaratkan dalam shalat, karena memang khutbah bagian dari rangkaian shalat Jumat. Karenanya, sang Khathib haruslah orang yang tertutup auratnya dalam melasanakan syarat shalat jumat tersebut.</p>"
+      },
+      {
+        "page": 20,
+        "text": "<strong>Contoh Redaksi Khutbah</strong><strong>1. Contoh Redaksi Standar</strong><p>Maksud redaksi standar adalah contoh khutbah minimalis yang tidak panjang akan tetapi sesuai dengan aturan minimal. Dengan bahasa lain “yang penting sah”.</p><strong>Khutbah pertama</stro><p>Innal-Hamda lillah. Allahumma Shalli 'ala Muhammad wa 'ala Alihi wa Ashabihi Ajma'in. Amma ba'du. Masyiral-Muslimin, Ittaqullaha ta'ala. Yaa Ayyuhal-Ladzina Amanut-taqullah wa Quuluu qaulan Sadida.</p><strong>Khutbah kedua</strong>"
+      },
+      {
+        "page": 21,
+        "text": "<p>Innal-Hamda lillah. Allahumma Shalli 'ala Muhammad wa 'ala Alihi wa Ashabihi Ajma'in. Amma ba'du. Masyiral-Muslimin, Ittaqullaha ta’ala. Allahumma-ghfir lil-musliminin wal-muslimat walmukminin wal-mukminat, al-Ahya’i minhum walamwat.</p><strong>Keterangan</strong><ul><li>Rukun Hamdallah warna merah</li><li>Rukun Shalawat warna hijau</li><li>Rukun Wasiat warna biru,</li><li>Rukun ayat al-Quran warna orange,</li><li>Rukun doa untuk orang mukmin warna gold.</li></ul><p>Itu dia contoh khutbah dengan redaksi yang singkay namun cukup untuk dikatakan sebagai khutbah yang sah, memenuhi rukun dan syaratnya.</p><strong>2. Contoh redaksi khutbah Panjang</strong><p>Contoh redaksi di bawah ini adalah contoh khutbah dengan redaksi yang raltif panjang tapi masih wajar. Sudah lebih dari cukup; yakni rukunnya sah dan ada tambahan dzikir yang lebih.</p><strong>Khutbah Pertama</strong>"
+      },
+      {
+        "page": 22,
+        "text": "<p dir='rtl'>ﻥَّ ﺍﻟْﺤَﻤْﺪَ ﻟِﻠﻪِ ﻧَﺤْﻤَﺪُﻩُ ﻭَﻧَﺴْﺘَﻌِﻴْﻨُﻪُ ﻭَﻧَﺴْﺘَﻐْﻔِﺮُﻩْ ﻭَﻧَﻌُﻮﺫُ ﺑِﺎﻟﻠﻪِ ﻣِﻦْ ﺷُﺮُﻭْﺭِ ﺃَﻧْﻔُﺴِﻨَﺎ ﻭَﻣِﻦْ ﺳَﻴِّﺌَﺎﺕِ ﺃَﻋْﻤَﺎﻟِﻨَﺎ، ﻣَﻦْ ﻳَﻬْﺪِﻩِ ﺍﻟﻠﻪُ ﻓَﻼَ ﻣُﻀِﻞَّ ﻟَﻪُ ﻭَﻣَﻦْ ﻳُﻀْﻠِﻞْ ﻓَﻼَ ﻫَﺎﺩِﻱَ ﻟَﻪُ</p><p>Innal-Hamda lillah, Nahmaduhu wa nasta’inuhu, wa nastaghfiruhu, wa na’udzu billah min Syururi Anfusina, wa Sayyi’ati A’malina, man Yahdihillahu falaa mudhilla lahu waman yudhlilhu falaa hadiya lahu.</p><p dir='rtl'>وَأَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللهُ وَحْدَهُ لاَ شَرِيْكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ</p><p>Asyhadu anna Laa Ilaha Ilallah wahdahu laa syarikalahu wa asyhadu anna muhammadan abduhu wa rasuluhu.</p><p>Allahumma shalli wa sallim ‘ala sayyidina Muhammadin, wa ‘ala alihi wa ashhabihi wa man tabi;ahu ila yaumid-din. Amma ba’du. Ma’asyiral-Muslimin, ittaqullah ta’ala.</p>"
+      },
+      {
+        "page": 23,
+        "text": "<p>Ya ayyuhal-ladzina amanut-taqullaha wa qulu qaulan sadida. Yushlih lakum a’malakum, wa yaghfir lakum dzunubakum, wa man yuthi’illaha warasulahu faqad faaza fauzan ‘dzima</p><strong>Penutup khutbah pertama</strong><p dir='rtl'>بَارَكَ اللهُ لِي وَلَكُمْ فِي القُرْأنِ العَظِيْمِ وَنَفَعَنِي وَاِيَّاكُمْ بِمَا فِيْهِ مِنَ الاَيَاتِ وَ ذِكْرِالحَكِيْمِ وَ تَقَبَّلَ اللهُ مِنِّي وَمِنْكُمْ تِلَاوَتَهُ اِنَّهُ هُوَ السَّمِيْعُ العَلِيْمِ</p><p>Baarokallahu li wa lakum fil-qur’anil-adzim, wa nafa’ani wa iyyakum bima fihi minal-ayaati wa dzikril-hakim. Wa taqabbala minni wa minkum tilawatahu, innahu huwas-sami’ul-‘alim.</p><p>Aquulu qauli hadza, wa astaghfirullahal-adzima li wa lakum, fastaghfiruuhu, innahu huwalGhafurur-Rahiim.</p><strong>Khtubah Kedua</strong>"
+      },
+      {
+        "page": 24,
+        "text": "<p dir='rtl'>انّ الْحَمْدَللهِ نَحْمَدُهُ وَنَسْتَعِيْنُهُ وَنَسَتَغْفِرُهُ وَنَعُوْذُ بِاللهِ مِنْ شُرُوْرِ اَنْفُسِنَا وَمِنْ سَيِّئَاتِ اَعْمَالِنَا مَنْ يَّهْدِهِ اللهُ فَلَا مُضِلَّ لَهُ وَمَنْ يُضْلِلْهُ فَلَا هَادِيَ لَهُ</p><p>Innal-Hamda lillah, Nahmaduhu wa nasta’inuhu, wa nastaghfiruhu, wa na’udzu billah min Syururi Anfusina, wa Sayyi’ati A’malina, man Yahdihillahu falaa mudhilla lahu waman yudhlilhu falaa hadiya lahu.</p><p dir='rtl'>أَشْهَدُ أَنْ لَا إلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ وأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُو لُهُ</p><p>Asyhadu anna Laa Ilaha Ilallah wahdahu laa syarikalahu wa asyhadu anna muhammadan abduhu wa rasuluhu.</p><p>Allahumma shalli wa sallim ‘ala sayyidina Muhammadin, wa ‘ala alihi wa ashhabihi wa man tabi;ahu ila yaumid-din. Amma ba’du. Ma’asyiral-Muslimin, ittaqullah ta’ala.</p>"
+      },
+      {
+        "page": 25,
+        "text": "<strong>Do’a Khutbah</strong><p>Innallaha wa malaikatahu yushalluna ‘alan-nabiy, ya ayyuhal-ladzina amanu, shallu ‘alayhi wasallimuu taslimaa.</p><p>Allahumma shalli ‘ala muhammadin, wa ‘ala ali muhammadin, wa radhiyallahu ta’ala ‘an kulli shahabati rasulillah ajma’in. Allahumma-ghfir lilmuslimin wal-muslimat, wal-mukminin walmukminat, al-ahya’i minhum wal-amwat.</p>"
+      },
+      {
+        "page": 26,
+        "text": "<p>Allahumma arinal-Haqqa haqqan war-zuqnattiba’ahu, wa warinal-Bathila bathilan warzuqnajtinabahu. Rabana hab lana min azwajina wa dzuriyatina qurrata a’yunin waj-‘alna lil-muttaqina imaman.</p><p>Rabbana atina fid-dunya Hasanah, wa fil-akhirati hasanah, wa qina adzaban-nar. Subhana rabbika rabbil-izzati ‘amma yashifun, wasaalaamun ‘alalmursalin wal-hamdulillahi rabbil-‘alamin.</p><p>Sesaat sebelum menutup khutbah, bacaan umum yang dibawakan oleh khotib adalah :</p><p>InnAllaha yakmuru bil ‘adli wal ihsan wa iytaai dzil qurba, wa yanha ‘anil fahsyaai wal munkar wal bagy. ya’idzukum la’alakum tadzakkarun</p><p>Udzkurullah al-‘adzima yadzkurkum, wasykuruhu</p>"
+      },
+      {
+        "page": 27,
+        "text": "<p>‘ala ni’amihi yazidkum, was’aluhu min fadlihi yu’thiykum. wala dzikrullahi akbar, Aqimus sholah.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>"
       }
     ]
   }
