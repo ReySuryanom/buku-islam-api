@@ -13,7 +13,7 @@ NKB = Pakaian Syari : Harus Segitunya Kah?
 cCP = Kehujjahan Hadits Ahad
 rs8 = Haditsnya Nomor Berapa?
 G3V = Risalah Adzan
-EH4
+EH4 = Hadits Shahih Tidak Harus Selalu Diamalkan
 83T
 AAP
 c70
