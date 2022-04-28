@@ -14,9 +14,9 @@ cCP = Kehujjahan Hadits Ahad
 rs8 = Haditsnya Nomor Berapa?
 G3V = Risalah Adzan
 EH4 = Hadits Shahih Tidak Harus Selalu Diamalkan
-83T
-AAP
-c70
+83T = Hadist-Hadist Dhaif Sekitar Ramadhan
+AAP = Rukun & Syarat Sah Khutbah Jumat
+c70 = Sejarah Puasa
 qP1
 q4Z
 r7Q
