@@ -18,8 +18,8 @@ EH4 = Hadits Shahih Tidak Harus Selalu Diamalkan
 AAP = Rukun & Syarat Sah Khutbah Jumat
 c70 = Sejarah Puasa
 qP1 = Perihal Penting Haji yang Sering Ditanyakan
-q4Z
-r7Q
+q4Z = Adab Murid Terhadap Guru
+r7Q = Kedudukan Qadhi Dalam Hukum Islam
 3j2
 YhJ
 j9K
