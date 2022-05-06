@@ -101,5 +101,166 @@
         "text": "<p>siang bolong. Buku-buku itu kemudian jadi rujukan para ustadz yang belajar agamanya di Saudi. Mereka pulang lalu mendirikan berbagai ma'had, pesantren, sekolah, radio, tv, majalah, situs online dan perbagai konten video di medsos.</p><p>Isinya apalagi kalau bukan perpanjangan tangan dari dakwah di Saudi. Cocok untuk masyarakat Saudi yang se-mazhab, tapi memicu keresahan kalau diimpor bulat-bulat disini.</p><p></p><p></p>"
       }
     ]
+  },
+  {
+    "id": "vwU",
+    "info": {
+      "title": "Kaidah Fiqhiyah Sebagai Dalil",
+      "author": "M. Aqil Haidar, Lc",
+      "publish": "Wed, 24 October 2018",
+      "pages": 24,
+      "price": 0,
+      "category": "Ushul Fiqih",
+      "desc": "Abdurrahman bin Abi Bakr Jalaluddiin As-Suyuti menyatakan didalam kitabnya Al-Asybah wa AnNadzair: “Ketahuilah bahwa ilmu al-asybah wa annadzair (qawaid fiqhiyyah) adalah ilmu yang agung, karena dengannya dapat dicapai hakikat fiqih, tujuannya, tempat pengambilannya dan rahasianya."
+    },
+    "tableOfContents": [
+      { "page": 4, "text": "Pendahuluan", "head": true },
+      {
+        "page": 6,
+        "text": "Pembahasan",
+        "sub": [
+          {
+            "page": 6,
+            "text": "Pengertian dan Jenis Dalil",
+            "sub": [
+              { "page": 6, "text": "Pengertian Dalil" },
+              {
+                "page": 7,
+                "text": "Jenis Jenis Dalil",
+                "sub": [
+                  { "page": 7, "text": "Dalil Yang Disepakati" },
+                  { "page": 7, "text": "Dalil Yang Diperselisihkan" }
+                ]
+              }
+            ]
+          },
+          {
+            "page": 8,
+            "text": "Pengertian Kaidah Fiqhiyah",
+            "sub": [
+              { "page": 8, "text": "Secara Bahasa" },
+              { "page": 9, "text": "Secara Istilah" },
+              {
+                "page": 11,
+                "text": "Contoh Kaidah Fiqhiyah",
+                "sub": [
+                  { "page": 11, "text": "Contoh pertama" },
+                  { "page": 11, "text": "Contoh kedua" }
+                ]
+              }
+            ]
+          },
+          {
+            "page": 12,
+            "text": "Kaidah Fiqhiyah Sebagai Dalil",
+            "sub": [
+              {
+                "page": 12,
+                "text": "Yang Tidak Bisa Dijadikan Dalil",
+                "sub": [
+                  { "page": 13, "text": "Imam al-Haramain (478 H)" },
+                  { "page": 13, "text": "Ibnu Daqiq al-‘Iid (702 H)" },
+                  { "page": 14, "text": "Ibnu Nujaim (970 H)" }
+                ]
+              },
+              {
+                "page": 16,
+                "text": "Yang Bisa Dijadikan Dalil",
+                "sub": [
+                  { "page": 16, "text": "Ibn 'Arafah (761 H)" },
+                  { "page": 17, "text": "An-Nawawi (676 H)" },
+                  { "page": 19, "text": "Munaqosyah Adillah" }
+                ]
+              },
+              { "page": 20, "text": "Dapat Menjadi Dalil Jika Diperkuat Nash" }
+            ]
+          },
+          { "page": 21, "text": "Kesepakatan Ulama" }
+        ]
+      },
+      { "page": 23, "text": "Kesimpulan", "tail": true }
+    ],
+    "content": [
+      {
+        "page": 4,
+        "text": "<strong>Pendahuluan</strong><p>Abdurrahman bin Abi Bakr Jalaluddiin As-Suyuti menyatakan didalam kitabnya Al-Asybah wa AnNadzair: “Ketahuilah bahwa ilmu al-asybah wa annadzair (qawaid fiqhiyyah) adalah ilmu yang agung, karena dengannya dapat dicapai hakikat fiqih, tujuannya, tempat pengambilannya dan rahasianya.</p><p>Dengannya akan dijadikan pandai dalam memahami fiqih serta cara pengambilan hukumnya, dan juga mampu mengaitkan satu masalah dengan masalah yang lain dan kemudian menyimpulkan hukumnya.</p><p>Dan yang lebih penting lagi adalah dapat mengetahui masalah-masalah yang tidak terdapat nashnya didalam alquran ataupun hadist. Beserta kejadian-kejadian baru yang tidak akan pernah habis seiring berlalunya waktu.</p><p>Oleh karena itulah beberapa ulama madzhab ada yang mengatakan: fiqih adalah dengan mengetahui an-nadzair (qawaid fiqhiyyah).</p><p>Ini adalah masalah yang sangat penting karena erat kaitannya dengan sumber-sumber dan dalil-dalil berbagai hukum. Dan apakah benar qawaid fiqhiyyah merupakan salah satu dari dalil-dalil hukum yang</p>"
+      },
+      {
+        "page": 5,
+        "text": "<p dir='cntn'>dapat digunakan sebagai landasan ketika tidak ditemukan keterangannya baik dari nash, ijma, atau qiyas? Atau dengan kata lain: apakah boleh menjadikan qawaid fiqhiyyah sebagi dalil syar’i untuk mengistinbat hukum syar’i?</p><p>Tulisan sederhana ini mencoba memaparkan pemahaman penulis terhadap pemahaman para ulama atas dalil-dalil syar’i dan segala pernagkat yang ada dalam khazanah keilmuan hukum islam.</p>"
+      },
+      {
+        "page": 6,
+        "text": "<strong>Pembahasan</strong><strong>A. Pengertian dan Jenis Dalil</strong><strong>1. Pengertian Dalil</strong><p>Sebelum membahas apakah kaidah fiqhiyah merupakan dalil atau tidak, ada baiknya kita telusuri dulu apa yang disebut dengan dalil. Sebab tidak mungkin kita dapat membahas dengan sistematis terkait pembahasan ini jika kita belum mengerti apa itu dalil beserta jenis-jenisnya.</p><p>Dalil secara bahasa artinya berasal dari kata dallayadullu yang berarti menunjukan. Atau dengan sinoni arsyada-yursyidu. Dan dalil merupakan isim fai’ilyang berarti mursyid atau yang menunjukan.</p><p>Sedangkan secara istilah ushuliyyin dalil berarti:</p><p dir='rtl'>ما يتوصل بصحيح النظر فيه إىل العلم بمطلوب خربي ولو ظنا</p><q>segala sesuatu yang dengan analisa yang benar, dapat dijadikan petunjuk untuk mengetahui sebuah informasi yang diinginkan, meskipun hanya</q>"
+      },
+      {
+        "page": 7,
+        "text": "<q>sampai derajat dzanni.</q><strong>2. Jenis Jenis Dalil</strong><p>Dalil dalam syariat islam terbagi menjadi dua berdasarkan disepakati atau tidaknya. Ada beberapa dalil yang disepakati. Dalam arti semua ulama menerimanya dan menggunakanya sebagai dalil. Ada pula dalil yang tidak diterima seluruh ulama tentang keberadaanya sebagai dalil. Atau dengan kata lain dalil yang mukhtalaf</p><strong>a. Dalil Yang Disepakati:</strong><p>Sumber-sumber fiqih yang telah disepakati secara bulat oleh para ulama ada empat, yaitu :</p><ul><li>Al-Quran Al-Karim</li><li>As-Sunnah An-Nabawiyah</li><li>Al-Ijma'</li><li>Al-Qiyas</li></ul><p>Empat hal ini akan dikaji lebih dalam mengenai bagaimana proses dan ketentuanya sebagai pijakan dalam hukum syariat, dalam pembahasan usul fiqih.</p><strong>b. Dalil Yang Diperselisihkan</strong><p>Setidaknya ada lebih dari delapan sumber yang statusnya bisa menjadi sumber hukum, namun tidak disepakati secara bulat. Artinya, hanya sebagian ulama saja yang menggunakannya, sementara</p>"
+      },
+      {
+        "page": 8,
+        "text": "<p dir='cntn'>barangkali ulama yang lain tidak menggunakannya.</p><p>Masing-masing sumber itu ada banyak, di antaranya yang sering digunakan adalah :</p><ul><li>Al-Masalih Al-Mursalah</li><li>Al-Istishhab</li><li>Saddu Adz-Dzari’ah</li><li>Al-'Urf</li><li>Qaul Shahabi atau mazhabu Ash-Shahabah</li><li>Amalu Ahlil Madinah</li><li>Syar'u Man Qablana</li><li>Al-Istihsan</li></ul><strong>B. Pengertian Kaidah Fiqhiyah</strong><p>Sebelum melanjutkan ke pembahasan berikutnya, maka perlu kite ketahui apa yang dimaksud dengan kaidah fiqhiyah.</p><strong>1. Secara Bahasa</strong><p>Kaidah fiqhiyah secara bahasa terdiri dari dua kata. Kaidah dan fiqhiyah. Secara bahasa kaidah berasal dari bahasa arab قاعدة</p><p>Kata قاعدة sendiri berarti dasar, asas atau pondasi. Sebagaimana disebutkan dalam Al-Quran:</p><p dir='rtl'>وَاِذْ يَرْفَعُ اِبْرٰهٖمُ الْقَوَاعِدَ مِنَ الْبَيْتِ وَاِسْمٰعِيْلُۗ رَبَّنَا تَقَبَّلْ</p>"
+      },
+      {
+        "page": 9,
+        "text": "<p dir='rtl'>مِنَّا</p><q>Dan (ingatlah), ketika Ibrahim meninggikan (membina) dasar-dasar Baitullah bersama Ismail (seraya berdoa): \"Ya Tuhan kami terimalah daripada kami (amalan kami), sesungguhnya Engkaulah Yang Maha Mendengar lagi Maha Mengetahui\". (QS. Al-Baqarah 127)</q><p>Dan juga dalam ayat lain disebutkan:</p><p dir='rtl'>قَدْ مَكَرَ الَّذِيْنَ مِنْ قَبْلِهِمْ فَاَتَى اللّٰهُ بُنْيَانَهُمْ مِّنَ الْقَوَاعِدِ فَخَرَّ عَلَيْهِمُ السَّقْفُ مِنْ فَوْقِهِمْ وَاَتٰىهُمُ الْعَذَابُ مِنْ حَيْثُ لَا يَشْعُرُوْنَ</p><q>Sesungguhnya orang-orang yang sebelum mereka telah mengadakan makar, maka Allah menghancurkan rumah-rumah mereka dari fondasinya, lalu atap (rumah itu) jatuh menimpa mereka dari atas, dan datanglah azab itu kepada mereka dari tempat yang tidak mereka sadari (QS. An-Nahl: 26)</q><strong>2. Secara Istilah</strong><p>Sedangkan secara istilah kita akan menemukan beberapa pengertian dari kaidah fiqhiyah. Ulama berbeda pendapat mengenai pengertian kaidah fiqhiyah. Salah satu penyebabnya adalah kiarena adanya perbedaan konsep dasar dari kaidah fiqhiyah itu sendiri. Di antara pengertianya adalah:</p>"
+      },
+      {
+        "page": 10,
+        "text": "<p dir='rtl'>حكم كلي ينطبق عل جميع جزئياته ليتعرف أحكامهامنه</p><q>Suatu kaidah hukum universal yang berlaku untuk setiap masalah-masalah yang menjadi bagianya untuk mengetahui hukum masalah-masalah tersebut.</q><p>Namun ada juga yang mengatakan bahwa sifat dari kaidah fiqhiyah tidak berlaku untuk seluruh permasalahan-permasalahan yang senada. Melainkan berlaku untuk sebagian besar saja. Sebagaimana disebutkan oleh al-Hamawi :</p><q>Kaidah hukum yang bersifat aktsri yang berlaku untuk sebagian besar masalah pada cabang-cabangnya, untuk mengetahui hukum masalah tersebut.</q><p>Dari perbedaan pengertian di atas, maka sebagian ulama mengatakan bahwa kaidah dapat berlaku unutk seluruh masalah pada cabangnya. Namun ada juga sebagian ulama yang mengatakan bahwa kaidah fiqhiyah hanya berlaku pada sebagian besar saja. Tidak mencakup seluruh masalah tanpa terkecuali.</p>"
+      },
+      {
+        "page": 11,
+        "text": "<strong>3. Contoh Kaidah Fiqhiyah</strong><p>Untuk memperjelas penjelasan tentang apa itu kaidah fiqhiyah, maka sebagai berikut beberapa contohnya:</p><strong>a. Contoh pertama</strong><p dir='rtl'>األمور بمقاصدها</p><q>Segala sesuatu tergantung niatnya.</q><p>Misalnya seseorang sedang berhadast besar, kemudian ia mengguyurkan air ke seluruh tubuhnya. Maka apakah hadast besarnya terangkat dengan mandi tersebut atau tidak?</p><p>Maka bisa kita jawab berdasarkan kaidah di atas. Jika mandinya diniatkan untuk menghilangkan hadast besar maka hadstnya telah hilang. Namun jika ia tidak berniat kecuali untuk mandi sebagaimana biasanya, maka hadastnya tidak terangkat. Meskipun yang ia lakukan sama-sama mandi. Namun berbeda niat maka berbeda pula hukumnya.</p><strong>b. Contoh Kedua</strong><p dir='rtl'>اليق ين لا يزال بالشك</p><q>Sesuatu yang sudah diyakini adanya tidak bisa dihilangkan dengan sesuatu yang masih diragukan.</p><p>Sebagai contoh ketika seseorang sudah berwudhu. Kemudian ia sangat yakin dan ingat betul bahwa ia telah benar-benar wudhu. Namun ketika ia</p>"
+      },
+      {
+        "page": 12,
+        "text": "<p dir='cntn'>mau shalat, dia sedikit ragu apakah sudah batal atau belum?</p><p>Maka jawabanya bisa kita ambil dari kaidah di atas. Bahwa yang keberadaanya sudah diyakini, tidak bisa hilangkan dengan sesuatu yang masih diragukan. Dengan demikian berwudhu sudah diyakini keberadaanya. Sedangkan apakah sudah batal atau belum merupakan hal baru yang masih diragukan ada dan tidaknya. Maka hukum sudah wudhu tidak bisa dianulir dengan keragu-raguan akan batalnya wudhu.</p><strong>C. Kaidah Fiqhiyah Sebagai Dalil</strong><p>Setelah mengetahui apa itu dalil dan jenisnya, kita tidak menemukan adanya kaidah fiqhiyah sebagai dalil. Baik dalil muttafaq alaih ataupun dalil mukhtalaf fih. Namun faktanya ada beberapa ulama yang seolah menjadikan kaidah fiqhiyah sebagai dasar untuk menyimpulkan sebuah hukum. Yang contohnya akan kita sebutkan dalam pembahasan teori yang mengatakan kaidah fiqhiyah bisa digunakan sebagai dalil. Sehinggu menimbulkan pertanyaan apakah kaidah fiqhiyah dapat dijadikan dalil, ataukah tidak?</p><strong>1. Yang Tidak Bisa Dijadikan Dalil</strong><p>Teori ini dapat kita simpulkan dalam beberapa pernyataan ulama yang berkaitan dengan kaidah fiqhiyah. Yang mana dari pernyataan mereka bisa kita fahami penolakan mereka untuk menjadikan kaidah fiqhiyah menjadi sebuah dalil yang mustaqil. Beberapa pernyataan tersebut adalah:</p>"
+      },
+      {
+        "page": 13,
+        "text": "<strong>a. Imam al-Haramain (478 H)</strong><p>Dikutip dari kitab al-mumti karya Muslim bin Muhammad bin Majid Ad-Dausiri, ia menyebutkan bahwa imam al-haramain mengatakan:</p><q>saya tidak bermaksud bedalil dengan dua kaidah itu. Maka jika suatu masa terdapat permasalahan yang belum ada hukumnya, maka ulama pada masa itu tidak boleh melandaskan masalah tersebut kecuali kepada dalil yang qath'i</q><p>Pernyataan ini disebutkan saat ia mengomentari kaidah al-ibahah dan baraatu adz-dzimmah.</p><strong>b. Ibnu Daqiq al -‘Iid (702 H)</strong><p>Ibnu Farihun menyebutkan di dalam kitab AdDiibaaj saat membahas biografi Ibrahim bin Abdu Shamad, bahwasannya ia mengatakan:</p>"
+      },
+      {
+        "page": 14,
+        "text": "<q>itu adalah metode yang dinyatakan oleh syekh Taqiyyuddiin bin Daqiq Al-‘Iid sebagai metode yang tidak murni, karena masalah furu’’ tidak dapat diketahui hukumnya dengan qawaid ushuliyyah.</q><p>Yang menarik dari pernyataan ini adalah ia menyebutkannya dengan istilah qawaid ushuliyyah dan bukan qawaid fiqhiyyah. Ini dijelaskan oleh Muhammad bin majid Ad-Dausiry bahwa yang dimaksud adalah qawaid fiqhiyyah, dengan pertimbangan bahwa istilah tersebut pada zamannya lebih banyak digunakan untuk penyebutan qawaid fiqhiyyah yang ada pada zaman ini.</p><strong>c. Ibnu Nujaim (970 H)</strong><p>Didalam kitab Ghamzu ‘Uyuunil Bashaair karya AlHamawi yang merupakan Syarah kitab Al-Asybah wa An-Nadzair karya Ibnu Nujaim, disebutkan bahwa Ibnu Nujaim dengan jelas berkata:</p>"
+      },
+      {
+        "page": 15,
+        "text": "<q>tidak boleh berfatwa dengan menggunakan dhawbit fiqhiyyah, karena ia tidak bersifat universal. Bahkan hanya bersifat aghlabiyyah secara khusus. Dhawabith fiqhiyyah tidak berasal dari Imam pendiri madzhab, akan tetapi ia adalah kesimpulan yang dibuat oleh ulama-ulama dari perkataan sang Imam.</q><p>Dari pemaparan yang telah disampaikan dapat kita pahami bahwa ini merupakan sudut pandang yang juga di ambil oleh para penyusun kitab Majallatul Ahkaam Al - ‘Adliyyah. Didalam salah satu keputusannya mereka mengatakan:</p><q>Para juris (hakim) syara’ selama belum mendapatkan dalil yang sarih/jelas, mereka tidak diperbolehkan menjatuhkan hukum hanya dengan berdasarkan kepada salah satu dari qawaid fiqhiyyah ini</q><p>Dalil-dalil yang menjadi dasar dari teori ini secara umum dapat diseimpulkan sebagai berikut:</p><ul><li>Dalam pandangan mereka qwaid fiqhiyyah</li></ul>"
+      },
+      {
+        "page": 16,
+        "text": "<p dir='cntn'>bersifat aghlabiyah dan tidak bersifat universal, dan juga terdapat pengecualian-pengecualian didalmnya. Jadi tidak menutup kemungkinan saat akan mengikutsertakan suatu permasalahan tetapi ternyata masalah itu termasuk dari yang dikecualikan oleh kaidah tersebut.</p><ul><li>Qawaid fiqhiyyah kebanyakan sumbernya adalah istiqra, yang rata-ratanya adalah istiqra ghair taam. Maka kategori ghalabatu adz-dzan sebagai salah satu syarat disimpulkannya hukum tidak dapat tercapai sehingga tidak dapat memberikan keputusan hukum yang akurat.</li><li>Qawaidh fiqhiyyah adalah buah/hasil yang dihasilkan dari himpunan illat hukum furu’. Sehingga jadi tidak masuk akal jika sebuah hasil dijadikan dalil untuk hukum furu’ yang pada awalnya furu’ lah yang memberikan kesimpulan terbentuknya qawaid fiqhiyyah.</li></ul><strong>2. Yang Bisa Dijadikan Dalil</strong><p>Teori ke dua menunjukan bahwa kaidah fiqhiyah dapat digunakan sebagai dalil untuk melahirkan hukum syar’i. Teori ini hasil analisa dari perkataan beberapa ulama. Diantaranya:</p><strong>a. Ibn ‘Arafah (761 H)</strong><p>Ibn Arafah al-Maliki berkata bahwasanya</p>"
+      },
+      {
+        "page": 17,
+        "text": "<p dir='cntn'>diperbolehkan untuk menisbatkan suatu pendapat kepada madzhab maliki hanya berlandaskan kaidah fiqhiyah.</p><p>Hal itu menunjukan bahwa Ibn Arafah berpendapat bolehnya menggali hokum berlandaskan suatu kaidah fiqhiyah. Karena jika diperbolehkan menisbatkan suatu pendapat yang dibangun atas dasar kaidah fiqhiyah kepada madzhab maliki, maka tentu diperbolehkan mengambil hokum dari kaidah tersebut.</p><strong>b. An-Nawawi (676 H)</strong><p>Imam Nawawi berkata dalam kitabnya al-Majmu’ :</p>"
+      },
+      {
+        "page": 18,
+        "text": "<q>Dalam madzhab hambali tidak dibedakan antara memakan daging unta matang, mentah ataupun yang dibakar. Ketiga jenis itu sama-sama membatalkan wudhu. Hal itu sama dengan pendapat kami dalam madzhab syafii sebagai qoul qodim. Bahkan dalam salah satu riwayat dari imam ahmad, mewajibkan berwudhu disebabkan meminum susu unta. Namun tidak ada satu ulama pun yang sependapat denganya sepanjang pengetahuan kami. Adapun madzhab kami dan madzhab seluruh ulama lainya adalah tidak mengharuskan wudhu dikarenakan meminum susu unta. Pendapat Imam Ahmad tersebut berdasarkan sebuah hadist yang diriwayatkan dari sahabat Usaid bin Hudhoir: “Bahwasanya nabi SAW bersabda: tidak ada wudhu yang disebabkan susu kambing dan berwudhulah disebabkan susu unta”. Hadist riwayat Ibn Majah dengan sanad dhaif. Maka tidak dapat dijadikan hujjah karena kedhaifanya. Sedangkan dalil kami adalah bahwa pada dasarnya susu unta tidak membatalkan wudhu. Dan tidak ada dalil yang menggugurkan hukum asal tersebut.</q><p>Dalam pernyataan ini, Imam an-Nawawi lebih (األصل بقاء ما كان على ما كان) kaidah mendahulukan dibandingkan dengan sebuah hadist dhoif. Dari sini</p>"
+      },
+      {
+        "page": 19,
+        "text": "<p dir='cntn'>bisa kita lihat bahwa Imam an-Nawawi menggunakan sebuah kaidah fiqhiyah sebagai sebuah dalil.</p><strong>c. Munaqosyah Adillah</strong><ul><li>Analisa ini tampaknya berlandaskan kepada sebuah pandangan yang menyebutkan bahwa qawaid fiqhiyyah bersifat kulliyyah dan bukan aghlabiyyah. Adapun yang menyebutkan bahwa ia bersifat aghlabiyyah dan didalamnya terdapat banyak pengecualian maka ini adalah suatu pandangan yang tertolak. Alasannya adalah karena setiap kaidah yang dibentuk telah melalaui berbagai syarat yang harus dipastikan bahwa ia memenuhinya dan juga terhindar dari pengahalang. Adapun yang mengatakan bahwa qawaid fiqhiyyah memiliki pengecualian, sebenarnya bukan merupakan pengecualian namun karena adanya syarat yang tidak terpenuhi atau adanya mani sehingga ia sejak awal tidak dapat dikatakan sebagai furu qawaid fiqhiyyah.</li><li>Bagi yang mengatakan bahwa qawaid fiqhiyyah hanya berlandaskan kepada istiqra ghair taam ini tidak mengahalangi sifat universal yang dimiliki oleh sebuah kaidah fiqih. Ketentuan ini dapat diketahui dari pernyataan banyaknya ulama yang membahasa masalah istiqra.</li><li>Bagi yang mengatakan bahwa qawaid fiqhiyyah adalah buah/hasil dari himpunan furu sehingga mengatakan bahwa sebuah hasil tidak dapat dijadikan sebagai dalil maka ini adalah pendapat yang tidak benar. Karena masalah furu yang akan</li></ul>"
+      },
+      {
+        "page": 20,
+        "text": "<p dir='cntn'>dihasilkan dari sebuah kaidah fiqih adalah masalah yang baru terjadi. Bukan merupakan masalah furu yang melahirkan kaidah tersebut.</p><strong>3. Dapat Menjadi Dalil Jika Diperkuat Nash</strong><p>Memang pada dasarnya kaidah fiqhiyah bukanlah dalil yang dapat digunakan untuk menyimpulkan hukum. Namun, jika kaidah tersebut diperkuat oleh nash, baik dari al-Quran, al-Sunnah, atau ijma’ maka menurut sebagian ulama diperbolehkan. Salah satu yang memperbolehkan adalah Muhammad al-Shidqi al-Burnu ketika ia menjelaskan tentang kaidahkaidah yang diperkuat dengan nash. Ia berkata:</p><p dir='rtl'>فيستدل عل األحكام بهذه القاعدة</p><q>Hukum-hukum syariat dapat disimpulkan dari kaidah-kaidah ini (kaidah yang diperkuat nash).</q><p>Salah satu contohnya adalah kaidah:</p><p dir='rtl'>األمور بمقاصدها</p><q>Segala sesuatu tergantung niatnya.</q><p>Kaidah ini diperkuat dengan banyak nash. Salah satunya adalah hadist nabi tentang niat. Yang berbunyi:</p>"
+      },
+      {
+        "page": 21,
+        "text": "<p dir='rtl'>إمنا الأ عمال ابلنيات</p><q>Sesungguhnya perbuatan itu tergantung niatnya.</q><p>Bisa dikatakan jika seorang mujtahid berdalil dengan kaidah بمقاصدها األمور maka sebenarnya ia sedang berdalil dengan dalil-dalil yang mendukungnya. Bukan sekedar berdalil pada sebuah kaidah saja.</p><p>Maka kaidah fiqhiyah bisa dijadikan dalil jika didukung dengan nash syar’i. dan berdalil dengan kaidah fiqhiyah hanya sebuah dalil suri. Dalil yang asli adalah nash yang ada di balik kaidah tersebut.</p><strong>D. Kesepakatan Ulama</strong><p>Pembahasan hujjiyyah qawaid fiqhiyyah ini tampaknya masih menjadi bahan perbincangan bagi kebanyakan para ulama. Ini dapat kita lihat dari sulitnya menetukan pendapat yang rajih secara pasti. Akan tetapi ada empat hal yang dapat dijadikan sebagai lingkup kesepakatan diantara semua ulama, diantaranya:</p><ul><li>Jika sebuah kaidah bersandarkan kepada nash syar’ii baik dari alquran, sunnah atau ijma, maka ia dipastikan dapat digunakan sebagai hujjah. Akan tetapi kapasitasnya bukan sebagai kaidah fiqih, melainkan karena ia berasal dari dalil naqli tersebut.</li><li>Kaidah fiqih dapat ditetapkan sebagai hujjah yang dikedepankan berbarengan dengan nash syar’i dalam menentukan sebuah hukum jika</li></ul>"
+      },
+      {
+        "page": 22,
+        "text": "<p dir='cntn'>diperuntukan untuk peristiwa-peristiwa yang baru terjadi. Ini adalah sebagai bentuk qiyas kepada masalah-masalah yang telah dibakukan ketentuannya di dalam kitab-kitab hukum islam.</p><ul><li>Kaidah fiqih dapat ditetapkan sebagai hujjah jika tidak ditemukan dalil naqli untuk kejadian tersebut. Akan tetapi tentu saja dengan diberlakukan syarat, yaitu orang yang melakukan penyimpulan hukum haruslah seorang ahli fiqih yang mumpuni, mengetahui apa saja yang memang bisa berada dalam naungan sebuah kaidah fiqih dan apa yang malah seharusnya menjadi pengecualian dari kaidah. Itupun jika kaidah yang sedang dibahas memang merupakan kaidah yang memilliki peluang pengecualian didalamnya.</li><li>Qawaid fiqih bisa menjadi dalil bagi para pencari ilmu yang baru belajar, dan hanya diawal-awal saja. Ini bertujuan agar ia bisa lebih dulu menanamkan/membiasakan diri dengan berbagai hukum yang ada didalam benaknya.</li></ul>"
+      },
+      {
+        "page": 23,
+        "text": "<strong>Kesimpulan</strong><ul><li>Dalil secara istilah adalah segala sesuatu yang dengan analisa yang benar, dapat dijadikan petunjuk untuk mengetahui sebuah informasi yang diinginkan, meskipun hanya sampai derajat dzanni</li><li>Secara umum, kaidah fiqhiyah bukan merupakan dalil syar’i. Namun beberapa ulama seakan menggunakanya sebagai dalil, sehingga muncul pertanyaan boleh tidaknya kaidah fiqhiyah dijadikan dalil.</li><li>Terdapat dua teori terkait boleh tidaknya kaidah fiqhiyah dijadikan dalil. Teori pertama menolak dan teori kedua membolehkan.</li><li>Terdapat beberapa poin kesepakatan ulama terkait hujjiyah kaidah fiqhiyah sebagaimana disebutkan di atas.</li></ul>"
+      }
+    ]
   }
 ]

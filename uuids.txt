@@ -20,10 +20,10 @@ c70 = Sejarah Puasa
 qP1 = Perihal Penting Haji yang Sering Ditanyakan
 q4Z = Adab Murid Terhadap Guru
 r7Q = Kedudukan Qadhi Dalam Hukum Islam
-3j2
-YhJ
-j9K
-vwU
+3j2 = Suara Wanita Auratkah?
+YhJ = Apakah Darah Keguguran Termasuk Nifas?
+j9K = Apakah Zina Menyebabkan Kemahraman?
+vwU = Kaidah Fiqhiyah Sebagai Dalil
 j2m
 lfc
 zXn
