@@ -8,6 +8,7 @@
       "price": 0,
       "pages": 38,
       "category": "Fiqih Muamalat",
+      "source": "https://www.rumahfiqih.com/pdf/z.php?id=325",
       "desc": "Di hari-hari penghujung bulan Dzulhijjah (bulan terakhir dalam kalender Hijriyyah), umat Islam diingatkan dengan peristiwa besar yang terjadi dalam kehidupan Nabi Muhammad - shallallahu 'alaihi wasallam -, yaitu peristiwa hijrahnya beliau dari Mekkah menuju Madinah."
     },
     "tableOfContents": [
@@ -189,6 +190,7 @@
       "pages": 32,
       "price": 0,
       "category": "Fiqih Muamalat",
+      "source": "https://www.rumahfiqih.com/pdf/z.php?id=84",
       "desc": "Dewasa ini, Syariat aqiqah sudah jamak dilakukan oleh masyarakat muslim Indonesia. Bahkan tak jarang ketika menunggu masa-masa kelahiran, yang sering kali terbayang dalam benak para calon orang tua adalah anak dan ibu selamat kemudian bisa meng-aqiqahi anaknya yang akan lahir nanti. Ini fenomena baik. Yang tentu tidak lepas dari semangat masyarakat Muslim dalam menjalankan beberapa sunnah dari beragam sunnah Rasulullah sallahu a’aihi wa sallam."
     },
     "tableOfContents": [
@@ -386,6 +388,7 @@
       "pages": 38,
       "price": 0,
       "category": "Fiqih Muamalat",
+      "source": "https://www.rumahfiqih.com/pdf/z.php?id=116",
       "desc": "Perkara sembelihan juga tidak semudah yang kita bayangkan, ada banyak perkara yang harus diketahui agar kehalalan dalam hal sembelihan ini didapat, dalam beberapa kesempatan penulis sempat diatanya: Halalkah sembelihan orang yang sedang junub? Karena dalam banyak hal memang harus diakui mereka yang sedang junub itu berarti mereka sedang dalam keadaan berhadats besar, dan umumnya orang yang sedang berhadats besar banyak terhalang dari melakukan berbagai aktiviata ibadah, apakah mereka juga terhalang untuk melakukan penyembelihan? berikut ini penjelasannya."
     },
     "tableOfContents": [
@@ -579,7 +582,8 @@
       "pages": 17,
       "price": 0,
       "category": "Fiqih Muamalat",
-      "desc": ""
+      "source": "https://www.rumahfiqih.com/pdf/z.php?id=70",
+      "desc": "Masalah diatas masih dalam ruang lingkup pernikahan tentunya. Akan tetapi di zaman kita sekarang ini banyak sekali terjadi fenomena kawin lari. Entah apa yang mereka maksud dari kawin lari tersebut. Seperti yang penulis ketahui, mungkin kawin lari itu kawin/nikah tanpa restu kedua orang tua. Tapi itu bukan pengertian mutlak, bisa jadi ini hanya salah satu dari sekian banyak pengertian yang ada."
     },
     "tableOfContents": [
       {
@@ -671,6 +675,111 @@
       {
         "page": 17,
         "text": "<q>boleh dinikahkan.</q>"
+      }
+    ]
+  },
+  {
+    "id": "i5f",
+    "info": {
+      "title": "Fiqih Pinjam Meminjam (Ariyah)",
+      "author": "M. Abdul Wahab, Lc",
+      "publish": "Fri, 21 September 2018",
+      "pages": 19,
+      "price": 0,
+      "category": "Fiqih Muamalat",
+      "source": "https://www.rumahfiqih.com/pdf/z.php?id=33",
+      "desc": "‘Ariyah berasal dari kata i’arah yang berarti meminjamkan. Dalam istilah ilmu fiqih, para ulama mendefinisikan ‘ariyah dengan dua definisi yang berbeda. Ulama hanafiyyah dan malikiyyah mendefinisikan ‘ariyah sebagai berikut."
+    },
+    "tableOfContents": [
+      { "page": 5, "text": "Pengertian 'Ariyah", "head": true },
+      { "page": 7, "text": "Hukum Taklifi" },
+      { "page": 8, "text": "Syarat Barang Pinjaman" },
+      { "page": 8, "text": "Hak dan Kewajiban Peminjam" },
+      {
+        "page": 10,
+        "text": "Waktu Pengembalian Barang Pinjaman",
+        "sub": [
+          { "page": 10, "text": "Pendapat Pertama" },
+          { "page": 10, "text": "Pendapat Kedua" }
+        ]
+      },
+      {
+        "page": 11,
+        "text": "Barang Pinjaman Rusak, Apakah Peminjam Wajib Mengganti?",
+        "sub": [
+          {
+            "page": 12,
+            "text": "Hanafiyyah, Riwayat Marjuh dari Imam Ahmad & Zahiriyyah"
+          },
+          {
+            "page": 13,
+            "text": "Syafi'iyyah dan Pendapat Rajih dari Imam Ahmad"
+          },
+          { "page": 14, "text": "Malikiyyah" }
+        ]
+      },
+      {
+        "page": 15,
+        "text": "Hukum Menyewakan Barang Pinjaman Tanpa Izin Pemilik Barang",
+        "sub": [
+          { "page": 15, "text": "Pendapat Pertama" },
+          { "page": 16, "text": "Pendapat Kedua" }
+        ]
+      },
+      { "page": 17, "text": "Hukum Meminjamkan Emas" }
+    ],
+    "content": [
+      {
+        "page": 5,
+        "text": "<p>Islam sebagai agama yang syamil wa mutakammil (menyeluruh dan sempurna) mengatur segala aspek kehidupan, termasuk hal-hal yang berhubungan dengan interaksi sosial dalam kehidupan manusia antar sesama. Yang diejawantahkan oleh para ulama dalam pembahasan fiqih mumalah.</p><p>Salah satu bentuk interaksi sosial dalam kehidupan sehari-hari adalah kegiatan pinjam-meminjam. Kegiatan yang sering dilakukan dalam keseharian hampir semua orang. Di saat setiap orang tidak selalu memiliki semua barang untuk memenuhi kebutuhannya, maka salah satu jalan keluarnya adalah dengan meminjamnya dari orang lain.</p><p>Apa saja ketentuan-ketentuan syariah yang berkaitan dengan kegiatan pinjam-meminjam? Apa saja hak-hak dan kewajiban yang harus dipenuhi baik oleh peminjam maupun pemilik barang?</p><strong>A. Pengertian ‘Ariyah</strong><p>‘Ariyah berasal dari kata i’arah yang berarti meminjamkan.</p><p>Dalam istilah ilmu fiqih, para ulama mendefinisikan ‘ariyah dengan dua definisi yang berbeda. Ulama hanafiyyah1 dan malikiyyah</p>"
+      },
+      {
+        "page": 6,
+        "text": "<p dir='cntn'>mendefinisikan ‘ariyah sebagai berikut:</p><p dir='rtl'>تمليك منفعة مؤقتة بال عوض</p><q>Menyerahkan kepemilikan manfaat (suatu benda) dalam waktu tertentu tanpa imbalan.</q><p>Sedangkan ulama Syafi’iyyah, Hanbilah dan Zahiriyyah, mendefinisikan ‘ariyah sebagai berikut:</p><p dir='rtl'>إباحة االنتفاع بما يحل االنتفاع به مع يقاء عينه بال عوض</p><q>Izin menggunakan barang yang halal dimanfaatkan, di mana barang tersebut tetap dengan wujudnya tanpa disertai imbalan.</q><p>Masing-masing dari kedua definisi di atas menghasilkan konsekuensi hukum yang berbeda. Hanfiyyah dan Malikiyyah menganggap bahwa ‘ariyah adalah penyerahan kepemilikan hak guna suatu benda dalam jangka waktu tertentu. Itu artinya, peminjam barang selama jangka waktu pinjaman berhak untuk meminjamkan atau menyewakan barang pinjamannya kepada pihak lain tanpa seizin pemilik barang. sebab dia dianggap memiliki hak guna barang tersebut.</p><p>Sedangkan Syafi’iyyah, Hanabilah dan Zahiriyyah memandang bahwa ‘ariyah hanya sebatas memberi</p>"
+      },
+      {
+        "page": 7,
+        "text": "<p dir='cntn'>izin untuk menggunakan barang, bukan memiliki hak guna barang tersebut. Sehingga peminjam tidak boleh meminjamkan atau menyewakan kepada pihak lain tanpa seizin dari pemilik barang.</p><strong>B. Hukum Taklifi</strong><p>‘Ariyah atau pinjam-meminjam hukumnya bisa berubah tergantung pada kondisi yang menyertainya. Meminjamkan barang hukumnya sunnah jika peminjam (musta’ir) merasakan manfaat dari pinjaman tersebut dan tidak menimbulkan mudarat bagi pemilik barang (mu’ir). Ditambah, peminjam tidak menggunakan pinjamannya untuk tujuan maksiat atau hal-hal yang makruh.</p><p>Meminjamkan barang juga bisa menjadi wajib, jika peminjam dalam keadaan darurat sedangkan pemilik barang tidak mendapatkan kemudaratan jika meminjamkannya. Contohnya, pada saat cuaca dingin ada orang yang telanjang, atau hanya memakai pakaian seadanya sehingga merasakan kedinginan. Maka, jika ada orang yang bisa meminjamkan baju untuknya hukumnya menjadi wajib karena orang tersebut bisa saja meninggal atau terkena penyakit seandainya tidak dipinjami baju.</p><p>Menurut Hanafiyyah dan Syafi’iyyah, pinjammeminjam hukumnya bisa menjadi makruh, jika berdampak pada hal yang makruh. Seperti meminjamkan hamba sahaya untuk bekerja kepada</p>"
+      },
+      {
+        "page": 8,
+        "text": "<p dir='cntn'>seorang kafir.</p><p>‘Ariyah juga bisa menjadi haram jika berdampak pada perbuatan yang dilarang. Seperti meminjamkan senjata untuk membunuh orang, atau meminjamkan kendaraan untuk melakukan maksiat, dan lain-lain.</p><strong>C. Syarat Barang Pinjaman</strong><p>Suatu barang menjadi sah untuk dipinjamkan sebagai ‘ariyah, jika memenuhi dua syarat berikut:</p><p>Pertama, barang tersebut bisa diambil manfaatnya tanpa harus memusnahkan atau menghabiskannya. Tidak sah disebut sebagai ‘ariyah jika yang dipinjamkan adalah barang yang habis pakai seperti makanan, sabun, lilin dan sebagainya. Meminjamkan barang yang habis pakai disebut dengan qardh.</p><p>Kedua, barang yang dipinjamkan merupakan barang yang halal untuk dimanfaatkan dan tidak digunakan untuk tujuan yang diharamkan.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>"
+      },
+      {
+        "page": 9,
+        "text": ""
+      },
+      {
+        "page": 10,
+        "text": ""
+      },
+      {
+        "page": 11,
+        "text": ""
+      },
+      {
+        "page": 12,
+        "text": ""
+      },
+      {
+        "page": 13,
+        "text": ""
+      },
+      {
+        "page": 14,
+        "text": ""
+      },
+      {
+        "page": 15,
+        "text": ""
+      },
+      {
+        "page": 16,
+        "text": ""
+      },
+      {
+        "page": 17,
+        "text": ""
       }
     ]
   }
