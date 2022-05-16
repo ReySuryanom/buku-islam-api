@@ -7,6 +7,7 @@ export const FILEPATHS = [
   new URL('../books/akhlak.json', import.meta.url),
   new URL('../books/al-quran-dan-tafsir.json', import.meta.url),
   new URL('../books/aqidah.json', import.meta.url),
+  new URL('../books/fatwa.json', import.meta.url),
   new URL('../books/fiqih-ibadah.json', import.meta.url),
   new URL('../books/fiqih-jinayat.json', import.meta.url),
   new URL('../books/fiqih-muamalat.json', import.meta.url),
@@ -29,6 +30,7 @@ export const listOfCategory = [
   { category: 'akhlak' },
   { category: 'al-quran-dan-tafsir' },
   { category: 'aqidah' },
+  { category: 'fatwa' },
   {
     category: 'fiqih',
     sub: [
