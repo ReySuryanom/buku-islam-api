@@ -1,12 +1,12 @@
 import fs from 'fs';
 
-export const splitArray = (array) => {
-  const newsPerSections = 5;
-  const numberOfSections = Math.ceil(array.length / newsPerSections);
+export const pagination = (array) => {
+  const maxPerPage = 5;
+  const numberOfPage = Math.ceil(array.length / maxPerPage);
 
-  const newArray = Array.from({ length: numberOfSections }, (_, index) => {
-    const start = index * newsPerSections;
-    return array.slice(start, start + newsPerSections);
+  const newArray = Array.from({ length: numberOfPage }, (_, index) => {
+    const start = index * maxPerPage;
+    return array.slice(start, start + maxPerPage);
   });
 
   return newArray;

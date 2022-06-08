@@ -14,7 +14,7 @@ import {
   getCategoryFileNames,
   highlightedWords,
   navigatePages,
-  splitArray,
+  pagination,
 } from '../utils/helper.js';
 
 export const getRootRoutes = (_, res) => {
@@ -43,7 +43,6 @@ export const getSpecificContent = async (req, res) => {
         new URL(`../books/${category}.json`, import.meta.url),
         'utf8'
       );
-
       const categoriesBook = JSON.parse(data).filter(
         ({ id }) => bookParams.indexOf(id) !== -1
       );
@@ -55,13 +54,11 @@ export const getSpecificContent = async (req, res) => {
               exactMatchParams,
               query
             );
-
             if (regex.test(text)) {
               const highlightWord = formattingWords(text, query, regex);
               if (highlightWord === 'object') {
                 res.end({ status: 'error' });
               }
-
               return {
                 no: startNumber++,
                 id: item.id,
@@ -99,7 +96,7 @@ export const getSpecificContent = async (req, res) => {
       return res.json({
         links: { base, next, current, prev },
         searchResults: relevantQueries.length,
-        relevantQueries: splitArray(relevantQueries)[pageParams - 1],
+        relevantQueries: pagination(relevantQueries)[pageParams - 1],
       });
     }
   } catch (error) {
