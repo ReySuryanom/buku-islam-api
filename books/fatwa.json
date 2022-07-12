@@ -2,22 +2,71 @@
   {
     "id": "1xj",
     "info": {
-      "title": "Penundaan Pendaftaran Haji Bagi Yang Sudah Mampu",
-      "author": "Ahmad Sarwat, Lc., MA",
-      "publish": "Wed, 17 February 2021",
-      "pages": 6,
+      "title": "Fatwa Tentang Pemakaian Masker Bagi Orang Yang Sedang Ihram",
+      "author": "Fatwa MUI",
+      "publish": "Mon, 15 Maret 2021",
+      "pages": 11,
       "price": 0,
-      "category": "fatwa",
-      "desc": ""
+      "category": "Fatwa",
+      "source": "https://mui.or.id/produk/fatwa/29828/fatwa-tentang-pemakaian-masker-bagi-orang-yang-sedang-ihram/",
+      "desc": "Majelis Ulama Indonesia (MUI), dalam Musyawarah Nasional X pada tanggal 10-12 Rabi’ul Akhir 1442 H/25-27 November 2020"
     },
     "tableOfContents": [
-      { "page": 6, "text": "Pendahuluan", "head": true },
-      { "page": 7, "text": "Pendahuluan" }
+      { "page": 1, "text": "MENIMBANG", "head": true },
+      { "page": 1, "text": "MENGINGAT", "head": true },
+      { "page": 5, "text": "MEMPERHATIKAN", "head": true },
+      {
+        "page": 9,
+        "text": "MENETAPKAN",
+        "sub": [
+          { "page": 9, "text": "Pertama" },
+          { "page": 10, "text": "Kedua" },
+          { "page": 10, "text": "Ketiga" },
+          { "page": 10, "text": "Keempat" }
+        ],
+        "head": true
+      }
     ],
     "content": [
       {
+        "page": 1,
+        "text": "<strong>FATWA</strong><strong>MAJELIS ULAMA INDONESIA</strong><p>Nomor: 003/MUNAS X/ MUI/XI/2020</p><p>Tentang</p><strong>PEMAKAIAN MASKER BAGI ORANG YANG SEDANG IHRAM</strong><p>Majelis Ulama Indonesia (MUI), dalam Musyawarah Nasional X pada tanggal 10-12 Rabi’ul Akhir 1442 H/25-27 November 2020, setelah :</p><ul><li>bahwa para ulama berbeda pendapat tentang hukum memakai masker bagi orang yang berihram haji atau umrah;</li><li>bahwa tingkat kerumunan yang padat dan kondisi kesehatan jamaah yang berbeda-beda pada saat ihram haji atau umrah, dapat menyebabkan penularan penyakit dan gangguan kesehatan;</li><li>bahwa memakai masker pada saat ihram haji atau umrah sangat dibutuhkan untuk menghindari gangguan kesehatan jamaah haji atau umrah;</li><li>bahwa untuk itu Majelis Ulama Indonesia memandang perlu menetapkan fatwa tentang pemakaian masker bagi orang yang sedang ihram, untuk dijadikan sebagai pedoman;</li></ul><p>1. Firman Allah SWT tentang haji antara lain:</p><p dir='rtl'>فِيْهِ اٰيٰتٌۢ بَيِّنٰتٌ مَّقَامُ اِبْرٰهِيْمَ ەۚ وَمَنْ دَخَلَهٗ كَانَ اٰمِنًا ۗ وَلِلّٰهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ اِلَيْهِ سَبِيْلًا ۗ وَمَنْ كَفَرَ فَاِنَّ اللّٰهَ غَنِيٌّ عَنِ الْعٰلَمِيْنَ</p><q>Mengerjakan haji adalah kewajiban manusia terhadap Allah, yaitu (bagi) orang yang sanggup mengadakan perjalanan ke Baitullah. Barangsiapa mengingkari (kewajiban haji), maka sesungguhnya Allah Maha Kaya (tidak memerlukan sesuatu) dari semesta alam. (QS. Ali Imran [3]: 97)</q>"
+      },
+      {
+        "page": 2,
+        "text": "<p dir='rtl'>اِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَاۤىِٕرِ اللّٰهِ ۚ</p><q>Sesungguhnya Shafa dan Marwah adalah sebagian dari syi’arsyi’ar Allah… (QS. al-Baqarah [2]: 158)</q><p dir='rtl'>وَاَتِمُّوا الْحَجَّ وَالْعُمْرَةَ لِلّٰهِ ۗ فَاِنْ اُحْصِرْتُمْ فَمَا اسْتَيْسَرَ مِنَ الْهَدْيِۚ وَلَا تَحْلِقُوْا رُءُوْسَكُمْ حَتّٰى يَبْلُغَ الْهَدْيُ مَحِلَّهٗ ۗ فَمَنْ كَانَ مِنْكُمْ مَّرِيْضًا اَوْ بِهٖٓ اَذًى مِّنْ رَّأْسِهٖ فَفِدْيَةٌ مِّنْ صِيَامٍ اَوْ صَدَقَةٍ اَوْ نُسُكٍ ۚ</p><q>Dan sempurnakanlah ibadah haji dan umrah karena Allah; jika kamu terkepung (terhalang oleh musuh atau karena sakit), maka (sembelihlah) korban yang mudah didapat, dan jangan kamu mencukur kepalamu, sebelum korban sampai di tempat penyembelihannya. Jika ada di antara kamu yang sakit atau ada gangguan di kepalanya (lalu ia bercukur), maka wajib atasnya berfidyah, yaitu: berpuasa atau bersedekah atau berkorban. (QS. Al-Baqarah [2]:196)</q><p dir='rtl'>اَلْحَجُّ اَشْهُرٌ مَّعْلُوْمٰتٌ ۚ فَمَنْ فَرَضَ فِيْهِنَّ الْحَجَّ فَلَا رَفَثَ وَلَا فُسُوْقَ وَلَا جِدَالَ فِى الْحَجِّ ۗ</p><q>(Musim) haji adalah beberapa bulan yang dimaklumi, barangsiapa yang menetapkan niatnya dalam bulan itu akan mengerjakan haji, maka tidak boleh rafats, berbuat fasik dan berbantah-bantahan di dalam masa mengerjakan haji… (QS al-Baqarah [2]: 197)</q><p>2. Hadis Rasulullah Saw., antara lain:</p><p>a. Hadis tentang kewajiban haji:</p><q>Dari Ibnu Umar ra. berkata: Rasulullah Saw. bersabda: “Islam dibangun atas lima dasar; bersaksi bahwa tiada tuhan selain Allah dan bersaksi bahwa Muhammad adalah utusan Allah, mendirikan salat, menunaikan zakat, puasa di bulan Ramadan dan berhaji ke Baitullah bagi orang yang mampu melakukan perjalanan ke sana.” (HR. al-Bukhari dan Muslim)</q>"
+      },
+      {
+        "page": 3,
+        "text": "<p>b. Hadis-hadis tentang larangan atas orang yang berihram untuk menutup wajahnya:</p><q>Dari Abdullah Ibnu Umar ra. ada seseorang bertanya kepada Rasul Saw.: “Apa saja yang boleh dipakai oleh orang yang berihram?”. Rasul Saw. menjawab: “janganlah kamu memakai baju, imamah (penutup kepala), celana, burnus (baju yang ada penutup kepala), atau sepatu. kecuali orang yang tidak memiliki sandal, dia boleh memakai sepatu, dan hendaknya dia potong hingga di bawah mata kaki (terbuka mata kakinya). Dan tidak boleh memakai kain yang diberi minyak wangi atau pewarna (wantex). (HR. al-Bukhari dan Muslim)</q><p>Dalam riwayat lain di shahih Bukhari, terdapat tambahan:</p><q>Dan janganlah perempuan yang sedang ihram memakai cadar dan memakai sarung tangan. (HR. al-Bukhari)</q><q>Dari Ibnu Abbas ra. sesungguhnya ada seseorang yang berihram jatuh dari tunggangannya lalu mati, Rasul Saw. bersabda: “Mandikan dengan air dan daun bidara, kafani dengan dua kain ihramnya, jangan kalian tutupi kepalanya, tidak pula wajahnya, karena dia akan dibangkitkan pada hari kiamat sambil bertalbiyah”. (HR. Muslim)</q>"
+      },
+      {
+        "page": 4,
+        "text": "<q>Dari Ibnu Umar ra. beliau berkata: “Orang yang berihram tidak boleh menutup wajahnya”. (HR. Malik dan al-Baihaki)</q><p>c. Atsar shahabat yang berihram dengan menutup wajah:</p><q>Sesungguhnya Utsman bin Affan ra., Zaid bin Tsabit ra, dan Marwan bin Hakam ra. menutup wajah mereka saat ihram. (HR. Imam Sayfi’i)</q><q>Dari al-Qasim bin Muhammad berkata; telah mengabarkan kepadaku al-Furafishah bin 'Umair al-Hanafi bahwasanya ia pernah melihat Utsman bin ‘Affan di Araj menutup wajahnya saat ihram. (HR. Imam Malik)</q><p>3. Kaidah Fikih dan Ushul Fikih:</p><q>“Dalam keadaan darurat diperbolehkan melakukan yang dilarang”</q><q>Kebutuhan (al-hajah) terkadang mempunyai kedudukan yang sama dengan darurat baik yang bersifat umum maupun yang bersifat khusus.</q><q>Menggunakan dua dalil lebih didahulukan daripada meninggalkan salah satunya, selama masih memungkinkan.</q>"
+      },
+      {
+        "page": 5,
+        "text": "<p>1. Pendapat Imam al-Dasuki dalam kitab Hasyiah al-Dasuki ‘ala al-Syarh al-Kabir (2/55) tentang haramnya laki-laki yang ihram untuk menutup wajah:</p><q>Haram bagi laki-laki (yang berihram) menutup semua atau sebagian wajah, demikian pula kepalanya, dengan sesuatu yang dianggap sebagai penutup, seperti tanah/lumpur, apalagi dengan alat yang biasa dipakai menutup kepala, seperti peci. Wajah dan kepala berbeda dengan anggota badan yang lain, di mana dua bagian ini haram untuk ditutupi dengan semua benda yang bisa dianggap sebagai penutup.</q><p>2. Penjelasan al-Marghinani al-Hanafi dalam kitab al-Hidayah fi Syarh Bidayati al-Mubtadi (1/136) tentang perbedaan ulama tentang laki-laki yang ihram untuk menutup wajah:</p><p>Al-Marghinani berkata “Tidak boleh menutupi wajah dan kepalanya”. Imam Syafii berpendapat bahwa laki-laki boleh menutup wajah berdasarkan hadis “Ihramnya laki-laki pada kepalanya dan ihramnya perempuan pada wajahnya”. Sedangkan hanafiah mendasarkan pendapatnya pada hadis “Janganlah kalian tutupi wajahnya dan kepalanya, karena dia akan dibangkitkan pada hari kiamat dengan bertalbiyah”. Sababul wurud hadis ini adalah terkait orang ihram yang meninggal. Alasan lain, karena wanita tidak boleh menutupi wajahnya, padahal membuka wajah wanita menjadi sumber fitnah, maka menutup wajah bagi laki-laki lebih berat untuk dilarang.</p>"
+      },
+      {
         "page": 6,
-        "text": ""
+        "text": "<p>3. Pendapat Imam Al-Nawawi dalam Kitab al-Majmu’ (7/268) bolehnya laki-laki yang ihram menutup wajah dan tidak ada kewajiban fidyah:</p><q>Pendapat madzhab kami (Syafiiyah) adalah dibolehkan bagi laki-laki yang berihram untuk menutup wajahnya dan tidak ada kewajiban fidyah. Ini adalah pendapat mayoritas ulama… ulama madzhab kami berdalil dengan riwayat dari Sufyan bin Uyainah dari Abdurrahman bin Qasim dari ayahnya, bahwa Utsman bin Affan, Zaid bin Tsabit, dan Marwan bin Hakam, mereka menutup wajahnya ketika mereka sedang ihram. Dan riwayat ini sanadnya shahih.</q><p>4. Pendapat al-Buhuti al-Hambali dalam kitab Kasysyafu al-Qina' ‘an Matn al-Iqna' (6/452) tentang bolehnya menutup wajah bagi laki-laki yang berihram:</p><q>Jika seorang laki-laki yang berihram menutup wajahnya maka hukumnya boleh, sebagaimana riwayat dari Utsman, Zaid bi Tsabit, Ibnu Abbas, dan Ibnu Zubair, serta imam lainnya.</q><p>5. Pendapat Imam al-‘Iraqy dalam kitab Tharhu al-Tasrib fi Syarh al-Taqrib (5/299) tentang larangan perempuan yang sedang ihram untuk menutup wajah:</p><q>Makna teks dari hadis “Janganlah wanita memakai cadar” itu khusus bagi wanita, sementara laki-laki tidak seperti itu. Dan ini sesuai degan makna bagian awal hadis, tentang hal-hal yang harus ditinggalkan oleh orang yang ihram. Di sana Nabi Saw. tidak menyebutkan penutup wajah”.</q>"
+      },
+      {
+        "page": 7,
+        "text": "<p>6. Pendapat Ibnu Qudamah dalam kitab al-Mughni (3/301) tentang bolehnya perempuan yang sedang ihram menutup wajah karena hajah:</p><q>Jika perempuan yang sedang berihram dan ada laki-laki lain mendekat, maka boleh baginya untuk menutupi wajahnya dengan menurunkan kain dari atas kepalanya, sebagaimana diriwayatkan dari Utsman dan ‘Aisyah. Pendapat ini juga disampaikan oleh ‘Atha, Malik, al-Tsauri, al-Syafii, Ishaq, dan Muhammad bin al-Hasan.</q><p>7. Pendapat Imam al-Rafi’I dalam kitab Fathu al-Azizi bi Syarh alWajiz (7/440) tentang bolehnya orang yang berihram untuk menutup semua anggota badan kecuali kepala dengan syarat tidak berjahit:</p><q>Anggota badan selain kepala boleh bagi orang yang berihram untuk ditutup, tetapi tidak boleh memakai baju dan celana (berjahit), celana dalam, sepatu. Sebagaimana dalam riwayat Ibnu Umar ketika Rasulullah saw menjawab pertanyaan tentang apa saja yang boleh dipakai oleh orang yang berihram “orang yang berihram tidak boleh memakai baju, celana, penutup kepala, burnus (baju yang ada penutup kepala), sepatu, kecuali orang yang tidak memiliki sandal, dia boleh memakai sepatu, dan hendaknya dia potong hingga di bawah mata kaki (terbuka mata kakinya)”. Andaikan orang yang berihram memakai salah satu dari pakaian di atas dalam keadaan biasa (tidak terpaksa) maka wajib membayar fidyah, baik memakainya dalam waktu yang lama atau sebentar.</q>"
+      },
+      {
+        "page": 8,
+        "text": "<p>8. Pendapat Imam Al-Nawawi dalam Kitab Al-Majmu’ (7/261) bahwa perempuan berihram adalah dengan membuka wajah:</p><q>Bagi perempuan yang berihram maka wajahnya harus dibuka sebagaimana laki-laki tidak boleh menutup kepalanya. Dan boleh baginya menutup kepala dan seluruh badannya dengan bahan yang berjahit, seperti baju, sepatu (khuf), dan celana. Dan boleh menutup sedikit bagian mukanya yang berbatasan dengan kepala, karena menutup kepalanya adalah wajib.</q><p>9. Pendapat al-Habib Muhammad bin Muhammad bin Umar alSyatiri dalam kitab Syarh al-Yaqut al-Nafis, halaman 340:</p><q>Diperbolehkan bagi wanita untuk memakai kacamata. Imam Syafi’i menekankan hal tersebut dan mewajibkan membayar fidyah pada perempuan yang menutup wajahnya karena khawatir adanya fitnah. Namun pendapat Imam Ahmad (pendiri madzhab Hanbali) mengarahkan bahwa tidak ada keharusan membayar fidyah</q><p>10. Pendapat-pendapat ulama tentang maksud yang berjahit (almakhith), antara lain:</p><p>a. Pendapat Imam Taqiyuddin al-Syafii dalam kitab Kifayatu al-Akhyar (221):</p>"
+      },
+      {
+        "page": 9,
+        "text": "<q>Jika laki-laki sedang ihram maka haram baginya beberapa hal; pertama, haram baginya memakai sesuatu yang dianggap pakaian yang menutupi seluruh badan dan kepalanya, baik yang berjahit seperti baju dan celana atau yang tidak berjahit seperti surban dan sarung, sebagaimana hadis (Apa saja yang boleh dipakai oleh orang yang berihram?”. Rasul Saw. menjawab: “janganlah kamu memakai baju …)</q><p>b. Pendapat al-Buhuti al-Hambali dalam kitab Kasysyafu alQina' ‘an Matn al-Iqna' (2/407):</p><q>Yang berjahit adalah setiap yang berjahit yang menutupi badan dan kepalanya, seperti baju, celana, dan burnus (baju yang ada penutup kepala).</q><p>c. Pendapat Ibnu Qudamah dalam kitab al-Mughni (3/302):</p><q>Sesungguhnya yang dilarang untuk dipakai oleh perempuan yang sedang ihram adalah seperti jilbab, cadar, dan lainnya yang dianggap dapat menutup wajah</q><p>11. Pendapat, saran, dan masukan yang berkembang dalam sidang Komisi Bidang Fatwa pada Musyawarah Nasional MUI X pada tanggal 26 November 2020.</p><p>Dengan bertawakkal kepada Allah SWT</p><strong>MEMUTUSKAN</strong><strong>FATWA TENTANG PEMAKAIAN MASKER BAGI ORANG YANG SEDANG IHRAM</strong><strong>Ketentuan Umum</strong><p>Dalam fatwa ini yang dimaksud dengan:</p><ul><li>Orang yang berihram adalah orang yang melaksanakan ihram haji atau umrah yang terikat dengan berbagai ketentuannya.</li><li>Masker adalah alat kesehatan yang digunakan untuk menutup area mulut dan hidung.</li></ul>"
+      },
+      {
+        "page": 10,
+        "text": "<strong>Ketentuan Hukum</strong><p>1. Memakai masker bagi perempuan yang sedang ihram haji atau umrah hukumnya haram, karena termasuk pelanggaran terhadap larangan ihram (mahdzurat al-ihram), sedangkan memakai masker bagi laki-laki yang berihram haji atau umrah hukumnya boleh (mubah).</p><p>2. Dalam keadaan darurat atau kebutuhan mendesak (al-hajah al-syar’iyah), memakai masker bagi perempuan yang sedang ihram haji atau umrah hukumnya boleh (mubah).</p><p>3. Dalam hal seorang perempuan yang memakai masker pada kondisi sebagimana pada angka 2, terdapat perbedaan pendapat;</p><ul><li>wajib membayar fidyah</li><li>tidak wajib membayar fidyah.</li></ul><p>4. Keadaan darurat atau kebutuhan mendesak (al-hajah alsyar’iyah) sebagaimana dimaksud pada angka 2 antara lain:</p><ul><li>adanya penularan penyakit yang berbahaya;</li><li>adanya cuaca ekstrim/buruk;</li><li>adanya ancaman kesehatan yang apabila tidak memakai masker dapat memperburuk kondisi kesehatan.</li></ul><strong>Rekomendasi</strong><ul><li>Agar pemerintah dan semua pihak yang terkait dengan pelaksanaan ibadah haji dan umrah untuk lebih memperhatikan dan menjaga kesehatan jamaah.</li><li>Jamaah yang akan menggunakan masker hendaknya memilih masker yang suci dan sesuai standar kesehatan.</li></ul><strong>Ketentuan Penutup</strong><ul><li>Fatwa ini berlaku pada tanggal ditetapkan, dengan ketentuan jika di kemudian hari ternyata dibutuhkan perbaikan, akan diperbaiki dan disempurnakan sebagaimana mestinya.</li><li>Agar setiap muslim dan pihak-pihak yang memerlukan dapat mengetahuinya, menghimbau semua pihak untuk menyebarluaskan fatwa ini.</li></ul>"
       }
     ]
   }
