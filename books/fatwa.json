@@ -2,7 +2,7 @@
   {
     "id": "1xj",
     "info": {
-      "title": "Fatwa Tentang Pemakaian Masker Bagi Orang Yang Sedang Ihram",
+      "title": "Pemakaian Masker Bagi Orang Yang Sedang Ihram",
       "author": "Fatwa MUI",
       "publish": "Mon, 15 Maret 2021",
       "pages": 11,
@@ -73,7 +73,7 @@
   {
     "id": "H3b",
     "info": {
-      "title": "Fatwa Nomor 24 Tahun 2021 tentang Panduan Penyelenggaraan Ibadah di Bulan Ramadhan dan Syawal 1442 H",
+      "title": "Panduan Penyelenggaraan Ibadah di Bulan Ramadhan dan Syawal 1442 H",
       "author": "Fatwa MUI",
       "publish": "Mon, 12 April 2021",
       "pages": 15,
@@ -85,15 +85,16 @@
     "tableOfContents": [
       { "page": 1, "text": "Menimbang", "head": true },
       { "page": 1, "text": "Mengingat", "head": true },
-      { "page": 5, "text": "Memperhatikan", "head": true },
+      { "page": 8, "text": "Memperhatikan", "head": true },
       {
-        "page": 9,
+        "page": 11,
         "text": "Menetapkan",
         "sub": [
-          { "page": 9, "text": "Pertama" },
-          { "page": 10, "text": "Kedua" },
-          { "page": 10, "text": "Ketiga" },
-          { "page": 10, "text": "Keempat" }
+          { "page": 11, "text": "Pertama" },
+          { "page": 12, "text": "Kedua" },
+          { "page": 13, "text": "Ketiga" },
+          { "page": 13, "text": "Keempat" },
+          { "page": 14, "text": "Kelima" }
         ],
         "head": true
       }
@@ -164,7 +165,7 @@
   {
     "id": "LxF",
     "info": {
-      "title": "Fatwa MUI No 02 Tahun 2021 tentang Produk Vaksin Covid-19 dari Sinovac Life Sciences, Co. Ltd China dan PT Biofarma",
+      "title": "Produk Vaksin Covid-19 dari Sinovac Life Sciences, Co. Ltd China dan PT Biofarma",
       "author": "Fatwa MUI",
       "publish": "Wed, 20 January 2021",
       "pages": 8,
@@ -176,14 +177,14 @@
     "tableOfContents": [
       { "page": 1, "text": "Menimbang", "head": true },
       { "page": 1, "text": "Mengingat", "head": true },
-      { "page": 5, "text": "Memperhatikan", "head": true },
+      { "page": 4, "text": "Memperhatikan", "head": true },
       {
-        "page": 9,
+        "page": 8,
         "text": "Menetapkan",
         "sub": [
-          { "page": 9, "text": "Pertama" },
-          { "page": 10, "text": "Kedua" },
-          { "page": 10, "text": "Ketiga" }
+          { "page": 8, "text": "Pertama" },
+          { "page": 8, "text": "Kedua" },
+          { "page": 8, "text": "Ketiga" }
         ],
         "head": true
       }
@@ -216,6 +217,77 @@
       {
         "page": 7,
         "text": "<ul><li>f. Terdapat penggunaan tripsin dan beberapa enzim lainnya dalam tahap produksi dan pemurnian. Enzim yang digunakan ini merupakan produk mikrobial dimana mikroba ditumbuhkan pada media yang terbuat dari bahan nabati, bahan kimia, dan bahan mineral.</li><li>g. Tidak ada penggunaan bahan turunan babi dan bahan yang berasal dari bagian tubuh manusia pada seluruh tahapan proses produksi.</li><li>h. Dalam penyiapan media untuk produksi pada skala 1.200 liter ditambahkan air murni sebanyak 1 076 liter. Selain itu, pada tahapan formulasi, juga ditambahkan air murni sebanyak 930 - 940 liter per 1 000 liter hasil formulasi vaksin.</li><li>i. Kemasan primer produk yang digunakan terbuat dari kaca dan karet.</li></ul><p>6. Pendapat peserta rapat Komisi Fatwa pada tanggal 8 Januari 2021, yang menyimpulkan bahwa:</p><ul><li>a. Vaksin Covid-19 produk Sinovac Life Sciences Co. Ltd. China dan PT. Bio Farma (Persero) dalam proses produksinya: 1) tidak memanfaatkan (intifa’) babi atau bahan yang tercemar babi dan turunannya; 2) tidak memanfaatkan bagian anggota tubuh manusia (juz’ minal insan); 3) bersentuhan dengan barang najis mutawassithah, sehingga dihukumi mutanajjis, tetapi sudah dilakukan pensucian yang telah memenuhi ketentuan pensucian secara syar’i (tathhir syar’i); dan 4) menggunakan fasilitas produksi yang suci dan hanya digunakan untuk produk vaksin covid-19.</li><li>b. Peralatan dan pensucian dalam proses produksi vaksin di PT. Bio Farma (Persero) dipandang telah memenuhi ketentuan pencucian secara syar’i (tathhir syar’i).</li></ul><p>7. Keputusan Badan Pengawas Obat dan Makanan (BPOM) RI yang telah memberikan persetujuan penggunaan pada masa darurat atau Emergency Use Authorization (EUA) dan jaminan keamanan (safety), mutu (quality), serta kemanjuran (efficacy) bagi Vaksin Covid-19 produksi Sinovac Life Sciences Co.Ltd. China dan PT. Bio Farma (Persero) yang menjadi salah satu indikator bahwa vaksin tersebut memenuhi kualifikasi thayyib.</p>"
+      }
+    ]
+  },
+  {
+    "id": "55a",
+    "info": {
+      "title": "Hukum Tes Swab untuk Deteksi Covid19 Saat Berpuasa",
+      "author": "Fatwa MUI",
+      "publish": "Sun, 11 April 2021",
+      "pages": 10,
+      "price": 0,
+      "category": "Fatwa",
+      "source": "https://web.archive.org/web/20210724113015/https://mui.or.id/produk/fatwa/29960/fatwa-no-23-tahun-2021-hukum-tes-swab-untuk-deteksi-covid19-saat-berpuasa/",
+      "desc": "Salah satu cara yang efektif untuk mendeteksi apakah seseorang positif atau negatif Covid-19 adalah dengan tes swab."
+    },
+    "tableOfContents": [
+      { "page": 1, "text": "Menimbang", "head": true },
+      { "page": 1, "text": "Mengingat", "head": true },
+      { "page": 3, "text": "Memperhatikan", "head": true },
+      {
+        "page": 9,
+        "text": "Menetapkan",
+        "sub": [
+          { "page": 9, "text": "Pertama" },
+          { "page": 9, "text": "Kedua" },
+          { "page": 9, "text": "Ketiga" },
+          { "page": 10, "text": "Keempat" }
+        ],
+        "head": true
+      }
+    ],
+    "content": [
+      {
+        "page": 1,
+        "text": "<strong>FATWA</strong><strong>MAJELIS ULAMA INDONESIA</strong><p>Nomor: 23 Tahun 2021</p><p>Tentang</p><strong>HUKUM TES SWAB UNTUK DETEKSI COVID-19 SAAT BERPUASA</strong><p>Komisi Fatwa Majelis Ulama Indonesia (MUI) setelah:</p><ul><li>bahwa salah satu cara yang efektif untuk mendeteksi apakah seseorang positif atau negatif Covid-19 adalah dengan tes swab;</li><li>bahwa hasil tes swab tersebut menjadi protokol kesehatan atas seseorang yang akan bepergian atau mengikuti suatu kegiatan yang menghadirkan banyak orang;</li><li>bahwa protokol kesehatan sebagaimana pada huruf b, selama pandemi Covid-19 belum berakhir tetap dilakukan meskipun pada bulan Ramadan dalam rangka memutus mata rantai penularan Covid-19, dan hal tersebut menimbulkan pertanyaan dari masyarakat tentang hukum tes swab saat berpuasa;</li><li>bahwa oleh karena itu, Komisi Fatwa Majelis Ulama Indonesia perlu menetapkan fatwa tentang hukum tes swab untuk deteksi Covid-19 saat berpuasa untuk dijadikan pedoman;</li></ul><p>1. Firman Allah SWT antara lain:</p><p>a. Ayat tentang wajibnya puasa Ramadhan dan keterangan rukhsah bagi yang sakit atau bepergian;</p><p dir='rtl'>يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْا كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِيْنَ مِنْ قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُوْنَۙ اَيَّامًا مَّعْدُوْدٰتٍۗ فَمَنْ كَانَ مِنْكُمْ مَّرِيْضًا اَوْ عَلٰى سَفَرٍ فَعِدَّةٌ مِّنْ اَيَّامٍ اُخَرَ ۗوَعَلَى الَّذِيْنَ يُطِيْقُوْنَهٗ فِدْيَةٌ طَعَامُ مِسْكِيْنٍۗ فَمَنْ تَطَوَّعَ خَيْرًا فَهُوَ خَيْرٌ لَّهٗ ۗوَاَنْ تَصُوْمُوْا خَيْرٌ لَّكُمْ اِنْ كُنْتُمْ تَعْلَمُوْنَ</p><q>Hai orang-orang yang beriman, diwajibkan atas kamu berpuasa sebagaimana diwajibkan atas orang-orang sebelum kamu agar kamu bertakwa. (yaitu) dalam beberapa hari yang tertentu. Maka barangsiapa diantara kamu ada yang sakit atau dalam perjalanan (lalu ia berbuka), maka (wajiblah baginya berpuasa) sebanyak hari yang ditinggalkan itu pada hari-hari yang lain. Dan wajib bagi orang-orang yang berat menjalankannya (jika mereka tidak berpuasa) membayar fidyah, (yaitu): memberi makan seorang miskin. Barangsiapa yang dengan kerelaan hati mengerjakan kebajikan, maka itulah yang lebih baik baginya. Dan berpuasa lebih baik bagimu jika kamu mengetahui. (QS. al-Baqarah [2]: 183-184)</q>"
+      },
+      {
+        "page": 2,
+        "text": "<p>b. Ayat yang menerangkan bahwa salah satu rukun puasa adalah menahan dari yang membatalkan puasa (di antaranya makan dan minum);</p><p dir='rtl'>وَكُلُوْا وَاشْرَبُوْا حَتّٰى يَتَبَيَّنَ لَكُمُ الْخَيْطُ الْاَبْيَضُ مِنَ الْخَيْطِ الْاَسْوَدِ مِنَ الْفَجْرِۖ ثُمَّ اَتِمُّوا الصِّيَامَ اِلَى الَّيْلِۚ</p><q>… dan makan minumlah hingga terang bagimu benang putih dari benang hitam, yaitu fajar. Kemudian sempurnakanlah puasa itu sampai (datang) malam, … (QS. al-Baqarah [2]: 187)</q><p>c. Ayat tentang larangan menjatuhkan diri pada kebinasaan;</p><p dir='rtl'>وَاَنْفِقُوْا فِيْ سَبِيْلِ اللّٰهِ وَلَا تُلْقُوْا بِاَيْدِيْكُمْ اِلَى التَّهْلُكَةِ ۛ وَاَحْسِنُوْا ۛ اِنَّ اللّٰهَ يُحِبُّ الْمُحْسِنِيْنَ</p><q>Dan janganlah kamu menjatuhkan dirimu sendiri ke dalam kebinasaan, dan berbuat baiklah, karena sesungguhnya Allah menyukai orang-orang yang berbuat baik. (QS. Al-Baqarah:195)</q><p>2. Hadis Nabi shallallahu ‘alaihi wa sallam antara lain:</p><p>a. Hadis yang menerangkan bahwa segala penyakit pasti ada obatnya dan hadis tentang perintah untuk berobat dengan yang halal:</p><q>Dari Abu Hurairah ra., dari Nabi shallallahu ‘alaihi wa sallam bersabda: Sesungguhnya Allah tidak menakdirkan suatu penyakit kecuali menurunkan (pula) obatnya. (HR. al-Bukhari)</q><q>Dari Abu Darda’, ia berkata: Rasulullah shallallahu ‘alaihi wa sallam bersabda: “Sesungguhnya Allah telah menurunkan penyakit dan obat bagi setiap penyakit, maka berobatlah dan janganlah berobat dengan yang haram”. (HR. Abu Dawud)</q><p>b. Hadis tentang larangan berlama-lama ber istinsyaq saat wudlu:</p><q>Dari ‘Ashim bin Laqith bin Shabrah dari ayahnya berkata: saya berkata “Wahai Rasul shallallahu ‘alaihi wa sallam, ajarkan padaku tentang wudhu”. Rasul shallallahu ‘alaihi wa sallam bersabda: “sempurnakan wudhu, bersungguh-sungguhlah ketika istinsyaq (menghirup air ke dalam hidung), kecuali ketika kamu sedang puasa”. (HR. Ibnu Majah)</q>"
+      },
+      {
+        "page": 3,
+        "text": "<p>c. Hadis bahwa menggunakan celak tidak membatalkan puasa:</p><q>Sesungguhnya Nabi Muhammad shallallahu ‘alaihi wa sallam menggunakan celak itsmid (batu antimonium dengan warna permukaan seperti logam) ketika sedang berpuasa. (HR. alBaihaqi)</q><p>3. Kaidah Fikih antara lain:</p><q>Bahaya harus dihilangkan</q><q>Bahaya tidak boleh dihilangkan dengan kemudharatan</q><q>Bahaya dicegah dengan sedapat mungkin</q><q>Yang membatalkan puasa adalah karena sesuatu yang masuk bukan karena sesuatu yang keluar, sedangkan yang membatalkan wudlu adalah karena sesuatu yang keluar dari tubuh bukan karena sesuatu yang masuk</q><p>1. Pendapat al-Qasthalani dalam kitab Irsyadu al-Sari (7/96) yang menjelaskan bahwa berobat karena sakit dan menjaga diri dari wabah adalah wajib:</p><q>(Dan tidak mengapa kamu meletakkan senjata-senjatamu, jika kamu mendapat suatu kesusahan karena hujan atau karena kamu sakit) (al-Nisaa:102). Di dalam ayat ini adanya keringanan untuk meletakkan senjata saat para pasukan terbebani dengan bawaan, seperti dalam keadaan basah kuyup kehujanan atau karena sakit. Meskipun demikian mereka tetap harus waspada terhadap musuh. Ayat tersebut juga menunjukkan wajibnya menjaga kewaspadaan dari segala bahaya yang akan datang. Dari sinilah difahami bahwa berobat dengan obat dan menjaga diri dari wabah penyakit serta menghindari dari duduk-duduk di bawah dinding yang miring adalah wajib.</q>"
+      },
+      {
+        "page": 4,
+        "text": "<p>2. Pendapat ulama-ulama bahwa sesuatu yang sampai pada perut (aljauf) itu membatalkan puasa jika masuk lewat rongga badan yang terbuka dan sesuatu tersebut dianggap makanan atau minuman, antara lain:</p><p>a. Pendapat Ibnu al-Hammam al-Hanafi dalam kitab Fathu al-Qadir (2/330) bahwa yang membatalkan puasa adalah sesuatu yang masuk lewat rongga yang lazim, seperti mulut, kubul, dan dubur:</p><q>(Ungkapan “Dan jika memakai celak maka tidak membatalkan puasa”) baik tenggorokannya dapat merasakan suatu makanan atau tidak, karena zat yang berada di tenggorokan adalah sisasisa yang masuk lewat pori-pori. Sedangkan yang membatalkan puasa adalah sesuatu yang masuk lewat rongga yang terbuka seperti jalan masuk ke tubuh atau jalur keluar darinya, dan bukan dari pori-pori.</q><q>b. Ungkapan al-Rafi’i yang dinukil oleh al-Nawawi dalam kitab alMajmu’ (6/313) bahwa yang sesuatu yang masuk ke perut dan membatalkan puasa itu dengan syarat masuknya lewat rongga yang terbuka, dengan sengaja, dan dalam keadaan tidak lupa:</q><q>Imam Rafi’i berkata: ulama-ulama Syafiiyah memberikan batasan (dhabit) bahwa sesuatu yang masuk ke perut yang membatalkan puasa adalah sesuatu yang masuk dari luar lewat rongga yang terbuka dengan kesengajaan dan dalam keadaan tidak lupa sedang berpuasa.</q><p>c. Pendapat Imam al-Ramli dalam kitab Nihayah al-Muhtaj ila Syarh al-Minhaj (3/165) bahwa jika sesuatu yang sampai pada perut itu terasa bermanfaat sebagai nutrisi bagi badan (makanan atau minuman), maka itu membatalkan puasa:</p><q>Disyaratkan adanya sesuatu kekuatan di dalam perut yang menghantarkan sseuatu yang masuk menjadi nutrisi ataupun obat. Karena, jika tidak ada yang menghantarkannya, maka badan tidak merasakan adanya nutrisi atau sesuatu yang bermanfaat baginya, maka menyerupai sesuatu yang sampai ke selain perut.</q>"
+      },
+      {
+        "page": 5,
+        "text": "<p>d. Pendapat Ibnu Hajar al-Haitami dalam kitab al-Minhaj al-Qawim Syarh al-Mukoddimah al-Hadramiyah (246) bahwa termasuk yang membatalkan puasa adalah masuknya sesuatu ke saluran perut melalui jalur rongga badan yang terbuka, sedangkan minyak oles, celak, atau air sebab mandi yang masuk lewat poripori tidak membatalkan:</p><q>Rukun keempat, menahan dari masuknya sesuatu ke perut, seperti telinga bagian dalam dan saluran kandung kemih, dengan syarat masuknya lewat rongga badan yang terbuka. Sesuatu yang terserap masuk melalui pori-pori seperti minyak oles, celak, dan sebab air mandi tidak membatalkan puasa.</q><p>e. Pendapat Imam al-Nawawi dalam kitab Raudlatu al-Thalibin wa ‘Umdatu al-Muftin (2/358) bahwa obat yang masuk ke dalam daging tidak membatalkan puasa:</p><q>Jika obat dimasukkan ke dalam daging betis atau dimasukkannya obat melalui pisau sehingga sampai pada otak, maka puasanya tidak batal karena tempat tersebut tidak termasuk bagian dari perut. Jika seseorang mengolesi kepalanya atau perutnya dengan minyak dan minyak tersebut sampai pada rongga perut melalui pori-pori, maka tidak batal puasanya, karena masuknya tidak melalui rongga badan yang terbuka, sebagaimana tidak batal puasa seseorang yang mandi dan menyelam di air, meskipun pengaruh air tersebut sampai pada bagian dalam badannya.</q>"
+      },
+      {
+        "page": 6,
+        "text": "<p>4. Pendapat ulama bahwa termasuk yang membatalkan puasa adalah masuknya sesuatu ke dalam perut (al-jauf) melalui rongga yang terbuka, meskipun yang sampai pada jauf tersebut adalah bukan makanan atau minuman:</p><p>a. Pendapat Imam al-Muzani dalam kitab Mukhtashar al-Muzani (8/154):</p><q>Jika seseorang menelan kerikil, atau sesuatu selain makanan, atau menginjeksi, atau mengobati luka dan obatnya sampai pada perut (jauf), atau meneteskan obat lewat hidung sehingga sampai pada rongga kepala (otak) maka puasanya batal, jika dilakukan dalam keadaan sadar, dan tidak batal jika dilakukan dalam keadan lupa. Jika seseorang istinsyaq (memasukkan air ke dalam hidung dan menghirupnya) dan yakin air tersebut sampai pada rongga kepala (otak), atau saat berkumur airnya sampai pada jauf, serta dilakukan secara sengaja dan sadar maka puasanya batal.</q><p>b. Pendapat al-Mawardi dalam kitab al-Iqna’ fi al-Fiqhi al-Syafi’i (74)</p><q>Bab yang membatalkna puasa. Batalnya puasa seseorang karena sepuluh sebab, di antaranya adalah masuknya sesuatu ke dalam jauf baik bersifat nutrisi atau tidak.</q>"
+      },
+      {
+        "page": 7,
+        "text": "<p>5. Pendapat ulama-ulama tentang batasan al-Jauf :</p><p>a. Pendapat Imam al-Kasani dalam kitab Bada’iu al-Shanai’u fi Tartib al-Syara’i (7/296):</p><q>Jaifah adalah luka akibat tusukan yang sampai pada jauf. Adapun tempat-tempat yang jika ditusuk dapat melukai jauf adalah dada, punggung, dua tulang rusuk, daerah antara kemaluan dan dubur. Hal seperti itu tidak terjadi, jika luka terdapat pada kedua tangan, kedua kaki, tidak pula pada leher dan tenggorokan, karena lukanya tidak sampai pada jauf.</q><p>b. Pendapat Ibnu Hajar al-Haitami dalam kitab al-Minhaj al-Qawim Syarh al-Muqaddimah al-Hadramiyah (246):</p><q>Atau sampainya obat, ke Jauf (perut) yang melalui jalur rongga perut, injeksi, atau obat tetes ke hidung maka membatalkan puasa, sekalipun tidak sampai ke dalam usus atau otak, karena di bagian di belakang pangkal hidung adalah termasuk jauf. Sesungguhnya batal puasa seseorang karena sampainya sesuatu pada bagian dalam tenggorokan. Makhraj huruf Hamzah dan Ha’ adalah bagian bawah tenggorokan, sedangkan makhraj huruf Kho’ dan Kha’ adalah bagian atas tenggorokan. Kemudian mulut bagian dalam sampai pada mahkraj huruf Kha’ atau antar hidung sampai pada ujung pangkal hidung adalah bagian luar (dhahir) yang membatalkan puasa jika mengeluarkan muntah sampai pada tempat tersebut, atau menelan dahak dari tempat tersebut. Dan tidak membatalkan puasa dengan masuknya sesuatu pada tempat tersebut jika dapat menahannya.</q>"
+      },
+      {
+        "page": 8,
+        "text": "<p>c. Penjelasan Abu Bakr bin Muhammad Syatha dalam kitab I’anatu al-Thalibin (2/261):</p><q>(dan tidak membatlkan puasa karena sampainya sesuatu ke dalam batang hidung) karena itu bagian luar hidung dan karena batang hidung adalah bagian dari rongga hidung (khaisyum). Dan semua bagian khaisyum adalah bagian luar dari hidung.</q><q>(sampai melewati ujung khaisyum) jika telah melewati bagian tersebut maka membatalkan puasa. Jika belum melewati batas tersebut maka tidak membatalkan puasa.</q><p>6. Paparan materi dan penjelasan dr. Andriani, M. Biomed dari Dept. Biokimia dan Biologi Molekuler Fakultas Kedokteran - Lab Jejaring Pemeriksaan Covid 19 Rumah Sakit Universitas Tanjungpura Pontianak dalam diskusi yang diadakan oleh Komisi Fatwa MUI pada tanggal 7 April 2021, di antara poin penting sebagai berikut:</p><ul><li>Habitat Covid-19 adalah saluran pernafasan, maka Covid-19 dideteksi melalui belakang hidung (Nasofaring) atau mulut (orofaring).</li><li>Faring adalah nama lain dari tenggorokan dan berperan untuk pernapasan sekaligus pencernaan.</li><li>Nasofaring adalah salah satu bagian pada tenggorokan bagian atas yang terletak di belakang hidung dan di balik langit-langit rongga mulut.</li><li>Orofaring adalah permukaan tonsil atau dinding posterior faring (perbatasan antara mulut dan tenggorokan).</li><li>Bahan yang digunakan untuk mengambil sampel adalah dacron/rayon steril dengan tangkai plastik atau jenis flocked swab (tangkai lebih lentur).</li><li>Swab Nasofaring dilakukan dengan memasukkan dacron/rayon steril secara perlahan ke dalam hidung, dengan memastikan posisi swab pada septum bawah hidung, secara perlahan-lahan ke bagian nasofaring. Kemudian swab dilakukan dengan gerakan memutar secara perlahan. Dan dengan swab yang sama, dilakukan tindakan yang sama pada lubang hidung yang lain, sehingga diperoleh spesimen swab nasofaring dari ke dua lubang hidung.</li></ul>"
+      },
+      {
+        "page": 9,
+        "text": "<ul><li>Swab orofaring dilakukan swab pada lokasi dinding mukosa orofaring (biasanya belakang faring) dan dihindarkan menyentuh bagian lidah.</li></ul><p>7. Fatwa Majelis Ulama Indonesia nomor 13 tahun 2021 tentang Hukum Vaksinasi Covid-19 Saat Berpuasa.</p><p>8. Pendapat, saran, dan masukan yang berkembang dalam Sidang Komisi Fatwa MUI pada tanggal 7 April 2021 bertepatan dengan 24 Sya’ban 1442 H.</p><p>Dengan bertawakal kepada Allah SWT</p><strong>MEMUTUSKAN</strong><strong>FATWA TENTANG HUKUM TES SWAB UNTUK DETEKSI COVID-19 SAAT BERPUASA</strong><strong>Ketentuan Umum</strong><p>Dalam fatwa ini, yang dimaksud dengan:</p><p>Tes Swab adalah pemeriksaan laboratorium untuk mendeteksi keberadaan material genetik dari sel, bakteri, atau virus dengan cara pengambilan sampel dahak, lendir, atau cairan dari nasofaring (bagian pada tenggorokan bagian atas yang terletak di belakang hidung dan di balik langit-langit rongga mulut) dan orofaring (bagian antara mulut dan tenggorokan).</p><strong>Ketentuan Hukum</strong><ul><li>Pelaksaan tes Swab sebagaimana dalam ketentuan umum tidak membatalkan puasa.</li><li>Umat Islam yang sedang berpuasa diperbolehkan melakukan tes Swab untuk deteksi Covid-19.</li></ul><strong>Rekomendasi</strong><ul><li>Masyarakat diimbau untuk mematuhi protokol kesehatan agar selamat dari penularan Covid-19.</li><li>Pemerintah agar melaksanakan dan mengawasi pelaksanaan protokol kesehatan dengan ketat, supaya pandemi Covid-19 segera berkahir.</li></ul>"
+      },
+      {
+        "page": 10,
+        "text": "<strong>Ketentuan Penutup</strong><ul><li>Fatwa ini mulai berlaku pada tanggal ditetapkan, dengan ketentuan jika di kemudian hari ternyata dibutuhkan perbaikan, akan diperbaiki dan disempurnakan sebagaimana mestinya.</li><li>Agar setiap muslim dan pihak-pihak yang memerlukan dapat mengetahuinya, menghimbau semua pihak untuk menyebarluaskan fatwa ini.</li></ul>"
       }
     ]
   }

@@ -31,10 +31,10 @@ zXn = Syariat Sebelum Islam Masihkah Berlaku?
 dW4 = Halalkah Sembelihan Orang yang Sedang Junub?
 x6r = Keridahaan Kedua-belah Pihak
 i5f = Fiqih Pinjam Meminjam (Ariyah)
-1xj = Fatwa Tentang Pemakaian Masker Bagi Orang Yang Sedang Ihram
-H3b = Fatwa Nomor 24 Tahun 2021 tentang Panduan Penyelenggaraan Ibadah di Bulan Ramadhan dan Syawal 1442 H
-LxF
-55a
+1xj = Pemakaian Masker Bagi Orang Yang Sedang Ihram
+H3b = Panduan Penyelenggaraan Ibadah di Bulan Ramadhan dan Syawal 1442 H
+LxF = Produk Vaksin Covid-19 dari Sinovac Life Sciences, Co. Ltd China dan PT Biofarma
+55a = Hukum Tes Swab untuk Deteksi Covid19 Saat Berpuasa
 P1u
 dxi
 pRM
